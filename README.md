@@ -6,6 +6,9 @@ A list of every products in the Google Cloud family described in 4 words or less
 
 Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@gregsramblings](https://twitter.com/gregsramblings)
 
+**Note:** This list only includes products that are publicly accessible today. There are multiple products in various stages of pre-release/private-alpha that will not be included until they go public beta or GA. 
+
+Many of these products have a [free tier](https://cloud.google.com/free/). There is also a [free trial](https://console.cloud.google.com/freetrial) that will enable you try almost everything.
 
 ----------------------------
 ### Compute Products
