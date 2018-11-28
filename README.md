@@ -1,5 +1,6 @@
 # Google Cloud Developer's Cheat Sheet
 by the Google Developer Relations Team
+A listing of all products in the Google Cloud family with descriptions written by other developers
 
 ### Listing of products
 ----------------------------
