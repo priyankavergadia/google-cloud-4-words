@@ -222,19 +222,19 @@ Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gr
 
 ### Additional Resources
 
-**Google Cloud Home Page**: https://cloud.google.com\
-**Google Cloud Blog**: https://cloud.google.com/blog\
-**GCP Medium Publication**: https://medium.com/google-cloud\
-**Apigee Blog**: https://apigee.com/about/blog\
-**Firebase Blog**: https://firebase.googleblog.com\
-**G Suite Developers Blog**: https://gsuite-developers.googleblog.com\
-**Google Cloud Certifications**: https://cloud.google.com/certification\
-**Google Cloud System Status**: https://status.cloud.google.com\
-**Google Cloud Training**: https://cloud.google.com/training\
-**Google Developers Blog**: https://developers.googleblog.com\
-**Google Maps Platform Blog**: https://mapsplatform.googleblog.com\
-**Google Open Source Blog**: https://opensource.googleblog.com\
-**Google Security Blog**: https://security.googleblog.com\
-**Kaggle Home Page**: https://www.kaggle.com\
-**Kubernetes Blog**: https://kubernetes.io/blog\
+**Google Cloud Home Page**: https://cloud.google.com \
+**Google Cloud Blog**: https://cloud.google.com/blog \
+**GCP Medium Publication**: https://medium.com/google-cloud \
+**Apigee Blog**: https://apigee.com/about/blog \
+**Firebase Blog**: https://firebase.googleblog.com \
+**G Suite Developers Blog**: https://gsuite-developers.googleblog.com \
+**Google Cloud Certifications**: https://cloud.google.com/certification \
+**Google Cloud System Status**: https://status.cloud.google.com \
+**Google Cloud Training**: https://cloud.google.com/training \
+**Google Developers Blog**: https://developers.googleblog.com \
+**Google Maps Platform Blog**: https://mapsplatform.googleblog.com \
+**Google Open Source Blog**: https://opensource.googleblog.com \
+**Google Security Blog**: https://security.googleblog.com \
+**Kaggle Home Page**: https://www.kaggle.com \
+**Kubernetes Blog**: https://kubernetes.io/blog \
 **Regions and Network Map**: https://cloud.google.com/about/locations
