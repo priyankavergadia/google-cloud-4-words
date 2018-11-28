@@ -87,7 +87,7 @@ Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gr
 **Access Transparency**: Audit Cloud Provider Access\
 **Binary Authorization**: Kubernetes Deploy-time Security\
 **Cloud Data Loss Prevention API**: Classify and Redact Sensitive Data\
-**Cloud HSM**: Hardware Security Module Service**: 11/10/2018**: NEW\
+**Cloud HSM**: Hardware Security Module Service\
 **Cloud IAM**: Resource Access Control\
 **Cloud Identity**: Manage Users, Devices & Apps\
 **Cloud Identity-Aware Proxy**: Identity-based App Signin\
@@ -95,7 +95,7 @@ Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gr
 **Cloud Resource Manager**: Cloud Project Metadata Management\
 **Cloud Security Scanner**: App Engine Security Scanner\
 **Security Key Enforcement**: Two-step Key Verification\
-**Shielded VMs**: Hardened VMs**: 11/9/2018**: NEW\
+**Shielded VMs**: Hardened VMs\
 **Titan Security Key**: Two-factor Authentication (2FA) Device
 
 ### Management Tools Products
@@ -120,7 +120,7 @@ Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gr
 **Cloud SDK**: CLI for GCP\
 **Cloud Build**: Continuous integration/delivery platform\
 **Cloud Source Repositories**: Hosted Private Git Repos\
-**Cloud Scheduler**: Managed cron job service**: 11/9/2018**: NEW\
+**Cloud Scheduler**: Managed cron job service\
 **Cloud Tools for IntelliJ**: IntelliJ GCP Tools\
 **Cloud Tools for PowerShell**: PowerShell GCP Tools\
 **Cloud Tools for Visual Studio**: Visual Studio GCP Tools\
@@ -159,8 +159,8 @@ Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gr
 **Maps SDK for iOS**: Maps SDK for iOS\
 **Maps Static API**: Web Static Maps\
 **Maps Unity SDK**: Unity SDK for Games\
-**Maps URLs**: URL Scheme for Maps
-**Places API**: Metadata About Places (REST)
+**Maps URLs**: URL Scheme for Maps\
+**Places API**: Metadata About Places (REST)\
 **Places Library, Maps JS API**: Metadata About Places (JavaScript)\
 **Places SDK for Android**: Places SDK for Android\
 **Places SDK for iOS**: Places SDK for iOS\
