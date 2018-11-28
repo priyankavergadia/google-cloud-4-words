@@ -1,9 +1,7 @@
 # Google Cloud Developer's Cheat Sheet
 by the Google Developer Relations Team
 
-### Downloads:
-
-### Listing of each prouduct
+### Listing of products
 ----------------------------
 #### Compute Products
 
