@@ -2,7 +2,7 @@
 by the Google Developer Relations Team
 A listing of all products in the Google Cloud family with descriptions written by other developers
 
-### Listing of products
+### Listing of products (do pull requests here to modify descriptions, add products, etc.)
 ----------------------------
 #### Compute Products
 
