@@ -160,9 +160,7 @@ Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gr
 **Maps Static API**: Web Static Maps\
 **Maps Unity SDK**: Unity SDK for Games\
 **Maps URLs**: URL Scheme for Maps
-
 **Places API**: Metadata About Places (REST)
-
 **Places Library, Maps JS API**: Metadata About Places (JavaScript)\
 **Places SDK for Android**: Places SDK for Android\
 **Places SDK for iOS**: Places SDK for iOS\
