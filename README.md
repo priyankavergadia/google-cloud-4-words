@@ -10,7 +10,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Compute Engine**: Virtual Machines, Disks, Network\
 **App Engine**: Managed App Platform\
 **Kubernetes Engine**: Managed Kubernetes/Containers\
-**Cloud Functions**: Event-driven serverless functions\
+**Cloud Functions**: Event-driven serverless functions
 
 
 ### Storage Products
@@ -19,7 +19,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Nearline**: Archival Occasional Access Storage\
 **Coldline**: Archival Rare Access Storage\
 **Persistent Disk**: VM-attached Disks\
-**Cloud Filestore**: Managed NFS Server\
+**Cloud Filestore**: Managed NFS Server
 
 ### Database Products
 
@@ -28,7 +28,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Cloud Firestore**: Strongly-consistent Serverless Document DB\
 **Cloud Memorystore**: Managed Redis\
 **Cloud Spanner**: Horizontally Scalable Relational DB\
-**Cloud SQL**: Managed MySQL and PostgreSQL\
+**Cloud SQL**: Managed MySQL and PostgreSQL
 
 ### Data and Analytics Products
 
@@ -40,7 +40,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Cloud Pub/Sub**: Global Real-time Messaging\
 **Google BigQuery**: Data Warehouse/Analytics\
 **Google Data Studio**: Collaborative Data Exploration/Dashboarding\
-**Google Genomics**: Managed Genomics Platform\
+**Google Genomics**: Managed Genomics Platform
 
 ### AI and Machine Learning Products
 
@@ -57,7 +57,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Cloud Translation API**: Language Detection and Translation\
 **Cloud Video Intelligence**: Scene-level Video Annotation\
 **Cloud Vision API**: Image Recognition and Classification\
-**Dialogflow Enterprise Edition**: Create Conversational Interfaces\
+**Dialogflow Enterprise Edition**: Create Conversational Interfaces
 
 ### Networking Products
 
@@ -73,7 +73,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **IPsec VPN**: Virtual private network connection\
 **Network Service Tiers**: Price vs Performance Tiering\
 **Network Telemetry**: Network Telemetry Service\
-**Virtual Private Cloud**: Software Defined Networking\
+**Virtual Private Cloud**: Software Defined Networking
 
 ### Internet of Things Products
 
@@ -93,7 +93,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Cloud Security Scanner**: App Engine Security Scanner\
 **Security Key Enforcement**: Two-step Key Verification\
 **Shielded VMs**: Hardened VMs**: 11/9/2018**: NEW\
-**Titan Security Key**: Two-factor Authentication (2FA) Device\
+**Titan Security Key**: Two-factor Authentication (2FA) Device
 
 ### Management Tools Products
 
@@ -110,7 +110,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Stackdriver Monitoring**: Infrastructure and Application Monitoring\
 **Stackdriver Profiler**: CPU and heap profiling\
 **Stackdriver Transparent SLIs**: Monitor GCP Services\
-**Stackdriver Trace**: App Performance Insights\
+**Stackdriver Trace**: App Performance Insights
 
 ### Developer Tools
 
@@ -124,14 +124,14 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Cloud Tools for Eclipse**: Eclipse GCP Tools\
 **Container Registry**: Private Container Registry/Storage\
 **Gradle App Engine Plugin**: Gradle App Engine Plugin\
-**Maven App Engine Plugin**: Maven App Engine Plugin\
+**Maven App Engine Plugin**: Maven App Engine Plugin
 
 ### Migration to GCP
 
 **Google Transfer Appliance**: Rentable Data Transport Box\
 **Cloud Storage Transfer Service**: Cloud to Cloud Transfers\
 **BigQuery Data Transfer Service**: Bulk Import Analytics Data\
-**Velostrata**: Lift-and-shift VM Migration\
+**Velostrata**: Lift-and-shift VM Migration
 
 ### API Platform and Ecosystems
 
@@ -142,7 +142,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Cloud Endpoints**: Cloud API Gateway\
 **Cloud Healthcare API**: Healthcare System GCP Interoperability\
 **Developer Portal**: API Managment Portal\
-**GCP Marketplace**: Partner & Open Source Marketplace\
+**GCP Marketplace**: Partner & Open Source Marketplace
 
 ### Google Maps Platform
 
@@ -156,7 +156,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Maps SDK for iOS**: Maps SDK for iOS\
 **Maps Static API**: Web Static Maps\
 **Maps Unity SDK**: Unity SDK for Games\
-**Maps URLs**: URL Scheme for Maps\
+**Maps URLs**: URL Scheme for Maps
 
 **Places API**: Metadata About Places (REST)
 
@@ -165,7 +165,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Places SDK for iOS**: Places SDK for iOS\
 **Roads API**: Metadata About Roads\
 **Street View API**: Street View API\
-**Time Zone API**: Convert Coordinates to Timezone\
+**Time Zone API**: Convert Coordinates to Timezone
 
 ### G Suite Platform
 
@@ -184,7 +184,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Admin SDK**: Manage G Suite Settings\
 **Email Markup**: Interactive Email using Schema.org\
 **G Suite Marketplace**: Storefront for Integrated Applications\
-**Other G Suite APIs/SDKs**: Contacts, Google+, Tasks, Vault...\
+**Other G Suite APIs/SDKs**: Contacts, Google+, Tasks, Vault...
 
 ### Mobile Products (Firebase)
 
@@ -205,7 +205,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Firebase Remote Config**: Remotely Configure Installed Apps\
 **Firebase Test Lab**: Mobile testing device farm\
 **Google Analytics for Firebase**: Mobile App Analytics\
-**ML Kit for Firebase**: ML Kit for Mobile\
+**ML Kit for Firebase**: ML Kit for Mobile
 
 ### GCP Foundational Open Source Projects
 
@@ -217,7 +217,7 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Kubeflow**: ML Toolkit for Kubernetes\
 **Kubernetes**: Management of containerized applications\
 **OpenCensus**: Cloud Native Observability Framework\
-**TensorFlow**: ML Framework\
+**TensorFlow**: ML Framework
 
 ###Additional Resources
 
@@ -236,4 +236,4 @@ A listing of every products in the Google Cloud family described in 4 words or l
 **Google Security Blog**: https: //security.googleblog.com\
 **Kaggle Home Page**: https: //www.kaggle.com\
 **Kubernetes Blog**: https: //kubernetes.io/blog\
-**Regions and Network Map**: https: //cloud.google.com/about/locations\
+**Regions and Network Map**: https: //cloud.google.com/about/locations
