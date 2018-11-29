@@ -15,7 +15,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 ### Compute Products
 
 * **Compute Engine**: Virtual Machines, Disks, Network [🔗](https://cloud.google.com/compute/)
-* **App Engine**: Managed App Platform
+* **App Engine**: Managed App Platform [🔗] (https://cloud.google.com/appengine/)
 * **Kubernetes Engine**: Managed Kubernetes/Containers
 * **Cloud Functions**: Event-driven serverless functions
 
