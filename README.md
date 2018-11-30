@@ -227,19 +227,19 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ### Additional Resources
 
-* **Google Cloud Home Page**: https://cloud.google.com 
-* **Google Cloud Blog**: https://cloud.google.com/blog 
-* **GCP Medium Publication**: https://medium.com/google-cloud 
-* **Apigee Blog**: https://apigee.com/about/blog 
-* **Firebase Blog**: https://firebase.googleblog.com 
-* **G Suite Developers Blog**: https://gsuite-developers.googleblog.com 
-* **Google Cloud Certifications**: https://cloud.google.com/certification 
-* **Google Cloud System Status**: https://status.cloud.google.com 
-* **Google Cloud Training**: https://cloud.google.com/training 
-* **Google Developers Blog**: https://developers.googleblog.com 
-* **Google Maps Platform Blog**: https://mapsplatform.googleblog.com 
-* **Google Open Source Blog**: https://opensource.googleblog.com 
-* **Google Security Blog**: https://security.googleblog.com 
-* **Kaggle Home Page**: https://www.kaggle.com 
-* **Kubernetes Blog**: https://kubernetes.io/blog 
-* **Regions and Network Map**: https://cloud.google.com/about/locations
+* **Google Cloud Home Page**: [<sup>:link:</sup>](https://cloud.google.com)
+* **Google Cloud Blog**: [<sup>:link:</sup>](https://cloud.google.com/blog)
+* **GCP Medium Publication**: [<sup>:link:</sup>](https://medium.com/google-cloud)
+* **Apigee Blog**: [<sup>:link:</sup>](https://apigee.com/about/blog)
+* **Firebase Blog**: [<sup>:link:</sup>](https://firebase.googleblog.com)
+* **G Suite Developers Blog**: [<sup>:link:</sup>](https://gsuite-developers.googleblog.com)
+* **Google Cloud Certifications**: [<sup>:link:</sup>](https://cloud.google.com/certification)
+* **Google Cloud System Status**: [<sup>:link:</sup>](https://status.cloud.google.com)
+* **Google Cloud Training**: [<sup>:link:</sup>](https://cloud.google.com/training)
+* **Google Developers Blog**: [<sup>:link:</sup>](https://developers.googleblog.com) 
+* **Google Maps Platform Blog**: [<sup>:link:</sup>](https://mapsplatform.googleblog.com)
+* **Google Open Source Blog**: [<sup>:link:</sup>](https://opensource.googleblog.com)
+* **Google Security Blog**: [<sup>:link:</sup>](https://security.googleblog.com)
+* **Kaggle Home Page**: [<sup>:link:</sup>](https://www.kaggle.com) 
+* **Kubernetes Blog**: [<sup>:link:</sup>](https://kubernetes.io/blog)
+* **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
