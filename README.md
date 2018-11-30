@@ -4,7 +4,7 @@ by the Google Developer Relations Team
 A list of every products in the Google Cloud family described in 4 words or less (well, mostly).\
 Formats include a poster (PDF), trifold-brochure (PDF), images (PNG), and the list below.\
 
-Do you have suggestions for better descriptions? Do you see a missing product? Pull requests accepted (please modify this README.md).
+Do you have suggestions for better descriptions? Do you see a missing product? Pull requests encouraged on this file.
 
 Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@gregsramblings](https://twitter.com/gregsramblings)
 
