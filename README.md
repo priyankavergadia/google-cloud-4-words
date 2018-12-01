@@ -9,17 +9,17 @@ A list of every product in the Google Cloud family described in 4 words or less.
 |
 [Tri-fold Brochure PDF](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Brochure.pdf)
 |
-[High resolution PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-hires.png)
+[High-resolution PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-hires.png)
 |
-[Medium res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png)
+[Medium-res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png)
 |
-[Low res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-lowres.png)
+[Low-res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-lowres.png)
 
 Do you have suggestions for better descriptions? Missing products? Pull requests encouraged on this file.
 
 Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@gregsramblings](https://twitter.com/gregsramblings)
 
-**Note:** This list only includes products that are publicly available. There are multiple products in various stages of pre-release/private-alpha that will not be included until they go public beta or GA.
+**Note:** This list only includes products that are publicly available. There are several products in pre-release/private-alpha that will not be included until they go public beta or GA.
 
 Many of these products have a [free tier](https://cloud.google.com/free/). There is also a [free trial](https://console.cloud.google.com/freetrial) that will enable you try almost everything.
 
