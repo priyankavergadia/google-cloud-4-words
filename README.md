@@ -1,8 +1,18 @@
 # The Google Cloud Developer's Cheat Sheet
-by the Google Developer Relations Team
+by the Google Developer Relations Team\
+A list of every product in the Google Cloud family described in 4 words or less.\
 
-A list of every products in the Google Cloud family described in 4 words or less (well, mostly).\
-Formats include a poster (PDF), trifold-brochure (PDF), images (PNG), and the list below.\
+<a target="_blank" href="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster.pdf"><img border="0" alt="Poster.pdf" src="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"></a>
+
+[Poster PDF](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster.pdf)
+|
+[Tri-fold Brochure PDF](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Brochure.pdf)
+|
+[High resolution PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-hires.png)
+|
+[Medium res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png)
+|
+[Low res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-lowres.png)
 
 Do you have suggestions for better descriptions? Do you see a missing product? Pull requests encouraged on this file.
 
