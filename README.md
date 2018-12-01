@@ -1,6 +1,7 @@
 # The Google Cloud Developer's Cheat Sheet
 by the Google Developer Relations Team\
-A list of every product in the Google Cloud family described in 4 words or less.\
+A list of every product in the Google Cloud family described in 4 words or less.
+
 
 <a target="_blank" href="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster.pdf"><img border="0" alt="Poster.pdf" src="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"></a>
 
@@ -14,11 +15,11 @@ A list of every product in the Google Cloud family described in 4 words or less.
 |
 [Low res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-lowres.png)
 
-Do you have suggestions for better descriptions? Do you see a missing product? Pull requests encouraged on this file.
+Do you have suggestions for better descriptions? Missing products? Pull requests encouraged on this file.
 
 Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@gregsramblings](https://twitter.com/gregsramblings)
 
-**Note:** This list only includes products that are publicly accessible today. There are multiple products in various stages of pre-release/private-alpha that will not be included until they go public beta or GA. 
+**Note:** This list only includes products that are publicly available. There are multiple products in various stages of pre-release/private-alpha that will not be included until they go public beta or GA.
 
 Many of these products have a [free tier](https://cloud.google.com/free/). There is also a [free trial](https://console.cloud.google.com/freetrial) that will enable you try almost everything.
 
