@@ -3,7 +3,7 @@ by the Google Developer Relations Team\
 A list of every product in the Google Cloud family described in 4 words or less.
 
 
-<a target="_blank" href="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster.pdf"><img border="0" alt="Poster.pdf" src="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"></a>
+<a target="_blank" href="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"><img border="0" alt="Poster Image" src="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"></a>
 
 [Poster PDF](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster.pdf)
 |
