@@ -257,3 +257,5 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Kaggle Home Page**: [<sup>:link:</sup>](https://www.kaggle.com) 
 * **Kubernetes Blog**: [<sup>:link:</sup>](https://kubernetes.io/blog)
 * **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
+* **GCP Pricing**: [<sup>:link:</sup>](https://cloud.google.com/pricing/)
+* **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
