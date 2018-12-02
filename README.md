@@ -12,7 +12,7 @@ A list of every product in the Google Cloud family described in 4 words or less.
 |
 [Low-res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-lowres.png)
 |
-[Text](#compute-products)
+[Text](#all-products)
 
 Do you have suggestions for better descriptions? Missing products? Pull requests are welcome to README.md (this file).
 
@@ -23,8 +23,9 @@ Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gr
 Many of these products have a [free tier](https://cloud.google.com/free/). There is also a [free trial](https://console.cloud.google.com/freetrial) that will enable you try almost everything.
 
 ----------------------------
+# All Products
 
-### Compute Products
+#### Compute Products
 
 * **Compute Engine**: Virtual Machines, Disks, Network [<sup>:link:</sup>](https://cloud.google.com/compute/)
 * **App Engine**: Managed App Platform [<sup>:link:</sup>](https://cloud.google.com/appengine/)
@@ -32,7 +33,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/)
  
  
-### Storage Products 
+#### Storage Products 
  
 * **Cloud Storage**: Object Storage and Serving [<sup>:link:</sup>](https://cloud.google.com/storage/)
 * **Nearline**: Archival Occasional Access Storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/)
@@ -49,7 +50,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Spanner**: Horizontally Scalable Relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/)
 * **Cloud SQL**: Managed MySQL and PostgreSQL [<sup>:link:</sup>](https://cloud.google.com/sql/)
  
-### Data and Analytics Products 
+#### Data and Analytics Products 
  
 * **Cloud Composer**: Managed Workflow Orchestration Service [<sup>:link:</sup>](https://cloud.google.com/composer/)
 * **Cloud Dataflow**: Stream/batch data processing [<sup>:link:</sup>](https://cloud.google.com/dataflow/)
@@ -61,7 +62,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Data Studio**: Collaborative Data Exploration/Dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview)
 * **Google Genomics**: Managed Genomics Platform [<sup>:link:</sup>](https://cloud.google.com/genomics/)
  
-### AI and Machine Learning Products 
+#### AI and Machine Learning Products 
  
 * **Cloud AutoML Natural Language**: Custom text classification models [<sup>:link:</sup>](https://cloud.google.com/natural-language/)
 * **Cloud AutoML Translate**: Custom domain-specific translation [<sup>:link:</sup>](https://cloud.google.com/translate/)
@@ -78,7 +79,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Vision API**: Image Recognition and Classification [<sup>:link:</sup>](https://cloud.google.com/vision/)
 * **Dialogflow Enterprise Edition**: Create Conversational Interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/)
  
-### Networking Products 
+#### Networking Products 
  
 * **Carrier Peering**: Peer with a carrier [<sup>:link:</sup>](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)
 * **Direct Peering**: Peer with GCP [<sup>:link:</sup>](https://cloud.google.com/interconnect/docs/how-to/direct-peering)
@@ -94,11 +95,11 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Network Telemetry**: Network Telemetry Service [<sup>:link:</sup>](https://cloud.google.com/network-telemetry/)
 * **Virtual Private Cloud**: Software Defined Networking [<sup>:link:</sup>](https://cloud.google.com/vpc/)
  
-### Internet of Things Products 
+#### Internet of Things Products 
  
 * **Cloud IoT Core**: Device Management and ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/)
  
-### Identity and Security Products 
+#### Identity and Security Products 
  
 * **Access Transparency**: Audit Cloud Provider Access [<sup>:link:</sup>](https://cloud.google.com/access-transparency/)
 * **Binary Authorization**: Kubernetes Deploy-time Security [<sup>:link:</sup>](https://cloud.google.com/binary-authorization/)
@@ -114,7 +115,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/)
 * **Titan Security Key**: Two-factor Authentication (2FA) Device [<sup>:link:</sup>](https://cloud.google.com/titan-security-key/)
  
-### Management Tools Products 
+#### Management Tools Products 
  
 * **Cloud APIs**: APIs for Cloud Services [<sup>:link:</sup>](https://cloud.google.com/apis/)
 * **Cloud Billing**: Billing and Cost Management Tools [<sup>:link:</sup>](https://cloud.google.com/billing/docs/)
@@ -131,7 +132,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Stackdriver Transparent SLIs**: Monitor GCP Services [<sup>:link:</sup>](https://cloud.google.com/transparent-sli/)
 * **Stackdriver Trace**: App Performance Insights [<sup>:link:</sup>](https://cloud.google.com/trace/)
  
-### Developer Tools 
+#### Developer Tools 
  
 * **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/)
 * **Cloud Build**: Continuous integration/delivery platform [<sup>:link:</sup>](https://cloud.google.com/cloud-build/)
@@ -145,14 +146,14 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Gradle App Engine Plugin**: Gradle App Engine Plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-gradle-plugin)
 * **Maven App Engine Plugin**: Maven App Engine Plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-maven-plugin)
  
-### Migration to GCP 
+#### Migration to GCP 
  
 * **Google Transfer Appliance**: Rentable Data Transport Box [<sup>:link:</sup>](https://cloud.google.com/transfer-appliance/)
 * **Cloud Storage Transfer Service**: Cloud to Cloud Transfers [<sup>:link:</sup>](https://cloud.google.com/storage/transfer/)
 * **BigQuery Data Transfer Service**: Bulk Import Analytics Data [<sup>:link:</sup>](https://cloud.google.com/bigquery/transfer/)
 * **Velostrata**: Lift-and-shift VM Migration [<sup>:link:</sup>](velostrata.com)
  
-### API Platform and Ecosystems 
+#### API Platform and Ecosystems 
  
 * **API Analytics**: API Metrics [<sup>:link:</sup>](https://cloud.google.com/api-analytics/)
 * **API Monetization**: Monetize APIs [<sup>:link:</sup>](https://cloud.google.com/api-monetization/)
@@ -163,7 +164,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Developer Portal**: API Managment Portal [<sup>:link:</sup>](https://cloud.google.com/developer-portal/)
 * **GCP Marketplace**: Partner & Open Source Marketplace [<sup>:link:</sup>](https://cloud.google.com/marketplace/)
  
-### Google Maps Platform 
+#### Google Maps Platform 
  
 * **Directions API**: Get Directions Between Locations [<sup>:link:</sup>](https://developers.google.com/maps/documentation/directions/)
 * **Distance Matrix API**: Calculate Travel Times [<sup>:link:</sup>](https://developers.google.com/maps/documentation/distance-matrix/intro)
@@ -184,7 +185,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Street View API**: Street View API [<sup>:link:</sup>](https://developers.google.com/maps/documentation/streetview/)
 * **Time Zone API**: Convert Coordinates to Timezone [<sup>:link:</sup>](https://developers.google.com/maps/documentation/timezone/)
  
-### G Suite Platform 
+#### G Suite Platform 
  
 * **App Maker**: Assistive App Building [<sup>:link:</sup>](https://developers.google.com/appmaker/)
 * **Apps Script**: Extend and Automate Everything [<sup>:link:</sup>](https://developers.google.com/apps-script/)
@@ -203,7 +204,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **G Suite Marketplace**: Storefront for Integrated Applications [<sup>:link:</sup>](https://developers.google.com/gsuite/marketplace/)
 * **Other G Suite APIs/SDKs**: Contacts, Google+, Tasks, Vault... [<sup>:link:</sup>](https://developers.google.com/gsuite/products)
  
-### Mobile Products (Firebase) 
+#### Mobile Products (Firebase) 
  
 * **Cloud Firestore**: Document Store and Sync [<sup>:link:</sup>](https://firebase.google.com/products/firestore/)
 * **Cloud Functions for Firebase**: Event-driven Serverless Applications [<sup>:link:</sup>](https://firebase.google.com/products/functions/)
@@ -224,7 +225,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Analytics for Firebase**: Mobile App Analytics [<sup>:link:</sup>](https://firebase.google.com/products/analytics/)
 * **ML Kit for Firebase**: ML Kit for Mobile [<sup>:link:</sup>](https://firebase.google.com/products/ml-kit/)
  
-### GCP Foundational Open Source Projects 
+#### GCP Foundational Open Source Projects 
  
 * **Apache Beam**: Batch/Streaming Data Processing [<sup>:link:</sup>](https://beam.apache.org/)
 * **gRPC**: RPC Framework [<sup>:link:</sup>](https://grpc.io/)
@@ -236,7 +237,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **OpenCensus**: Cloud Native Observability Framework [<sup>:link:</sup>](https://opencensus.io/)
 * **TensorFlow**: ML Framework [<sup>:link:</sup>](https://www.tensorflow.org/)
 
-### Additional Resources
+#### Additional Resources
 
 * **Google Cloud Home Page**: [<sup>:link:</sup>](https://cloud.google.com)
 * **Google Cloud Blog**: [<sup>:link:</sup>](https://cloud.google.com/blog)
