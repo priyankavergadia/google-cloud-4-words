@@ -24,137 +24,139 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ----------------------------
 # All Products
+<sup>:link:-Product page</sup>
+<sup>:page_facing_up:-Documentation</sup>
 
 #### Compute Products
 
-* **Compute Engine**: Virtual Machines, Disks, Network [<sup>:link:</sup>](https://cloud.google.com/compute/)
-* **App Engine**: Managed App Platform [<sup>:link:</sup>](https://cloud.google.com/appengine/)
-* **Kubernetes Engine**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/)
-* **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/)
- 
- 
-#### Storage Products 
- 
-* **Cloud Storage**: Object Storage and Serving [<sup>:link:</sup>](https://cloud.google.com/storage/)
-* **Nearline**: Archival Occasional Access Storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/)
-* **Coldline**: Archival Rare Access Storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/)
-* **Persistent Disk**: VM-attached Disks [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/)
-* **Cloud Filestore**: Managed NFS Server [<sup>:link:</sup>](https://cloud.google.com/filestore/)
- 
-### Database Products 
- 
-* **Cloud Bigtable**: Petabyte-scale, low-latency nonrelational [<sup>:link:</sup>](https://cloud.google.com/bigtable/)
-* **Cloud Datastore**: Horizontally Scalable Document DB [<sup>:link:</sup>](https://cloud.google.com/datastore/)
-* **Cloud Firestore**: Strongly-consistent Serverless Document DB [<sup>:link:</sup>](https://cloud.google.com/firestore/)
-* **Cloud Memorystore**: Managed Redis [<sup>:link:</sup>](https://cloud.google.com/memorystore/)
-* **Cloud Spanner**: Horizontally Scalable Relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/)
-* **Cloud SQL**: Managed MySQL and PostgreSQL [<sup>:link:</sup>](https://cloud.google.com/sql/)
- 
-#### Data and Analytics Products 
- 
-* **Cloud Composer**: Managed Workflow Orchestration Service [<sup>:link:</sup>](https://cloud.google.com/composer/)
-* **Cloud Dataflow**: Stream/batch data processing [<sup>:link:</sup>](https://cloud.google.com/dataflow/)
-* **Cloud Datalab**: Managed Jupyter Notebook [<sup>:link:</sup>](https://cloud.google.com/datalab/)
-* **Cloud Dataprep**: Visual data wrangling [<sup>:link:</sup>](https://cloud.google.com/dataprep/)
-* **Cloud Dataproc**: Managed Spark and Hadoop [<sup>:link:</sup>](https://cloud.google.com/dataproc/)
-* **Cloud Pub/Sub**: Global Real-time Messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/)
-* **Google BigQuery**: Data Warehouse/Analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/)
-* **Google Data Studio**: Collaborative Data Exploration/Dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview)
-* **Google Genomics**: Managed Genomics Platform [<sup>:link:</sup>](https://cloud.google.com/genomics/)
- 
-#### AI and Machine Learning Products 
- 
-* **Cloud AutoML Natural Language**: Custom text classification models [<sup>:link:</sup>](https://cloud.google.com/natural-language/)
-* **Cloud AutoML Translate**: Custom domain-specific translation [<sup>:link:</sup>](https://cloud.google.com/translate/)
-* **Cloud AutoML Vision**: Custom image classification models [<sup>:link:</sup>](https://cloud.google.com/automl/)
-* **Cloud Job Discovery**: Job Search with ML [<sup>:link:</sup>](https://cloud.google.com/job-discovery/)
-* **Cloud Deep Learning VM Image**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/)
-* **Cloud Machine Learning Engine**: Managed Platform for ML [<sup>:link:</sup>](https://cloud.google.com/ml-engine/)
-* **Cloud Natural Language**: Text Parsing and Analysis [<sup>:link:</sup>](https://cloud.google.com/natural-language/)
-* **Cloud Speech-To-Text**: Convert Audio to Text [<sup>:link:</sup>](https://cloud.google.com/speech/)
-* **Cloud Text-To-Speech**: Convert Text to Audio [<sup>:link:</sup>](https://cloud.google.com/text-to-speech/)
-* **Cloud TPU**: Specialized Hardware for ML [<sup>:link:</sup>](https://cloud.google.com/tpu/)
-* **Cloud Translation API**: Language Detection and Translation [<sup>:link:</sup>](https://cloud.google.com/translate/)
-* **Cloud Video Intelligence**: Scene-level Video Annotation [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/)
-* **Cloud Vision API**: Image Recognition and Classification [<sup>:link:</sup>](https://cloud.google.com/vision/)
-* **Dialogflow Enterprise Edition**: Create Conversational Interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/)
- 
-#### Networking Products 
- 
-* **Carrier Peering**: Peer with a carrier [<sup>:link:</sup>](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)
-* **Direct Peering**: Peer with GCP [<sup>:link:</sup>](https://cloud.google.com/interconnect/docs/how-to/direct-peering)
-* **Dedicated Interconnect**: Dedicated private network connection [<sup>:link:</sup>](https://cloud.google.com/interconnect/docs/details/dedicated)
-* **Partner Interconnect**: Connect on-premises network to VPC [<sup>:link:</sup>](https://cloud.google.com/interconnect/docs/concepts/partner-overview)
-* **Cloud Armor**: DDoS Protection [<sup>:link:</sup>](https://cloud.google.com/armor/)
-* **Cloud CDN**: Content Delivery Network [<sup>:link:</sup>](https://cloud.google.com/cdn/)
-* **Cloud DNS**: Programmable DNS Serving [<sup>:link:</sup>](https://cloud.google.com/dns/)
-* **Cloud Load Balancing**: Multi-region Load Distribution [<sup>:link:</sup>](https://cloud.google.com/load-balancing/)
-* **Cloud NAT**: Network Address Translation Service [<sup>:link:</sup>](https://cloud.google.com/nat/docs/overview/)
-* **IPsec VPN**: Virtual private network connection [<sup>:link:</sup>](https://cloud.google.com/compute/docs/vpn/overview)
-* **Network Service Tiers**: Price vs Performance Tiering [<sup>:link:</sup>](https://cloud.google.com/network-tiers/)
-* **Network Telemetry**: Network Telemetry Service [<sup>:link:</sup>](https://cloud.google.com/network-telemetry/)
-* **Virtual Private Cloud**: Software Defined Networking [<sup>:link:</sup>](https://cloud.google.com/vpc/)
- 
-#### Internet of Things Products 
- 
-* **Cloud IoT Core**: Device Management and ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/)
- 
-#### Identity and Security Products 
- 
-* **Access Transparency**: Audit Cloud Provider Access [<sup>:link:</sup>](https://cloud.google.com/access-transparency/)
-* **Binary Authorization**: Kubernetes Deploy-time Security [<sup>:link:</sup>](https://cloud.google.com/binary-authorization/)
-* **Cloud Data Loss Prevention API**: Classify and Redact Sensitive Data [<sup>:link:</sup>](https://cloud.google.com/dlp/)
-* **Cloud HSM**: Hardware Security Module Service [<sup>:link:</sup>](https://cloud.google.com/hsm/)
-* **Cloud IAM**: Resource Access Control [<sup>:link:</sup>](https://cloud.google.com/iam/)
-* **Cloud Identity**: Manage Users, Devices & Apps [<sup>:link:</sup>](https://cloud.google.com/identity/)
-* **Cloud Identity-Aware Proxy**: Identity-based App Signin [<sup>:link:</sup>](https://cloud.google.com/iap/)
-* **Cloud Key Management Service**: Hosted Key Management Service [<sup>:link:</sup>](https://cloud.google.com/kms/)
-* **Cloud Resource Manager**: Cloud Project Metadata Management [<sup>:link:</sup>](https://cloud.google.com/resource-manager/)
-* **Cloud Security Scanner**: App Engine Security Scanner [<sup>:link:</sup>](https://cloud.google.com/security-scanner/)
+* **Compute Engine**: Virtual Machines, Disks, Network [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
+* **App Engine**: Managed App Platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
+* **Kubernetes Engine**: Managed Kubernetes/Containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
+* **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
+  
+  
+#### Storage Products  
+  
+* **Cloud Storage**: Object Storage and Serving [<sup>:link:</sup>](https://cloud.google.com/storage/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
+* **Nearline**: Archival Occasional Access Storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
+* **Coldline**: Archival Rare Access Storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
+* **Persistent Disk**: VM-attached Disks [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/)
+* **Cloud Filestore**: Managed NFS Server [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
+  
+#### Database Products  
+  
+* **Cloud Bigtable**: Petabyte-scale, low-latency nonrelational [<sup>:link:</sup>](https://cloud.google.com/bigtable/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigtable/docs/)
+* **Cloud Datastore**: Horizontally Scalable Document DB [<sup>:link:</sup>](https://cloud.google.com/datastore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datastore/docs/)
+* **Cloud Firestore**: Strongly-consistent Serverless Document DB [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
+* **Cloud Memorystore**: Managed Redis [<sup>:link:</sup>](https://cloud.google.com/memorystore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/memorystore/docs/)
+* **Cloud Spanner**: Horizontally Scalable Relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
+* **Cloud SQL**: Managed MySQL and PostgreSQL [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
+  
+#### Data and Analytics Products  
+  
+* **Cloud Composer**: Managed Workflow Orchestration Service [<sup>:link:</sup>](https://cloud.google.com/composer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/composer/docs/)
+* **Cloud Dataflow**: Stream/batch data processing [<sup>:link:</sup>](https://cloud.google.com/dataflow/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataflow/docs/)
+* **Cloud Datalab**: Managed Jupyter Notebook [<sup>:link:</sup>](https://cloud.google.com/datalab/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datalab/docs/)
+* **Cloud Dataprep**: Visual data wrangling [<sup>:link:</sup>](https://cloud.google.com/dataprep/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataprep/docs/)
+* **Cloud Dataproc**: Managed Spark and Hadoop [<sup>:link:</sup>](https://cloud.google.com/dataproc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataproc/docs/)
+* **Cloud Pub/Sub**: Global Real-time Messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs/)
+* **Google BigQuery**: Data Warehouse/Analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
+* **Google Data Studio**: Collaborative Data Exploration/Dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
+* **Google Genomics**: Managed Genomics Platform [<sup>:link:</sup>](https://cloud.google.com/genomics/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/genomics/docs/)
+  
+#### AI and Machine Learning Products  
+  
+* **Cloud AutoML Natural Language**: Custom text classification models [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
+* **Cloud AutoML Translate**: Custom domain-specific translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
+* **Cloud AutoML Vision**: Custom image classification models [<sup>:link:</sup>](https://cloud.google.com/automl/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl/docs/)
+* **Cloud Job Discovery**: Job Search with ML [<sup>:link:</sup>](https://cloud.google.com/job-discovery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/job-discovery/docs/)
+* **Cloud Deep Learning VM Image**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
+* **Cloud Machine Learning Engine**: Managed Platform for ML [<sup>:link:</sup>](https://cloud.google.com/ml-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/)
+* **Cloud Natural Language**: Text Parsing and Analysis [<sup>:link:</sup>](https://cloud.google.com/natural-language/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/docs/)
+* **Cloud Speech-To-Text**: Convert Audio to Text [<sup>:link:</sup>](https://cloud.google.com/speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/speech/docs/)
+* **Cloud Text-To-Speech**: Convert Text to Audio [<sup>:link:</sup>](https://cloud.google.com/text-to-speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/text-to-speech/docs/)
+* **Cloud TPU**: Specialized Hardware for ML [<sup>:link:</sup>](https://cloud.google.com/tpu/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tpu/docs/)
+* **Cloud Translation API**: Language Detection and Translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
+* **Cloud Video Intelligence**: Scene-level Video Annotation [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/docs/)
+* **Cloud Vision API**: Image Recognition and Classification [<sup>:link:</sup>](https://cloud.google.com/vision/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/docs/)
+* **Dialogflow Enterprise Edition**: Create Conversational Interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dialogflow-enterprise/docs/)
+  
+#### Networking Products  
+  
+* **Carrier Peering**: Peer with a carrier [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)
+* **Direct Peering**: Peer with GCP [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/direct-peering)
+* **Dedicated Interconnect**: Dedicated private network connection [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/details/dedicated)
+* **Partner Interconnect**: Connect on-premises network to VPC [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/concepts/partner-overview)
+* **Cloud Armor**: DDoS Protection [<sup>:link:</sup>](https://cloud.google.com/armor/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/armor/docs/)
+* **Cloud CDN**: Content Delivery Network [<sup>:link:</sup>](https://cloud.google.com/cdn/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cdn/docs/)
+* **Cloud DNS**: Programmable DNS Serving [<sup>:link:</sup>](https://cloud.google.com/dns/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dns/docs/)
+* **Cloud Load Balancing**: Multi-region Load Distribution [<sup>:link:</sup>](https://cloud.google.com/load-balancing/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/load-balancing/docs/)
+* **Cloud NAT**: Network Address Translation Service [<sup>:page_facing_up:</sup>](https://cloud.google.com/nat/docs/overview/)
+* **IPsec VPN**: Virtual private network connection [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/vpn/overview)
+* **Network Service Tiers**: Price vs Performance Tiering [<sup>:link:</sup>](https://cloud.google.com/network-tiers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-tiers/docs/)
+* **Network Telemetry**: Network Telemetry Service [<sup>:link:</sup>](https://cloud.google.com/network-telemetry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/using-flow-logs/)
+* **Virtual Private Cloud**: Software Defined Networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
+  
+#### Internet of Things Products  
+  
+* **Cloud IoT Core**: Device Management and ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iot-core/docs/)
+  
+#### Identity and Security Products  
+  
+* **Access Transparency**: Audit Cloud Provider Access [<sup>:link:</sup>](https://cloud.google.com/access-transparency/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/access-transparency-overview/)
+* **Binary Authorization**: Kubernetes Deploy-time Security [<sup>:link:</sup>](https://cloud.google.com/binary-authorization/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/binary-authorization/docs/)
+* **Cloud Data Loss Prevention API**: Classify and Redact Sensitive Data [<sup>:link:</sup>](https://cloud.google.com/dlp/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dlp/docs/)
+* **Cloud HSM**: Hardware Security Module Service [<sup>:link:</sup>](https://cloud.google.com/hsm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/hsm/)
+* **Cloud IAM**: Resource Access Control [<sup>:link:</sup>](https://cloud.google.com/iam/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iam/docs/)
+* **Cloud Identity**: Manage Users, Devices & Apps [<sup>:link:</sup>](https://cloud.google.com/identity/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/identity/solutions/overview/)
+* **Cloud Identity-Aware Proxy**: Identity-based App Signin [<sup>:link:</sup>](https://cloud.google.com/iap/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/)
+* **Cloud Key Management Service**: Hosted Key Management Service [<sup>:link:</sup>](https://cloud.google.com/kms/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/)
+* **Cloud Resource Manager**: Cloud Project Metadata Management [<sup>:link:</sup>](https://cloud.google.com/resource-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/resource-manager/docs/)
+* **Cloud Security Scanner**: App Engine Security Scanner [<sup>:link:</sup>](https://cloud.google.com/security-scanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-scanner/docs/)
 * **Security Key Enforcement**: Two-step Key Verification [<sup>:link:</sup>](https://cloud.google.com/security-key/)
-* **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/)
+* **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
 * **Titan Security Key**: Two-factor Authentication (2FA) Device [<sup>:link:</sup>](https://cloud.google.com/titan-security-key/)
- 
-#### Management Tools Products 
- 
-* **Cloud APIs**: APIs for Cloud Services [<sup>:link:</sup>](https://cloud.google.com/apis/)
-* **Cloud Billing**: Billing and Cost Management Tools [<sup>:link:</sup>](https://cloud.google.com/billing/docs/)
-* **Cloud Billing API**: Programmatically Manage GCP Billing [<sup>:link:</sup>](https://cloud.google.com/billing/docs/)
+  
+#### Management Tools Products  
+  
+* **Cloud APIs**: APIs for Cloud Services [<sup>:link:</sup>](https://cloud.google.com/apis/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/)
+* **Cloud Billing**: Billing and Cost Management Tools [<sup>:link:</sup>](https://cloud.google.com/billing/docs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/billing/docs/docs/)
+* **Cloud Billing API**: Programmatically Manage GCP Billing [<sup>:page_facing_up:</sup>](https://cloud.google.com/billing/docs/)
 * **Cloud Console**: Web-based Management Console [<sup>:link:</sup>](https://cloud.google.com/cloud-console/)
-* **Cloud Deployment Manager**: Templated Infrastructure Deployment [<sup>:link:</sup>](https://cloud.google.com/deployment-manager/)
+* **Cloud Deployment Manager**: Templated Infrastructure Deployment [<sup>:link:</sup>](https://cloud.google.com/deployment-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deployment-manager/docs/)
 * **Cloud Mobile App**: iOS/Android GCP Manager App [<sup>:link:</sup>](https://cloud.google.com/console-app/)
-* **Cloud Shell**: Browser-based Terminal/CLI [<sup>:link:</sup>](https://cloud.google.com/shell/)
-* **Stackdriver Debugger**: Live Production Debugging [<sup>:link:</sup>](https://cloud.google.com/debugger/)
-* **Stackdriver Error Reporting**: App Error Reporting [<sup>:link:</sup>](https://cloud.google.com/error-reporting/)
-* **Stackdriver Logging**: Centralized Logging [<sup>:link:</sup>](https://cloud.google.com/logging/)
-* **Stackdriver Monitoring**: Infrastructure and Application Monitoring [<sup>:link:</sup>](https://cloud.google.com/monitoring/)
-* **Stackdriver Profiler**: CPU and heap profiling [<sup>:link:</sup>](https://cloud.google.com/profiler/)
-* **Stackdriver Transparent SLIs**: Monitor GCP Services [<sup>:link:</sup>](https://cloud.google.com/transparent-sli/)
-* **Stackdriver Trace**: App Performance Insights [<sup>:link:</sup>](https://cloud.google.com/trace/)
- 
-#### Developer Tools 
- 
-* **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/)
-* **Cloud Build**: Continuous integration/delivery platform [<sup>:link:</sup>](https://cloud.google.com/cloud-build/)
-* **Cloud Source Repositories**: Hosted Private Git Repos [<sup>:link:</sup>](https://cloud.google.com/source-repositories/)
-* **Cloud Scheduler**: Managed cron job service [<sup>:link:</sup>](https://cloud.google.com/scheduler/)
+* **Cloud Shell**: Browser-based Terminal/CLI [<sup>:link:</sup>](https://cloud.google.com/shell/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/shell/docs/)
+* **Stackdriver Debugger**: Live Production Debugging [<sup>:link:</sup>](https://cloud.google.com/debugger/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/debugger/docs/)
+* **Stackdriver Error Reporting**: App Error Reporting [<sup>:link:</sup>](https://cloud.google.com/error-reporting/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/error-reporting/docs/)
+* **Stackdriver Logging**: Centralized Logging [<sup>:link:</sup>](https://cloud.google.com/logging/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/)
+* **Stackdriver Monitoring**: Infrastructure and Application Monitoring [<sup>:link:</sup>](https://cloud.google.com/monitoring/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/monitoring/docs/)
+* **Stackdriver Profiler**: CPU and heap profiling [<sup>:link:</sup>](https://cloud.google.com/profiler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/profiler/docs/)
+* **Stackdriver Transparent SLIs**: Monitor GCP Services [<sup>:link:</sup>](https://cloud.google.com/transparent-sli/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/monitoring/)
+* **Stackdriver Trace**: App Performance Insights [<sup>:link:</sup>](https://cloud.google.com/trace/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
+  
+#### Developer Tools  
+  
+* **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sdk/docs/)
+* **Cloud Build**: Continuous integration/delivery platform [<sup>:link:</sup>](https://cloud.google.com/cloud-build/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cloud-build/docs/)
+* **Cloud Source Repositories**: Hosted Private Git Repos [<sup>:link:</sup>](https://cloud.google.com/source-repositories/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/source-repositories/docs/)
+* **Cloud Scheduler**: Managed cron job service [<sup>:link:</sup>](https://cloud.google.com/scheduler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/scheduler/docs/)
 * **Cloud Tools for IntelliJ**: IntelliJ GCP Tools [<sup>:link:</sup>](https://cloud.google.com/intellij/)
 * **Cloud Tools for PowerShell**: PowerShell GCP Tools [<sup>:link:</sup>](https://cloud.google.com/powershell/)
 * **Cloud Tools for Visual Studio**: Visual Studio GCP Tools [<sup>:link:</sup>](https://cloud.google.com/visual-studio/)
 * **Cloud Tools for Eclipse**: Eclipse GCP Tools [<sup>:link:</sup>](https://cloud.google.com/eclipse/docs/)
-* **Container Registry**: Private Container Registry/Storage [<sup>:link:</sup>](https://cloud.google.com/container-registry/)
+* **Container Registry**: Private Container Registry/Storage [<sup>:link:</sup>](https://cloud.google.com/container-registry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/container-registry/docs/)
 * **Gradle App Engine Plugin**: Gradle App Engine Plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-gradle-plugin)
 * **Maven App Engine Plugin**: Maven App Engine Plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-maven-plugin)
- 
-#### Migration to GCP 
- 
-* **Google Transfer Appliance**: Rentable Data Transport Box [<sup>:link:</sup>](https://cloud.google.com/transfer-appliance/)
-* **Cloud Storage Transfer Service**: Cloud to Cloud Transfers [<sup>:link:</sup>](https://cloud.google.com/storage/transfer/)
-* **BigQuery Data Transfer Service**: Bulk Import Analytics Data [<sup>:link:</sup>](https://cloud.google.com/bigquery/transfer/)
-* **Velostrata**: Lift-and-shift VM Migration [<sup>:link:</sup>](velostrata.com)
- 
-#### API Platform and Ecosystems 
- 
+  
+#### Migration to GCP  
+  
+* **Google Transfer Appliance**: Rentable Data Transport Box [<sup>:link:</sup>](https://cloud.google.com/transfer-appliance/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/transfer-appliance/docs/)
+* **Cloud Storage Transfer Service**: Cloud to Cloud Transfers [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/transfer/)
+* **BigQuery Data Transfer Service**: Bulk Import Analytics Data [<sup>:link:</sup>](https://cloud.google.com/bigquery/transfer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/transfer/docs/)
+* **Velostrata**: Lift-and-shift VM Migration [<sup>:link:</sup>](https://cloud.google.com/velostrata/) [<sup>:page_facing_up:</sup>](http://docs.velostrata.com/)
+  
+#### API Platform and Ecosystems  
+  
 * **API Analytics**: API Metrics [<sup>:link:</sup>](https://cloud.google.com/api-analytics/)
 * **API Monetization**: Monetize APIs [<sup>:link:</sup>](https://cloud.google.com/api-monetization/)
 * **Apigee API Platform**: Develop, secure, monitor APIs [<sup>:link:</sup>](https://cloud.google.com/apigee-api-management/)
@@ -163,9 +165,9 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Healthcare API**: Healthcare System GCP Interoperability [<sup>:link:</sup>](https://cloud.google.com/healthcare-api/)
 * **Developer Portal**: API Managment Portal [<sup>:link:</sup>](https://cloud.google.com/developer-portal/)
 * **GCP Marketplace**: Partner & Open Source Marketplace [<sup>:link:</sup>](https://cloud.google.com/marketplace/)
- 
-#### Google Maps Platform 
- 
+  
+#### Google Maps Platform  
+  
 * **Directions API**: Get Directions Between Locations [<sup>:link:</sup>](https://developers.google.com/maps/documentation/directions/)
 * **Distance Matrix API**: Calculate Travel Times [<sup>:link:</sup>](https://developers.google.com/maps/documentation/distance-matrix/intro)
 * **Geocoding API**: Convert Address to/from Coordinates [<sup>:link:</sup>](https://developers.google.com/maps/documentation/geocoding/)
@@ -184,9 +186,9 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Roads API**: Metadata About Roads [<sup>:link:</sup>](https://developers.google.com/maps/documentation/roads/)
 * **Street View API**: Street View API [<sup>:link:</sup>](https://developers.google.com/maps/documentation/streetview/)
 * **Time Zone API**: Convert Coordinates to Timezone [<sup>:link:</sup>](https://developers.google.com/maps/documentation/timezone/)
- 
-#### G Suite Platform 
- 
+  
+#### G Suite Platform  
+  
 * **App Maker**: Assistive App Building [<sup>:link:</sup>](https://developers.google.com/appmaker/)
 * **Apps Script**: Extend and Automate Everything [<sup>:link:</sup>](https://developers.google.com/apps-script/)
 * **Editor Add-ons**: Extend Docs, Sheets, Slides [<sup>:link:</sup>](https://developers.google.com/gsuite/add-ons/overview)
@@ -203,9 +205,9 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Email Markup**: Interactive Email using Schema.org [<sup>:link:</sup>](https://developers.google.com/gmail/markup/)
 * **G Suite Marketplace**: Storefront for Integrated Applications [<sup>:link:</sup>](https://developers.google.com/gsuite/marketplace/)
 * **Other G Suite APIs/SDKs**: Contacts, Google+, Tasks, Vault... [<sup>:link:</sup>](https://developers.google.com/gsuite/products)
- 
-#### Mobile Products (Firebase) 
- 
+  
+#### Mobile Products (Firebase)  
+  
 * **Cloud Firestore**: Document Store and Sync [<sup>:link:</sup>](https://firebase.google.com/products/firestore/)
 * **Cloud Functions for Firebase**: Event-driven Serverless Applications [<sup>:link:</sup>](https://firebase.google.com/products/functions/)
 * **Cloud Storage for Firebase**: Object Storage and Serving [<sup>:link:</sup>](https://firebase.google.com/products/storage/)
@@ -224,9 +226,9 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Firebase Test Lab**: Mobile testing device farm [<sup>:link:</sup>](https://firebase.google.com/docs/test-lab/)
 * **Google Analytics for Firebase**: Mobile App Analytics [<sup>:link:</sup>](https://firebase.google.com/products/analytics/)
 * **ML Kit for Firebase**: ML Kit for Mobile [<sup>:link:</sup>](https://firebase.google.com/products/ml-kit/)
- 
-#### GCP Foundational Open Source Projects 
- 
+  
+#### GCP Foundational Open Source Projects  
+  
 * **Apache Beam**: Batch/Streaming Data Processing [<sup>:link:</sup>](https://beam.apache.org/)
 * **gRPC**: RPC Framework [<sup>:link:</sup>](https://grpc.io/)
 * **gVisor**: Secure Container Runtime [<sup>:link:</sup>](https://github.com/google/gvisor)
