@@ -1,7 +1,7 @@
 # The Google Cloud Developer's Cheat Sheet
 by the Google Developer Relations Team\
 A list of every product in the Google Cloud family described in 4 words or less.\
-<a target="_blank" href="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"><img border="1" alt="Poster Image" src="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"></a>\
+<a target="_blank" href="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"><img border="0" alt="Poster Image" src="https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png"></a>\
 [Poster PDF](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster.pdf)
 |
 [Tri-fold Brochure PDF](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Brochure.pdf)
@@ -11,8 +11,10 @@ A list of every product in the Google Cloud family described in 4 words or less.
 [Medium-res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-medres.png)
 |
 [Low-res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-lowres.png)
+|
+[Text](#compute-products)
 
-Do you have suggestions for better descriptions? Missing products? Pull requests encouraged on this file.
+Do you have suggestions for better descriptions? Missing products? Pull requests are welcome to README.md (this file).
 
 Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@gregsramblings](https://twitter.com/gregsramblings)
 
