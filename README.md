@@ -261,3 +261,13 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
 * **Qwiklabs Home Page**:[<sup>:link:</sup>](https://www.qwiklabs.com/home?locale=en)
 * **Codelabs Home Page**:[<sup>:link:</sup>](https://codelabs.developers.google.com/)
+
+#### Certifications
+
+* **Associate Cloud Engineer**:[<sup>:link:</sup>](https://cloud.google.com/certification/cloud-engineer)
+* **Professional Cloud Architect**:[<sup>:link:</sup>](https://cloud.google.com/certification/cloud-architect)
+* **Professional Data Engineer**:[<sup>:link:</sup>](https://cloud.google.com/certification/data-engineer)
+* **Professional Cloud Developer**:[<sup>:link:</sup>](https://cloud.google.com/certification/cloud-developer)
+* **G Suite**:[<sup>:link:</sup>](https://cloud.google.com/certification/gsuite)
+
+
