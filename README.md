@@ -267,6 +267,13 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Developer's YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
 * **GCP Podcast**:[<sup>:link:</sup>](https://gcppodcast.com/)
 * **Kubernetes Podcast**:[<sup>:link:</sup>](https://kubernetespodcast.com/)
+* **Reddit**:
+  * **/r/googlecloud**: [<sup>:link:</sup>](https://www.reddit.com/r/googlecloud/)
+  * **/r/AppEngine**: [<sup>:link:</sup>](https://www.reddit.com/r/AppEngine/)
+  * **/r/bigquery**: [<sup>:link:</sup>](https://www.reddit.com/r/bigquery/)
+  * **/r/dataflow**: [<sup>:link:</sup>](https://www.reddit.com/r/dataflow/)
+  * **/r/firebase**: [<sup>:link:</sup>](https://www.reddit.com/r/dataflow/)
+
 
 #### Certifications
 
