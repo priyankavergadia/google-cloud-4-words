@@ -83,11 +83,11 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   
 #### Networking Products  
   
-* **Carrier Peering**: Peer with a carrier [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)
+* **Carrier Peering**: Peer through a carrier [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)
 * **Direct Peering**: Peer with GCP [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/direct-peering)
 * **Dedicated Interconnect**: Dedicated private network connection [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/details/dedicated)
 * **Partner Interconnect**: Connect on-premises network to VPC [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/concepts/partner-overview)
-* **Cloud Armor**: DDoS Protection [<sup>:link:</sup>](https://cloud.google.com/armor/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/armor/docs/)
+* **Cloud Armor**: DDoS Protection and WAF [<sup>:link:</sup>](https://cloud.google.com/armor/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/armor/docs/)
 * **Cloud CDN**: Content Delivery Network [<sup>:link:</sup>](https://cloud.google.com/cdn/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cdn/docs/)
 * **Cloud DNS**: Programmable DNS Serving [<sup>:link:</sup>](https://cloud.google.com/dns/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dns/docs/)
 * **Cloud Load Balancing**: Multi-region Load Distribution [<sup>:link:</sup>](https://cloud.google.com/load-balancing/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/load-balancing/docs/)
