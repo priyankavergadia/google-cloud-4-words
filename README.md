@@ -12,7 +12,7 @@ A list of every product in the Google Cloud family described in 4 words or less\
 |
 [Low-res PNG](https://github.com/gregsramblings/google-cloud-4-words/raw/master/Poster-lowres.png)
 |
-[Text](#all-products)
+[Text (w/links)](#all-products)
 
 Do you have suggestions for better descriptions? Missing products? Pull requests are welcome on README.md (this file).
 
