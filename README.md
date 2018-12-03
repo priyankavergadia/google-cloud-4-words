@@ -261,6 +261,12 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
 * **Qwiklabs Home Page**:[<sup>:link:</sup>](https://www.qwiklabs.com/home?locale=en)
 * **Codelabs Home Page**:[<sup>:link:</sup>](https://codelabs.developers.google.com/)
+* **Google Cloud YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)
+* **GCP YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/googlecloudplatform)
+* **Google Developer's YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/GoogleDevelopers)
+* **Google Developer's YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
+* **GCP Podcast**:[<sup>:link:</sup>](https://gcppodcast.com/)
+* **Kubernetes Podcast**:[<sup>:link:</sup>](https://kubernetespodcast.com/)
 
 #### Certifications
 
@@ -269,5 +275,3 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Professional Data Engineer**:[<sup>:link:</sup>](https://cloud.google.com/certification/data-engineer)
 * **Professional Cloud Developer**:[<sup>:link:</sup>](https://cloud.google.com/certification/cloud-developer)
 * **G Suite**:[<sup>:link:</sup>](https://cloud.google.com/certification/gsuite)
-
-
