@@ -259,3 +259,5 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
 * **GCP Pricing**: [<sup>:link:</sup>](https://cloud.google.com/pricing/)
 * **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
+* **Qwiklabs Home Page**:[<sup>:link:</sup>](https://www.qwiklabs.com/home?locale=en)
+* **Codelabs Home Page**:[<sup>:link:</sup>](https://codelabs.developers.google.com/)
