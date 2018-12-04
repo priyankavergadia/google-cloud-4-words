@@ -257,6 +257,14 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Kaggle Home Page**: [<sup>:link:</sup>](https://www.kaggle.com) 
 * **Kubernetes Blog**: [<sup>:link:</sup>](https://kubernetes.io/blog)
 * **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
+
+----------------------------
+##### Everything below is not included in the PDFs/PNGs due to space limitations
+
+----------------------------
+
+#### Additional Resources
+
 * **GCP Pricing**: [<sup>:link:</sup>](https://cloud.google.com/pricing/)
 * **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
 * **Qwiklabs Home Page**:[<sup>:link:</sup>](https://www.qwiklabs.com/home?locale=en)
@@ -282,3 +290,21 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Professional Data Engineer**:[<sup>:link:</sup>](https://cloud.google.com/certification/data-engineer)
 * **Professional Cloud Developer**:[<sup>:link:</sup>](https://cloud.google.com/certification/cloud-developer)
 * **G Suite**:[<sup>:link:</sup>](https://cloud.google.com/certification/gsuite)
+
+#### Platform Comparisons
+
+* **Google Cloud Platform for AWS Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/aws/)
+* **Google Cloud Platform for Azure Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/azure/)
+* **Google Cloud Platform for Data Center Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/data-centers/)
+* **Google Cloud Platform for OpenStack Users**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/openstack/)
+
+#### Language Specific Documentation
+
+* **Java**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/java/docs/)
+* **Node.js**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/nodejs/docs/)
+* **Python**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/python/docs/)
+* **Go**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/go/docs/)
+* **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
+* **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
+* **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
+
