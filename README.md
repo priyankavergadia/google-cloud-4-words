@@ -269,12 +269,14 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
 * **Qwiklabs Home Page**:[<sup>:link:</sup>](https://www.qwiklabs.com/home?locale=en)
 * **Codelabs Home Page**:[<sup>:link:</sup>](https://codelabs.developers.google.com/)
-* **Google Cloud YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)
-* **GCP YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/googlecloudplatform)
-* **Google Developer's YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/GoogleDevelopers)
-* **Firebase YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
-* **GCP Podcast**:[<sup>:link:</sup>](https://gcppodcast.com/)
-* **Kubernetes Podcast**:[<sup>:link:</sup>](https://kubernetespodcast.com/)
+* **YouTube Channels**:
+  * **Google Cloud YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)
+  * **GCP YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/googlecloudplatform)
+  * **Google Developer's YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/GoogleDevelopers)
+  * **Firebase YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
+* **Podcasts**:
+  * **GCP Podcast**:[<sup>:link:</sup>](https://gcppodcast.com/)
+  * **Kubernetes Podcast**:[<sup>:link:</sup>](https://kubernetespodcast.com/)
 * **Reddit**:
   * **/r/googlecloud**: [<sup>:link:</sup>](https://www.reddit.com/r/googlecloud/)
   * **/r/AppEngine**: [<sup>:link:</sup>](https://www.reddit.com/r/AppEngine/)
