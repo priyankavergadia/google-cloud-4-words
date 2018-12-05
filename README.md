@@ -282,7 +282,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   * **/r/AppEngine**: [<sup>:link:</sup>](https://www.reddit.com/r/AppEngine/)
   * **/r/bigquery**: [<sup>:link:</sup>](https://www.reddit.com/r/bigquery/)
   * **/r/dataflow**: [<sup>:link:</sup>](https://www.reddit.com/r/dataflow/)
-  * **/r/firebase**: [<sup>:link:</sup>](https://www.reddit.com/r/dataflow/)
+  * **/r/firebase**: [<sup>:link:</sup>](https://www.reddit.com/r/firebase/)
 
 
 #### Certifications
