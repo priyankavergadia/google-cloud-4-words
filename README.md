@@ -272,7 +272,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Cloud YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)
 * **GCP YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/googlecloudplatform)
 * **Google Developer's YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/GoogleDevelopers)
-* **Google Developer's YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
+* **Firebase YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
 * **GCP Podcast**:[<sup>:link:</sup>](https://gcppodcast.com/)
 * **Kubernetes Podcast**:[<sup>:link:</sup>](https://kubernetespodcast.com/)
 * **Reddit**:
