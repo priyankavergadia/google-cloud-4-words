@@ -201,7 +201,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Sheets API**: Read and Write Spreadsheets [<sup>:link:</sup>](https://developers.google.com/sheets/api/)
 * **Slides API**: Create and Edit Presentations [<sup>:link:</sup>](https://developers.google.com/slides/)
 * **Drive Picker**: Drive File Selection Widget [<sup>:link:</sup>](https://developers.google.com/picker/)
-* **Admin SDK**: Manage G Suite Settings [<sup>:link:</sup>](https://developers.google.com/admin-sdk)
+* **Admin SDK**: Manage G Suite Resources [<sup>:link:</sup>](https://developers.google.com/admin-sdk)
 * **Email Markup**: Interactive Email using Schema.org [<sup>:link:</sup>](https://developers.google.com/gmail/markup/)
 * **G Suite Marketplace**: Storefront for Integrated Applications [<sup>:link:</sup>](https://developers.google.com/gsuite/marketplace/)
 * **Other G Suite APIs/SDKs**: Contacts, Google+, Tasks, Vault... [<sup>:link:</sup>](https://developers.google.com/gsuite/products)
