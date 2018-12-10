@@ -225,7 +225,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Firebase Remote Config**: Remotely Configure Installed Apps [<sup>:link:</sup>](https://firebase.google.com/docs/remote-config/)
 * **Firebase Test Lab**: Mobile testing device farm [<sup>:link:</sup>](https://firebase.google.com/docs/test-lab/)
 * **Google Analytics for Firebase**: Mobile App Analytics [<sup>:link:</sup>](https://firebase.google.com/products/analytics/)
-* **ML Kit for Firebase**: ML Kit for Mobile [<sup>:link:</sup>](https://firebase.google.com/products/ml-kit/)
+* **ML Kit for Firebase**: ML APIs for Mobile [<sup>:link:</sup>](https://firebase.google.com/products/ml-kit/)
   
 #### GCP Foundational Open Source Projects  
   
