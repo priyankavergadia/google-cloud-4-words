@@ -113,6 +113,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Key Management Service**: Hosted Key Management Service [<sup>:link:</sup>](https://cloud.google.com/kms/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/)
 * **Cloud Resource Manager**: Cloud Project Metadata Management [<sup>:link:</sup>](https://cloud.google.com/resource-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/resource-manager/docs/)
 * **Cloud Security Scanner**: App Engine Security Scanner [<sup>:link:</sup>](https://cloud.google.com/security-scanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-scanner/docs/)
+* **Cloud Security Command Center**: Asset inventory, discovery, search, management [<sup>:link:</sup>](https://cloud.google.com/security-command-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-command-center/docs/)
 * **Security Key Enforcement**: Two-step Key Verification [<sup>:link:</sup>](https://cloud.google.com/security-key/)
 * **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
 * **Titan Security Key**: Two-factor Authentication (2FA) Device [<sup>:link:</sup>](https://cloud.google.com/titan-security-key/)
