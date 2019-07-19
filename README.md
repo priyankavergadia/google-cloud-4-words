@@ -2,17 +2,28 @@
 Every product in the Google Cloud family described in <=4 words (with liberal use of hyphens and slashes :smirk:)\
 by the Google Developer Relations Team\
 <a target="_blank" href="Poster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="Poster-lowres.png"></a>\
+White background:
 [Poster PDF](Poster.pdf)
 |
-[Tri-fold Brochure PDF](Brochure.pdf)
+[Brochure PDF](Brochure.pdf)
 |
 [High-resolution PNG](Poster-hires.png)
 |
 [Medium-res PNG](Poster-medres.png)
 |
-[Low-res PNG](Poster-lowres.png)
+[Low-res PNG](Poster-lowres.png)\
+Dark background:
+[Poster PDF](DarkPoster.pdf)
 |
-[Text (w/links)](#all-products)
+[Brochure PDF](DarkBrochure.pdf)
+|
+[High-resolution PNG](DarkPoster-hires.png)
+|
+[Medium-res PNG](DarkPoster-medres.png)
+|
+[Low-res PNG](DarkPoster-lowres.png)
+
+Text descriptions with links are below
 
 Suggestions for better descriptions? Missing products? Pull requests are welcome on README.md (this file).
 
