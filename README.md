@@ -47,7 +47,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Run :new:**: Serverless for containerized applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Compute Engine**: VMs, GPUs, TPUs, Disks [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
 * **Kubernetes Engine (GKE)**: Managed Kubernetes/containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
-* **GKE On-Prem :new:**: Run GKE clusters anywhere [<sup>:link:</sup>](https://cloud.google.com/gke-on-prem/)
 * **Anthos :new:**: Enterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
    
 ### Storage
