@@ -21,7 +21,8 @@ Dark background:
 |
 [Medium-res PNG](DarkPoster-medres.png)
 |
-[Low-res PNG](DarkPoster-lowres.png)
+[Low-res PNG](DarkPoster-lowres.png)\
+Desktop Wallpaper (Wallpaper.png) | Desktop Wallpaper Wide (Wallpaper-wide.png)
 
 Text descriptions with links are below
 
