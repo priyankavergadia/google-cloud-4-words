@@ -21,8 +21,9 @@ Dark background:
 |
 [Medium-res PNG](DarkPoster-medres.png)
 |
-[Low-res PNG](DarkPoster-lowres.png)\
-Desktop Wallpaper (Wallpaper.png) | Desktop Wallpaper Wide (Wallpaper-wide.png)
+[Low-res PNG](DarkPoster-lowres.png)
+
+Desktop Wallpapers: [16:9 ratio (iMac)](Wallpaper-16-9.png) | [16:10 ratio (Macbook Pro)](Wallpaper-16-10.png) | [4:3 ratio (Thinkpad)](Wallpaper-4-3.png) | [3:2 ratio (Chromebook Pixel)](Wallpaper-3-2.png)
 
 Text descriptions with links are below
 
