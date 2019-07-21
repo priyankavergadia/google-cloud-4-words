@@ -23,7 +23,7 @@ Dark background:
 |
 [Low-res PNG](DarkPoster-lowres.png)
 
-Desktop Wallpapers: [16:9 ratio (iMac)](Wallpaper-16-9.png) | [16:10 ratio (Macbook Pro)](Wallpaper-16-10.png) | [4:3 ratio (Thinkpad)](Wallpaper-4-3.png) | [3:2 ratio (Chromebook Pixel)](Wallpaper-3-2.png)
+Desktop Wallpapers: [16:9 ratio (iMac, etc.)](Wallpaper-16-9.png) | [16:10 ratio (Macbook Pro)](Wallpaper-16-10.png) | [4:3 ratio (Older computers)](Wallpaper-4-3.png) | [3:2 ratio (Pixelbook)](Wallpaper-3-2.png)
 
 Text descriptions with links are below
 
