@@ -1,0 +1,1270 @@
+[
+    {
+        "categoryName": "Compute",
+        "color": "blue",
+        "products": [
+            {
+                "name": "App Engine",
+                "description": "Managed app platform",
+                "href": "https://cloud.google.com/appengine/",
+                "docs": "https://cloud.google.com/appengine/docs/"
+            },
+            {
+                "name": "Cloud Functions",
+                "description": "Event-driven serverless functions",
+                "href": "https://cloud.google.com/functions/",
+                "docs": "https://cloud.google.com/functions/docs/"
+            },
+            {
+                "name": "Cloud Run",
+                "description": "Serverless for containerized applications",
+                "href": "https://cloud.google.com/run/",
+                "docs": "https://cloud.google.com/run/docs/"
+            },
+            {
+                "name": "Compute Engine",
+                "description": "VMs, GPUs, TPUs, Disks",
+                "href": "https://cloud.google.com/compute/",
+                "docs": "https://cloud.google.com/compute/docs/"
+            },
+            {
+                "name": "Kubernetes Engine (GKE)",
+                "description": "Managed Kubernetes/containers",
+                "href": "https://cloud.google.com/kubernetes-engine/",
+                "docs": "https://cloud.google.com/kubernetes-engine/docs/"
+            },
+            {
+                "name": "Anthos",
+                "description": "Enterprise hybrid/multi-cloud platform",
+                "href": "https://cloud.google.com/anthos/",
+                "docs": "https://cloud.google.com/anthos/docs/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Storage",
+        "color": "yellow",
+        "products": [
+            {
+                "name": "Cloud Storage",
+                "description": "Object storage and serving",
+                "href": "https://cloud.google.com/storage/",
+                "docs": "https://cloud.google.com/storage/docs/"
+            },
+            {
+                "name": "Nearline",
+                "description": "Archival occasional access storage",
+                "href": "https://cloud.google.com/storage/archival/",
+                "docs": "https://cloud.google.com/storage/docs/"
+            },
+            {
+                "name": "Coldline",
+                "description": "Archival rare access storage",
+                "href": "https://cloud.google.com/storage/archival/",
+                "docs": "https://cloud.google.com/storage/docs/"
+            },
+            {
+                "name": "Persistent Disk",
+                "description": "VM-attached disks",
+                "href": "https://cloud.google.com/persistent-disk/",
+                "docs": "https://cloud.google.com/compute/docs/disks/"
+            },
+            {
+                "name": "Cloud Filestore",
+                "description": "Managed NFS server",
+                "href": "https://cloud.google.com/filestore/",
+                "docs": "https://cloud.google.com/filestore/docs/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Database",
+        "color": "red",
+        "products": [
+            {
+                "name": "Cloud Bigtable",
+                "description": "Petabyte-scale, low-latency, non-relational",
+                "href": "https://cloud.google.com/bigtable/",
+                "docs": "https://cloud.google.com/bigtable/docs/"
+            },
+            {
+                "name": "Cloud Datastore",
+                "description": "Horizontally scalable document DB",
+                "href": "https://cloud.google.com/datastore/",
+                "docs": "https://cloud.google.com/datastore/docs/"
+            },
+            {
+                "name": "Cloud Firestore",
+                "description": "Strongly-consistent serverless document DB",
+                "href": "https://cloud.google.com/firestore/",
+                "docs": "https://cloud.google.com/firestore/docs/"
+            },
+            {
+                "name": "Cloud Memorystore",
+                "description": "Managed Redis",
+                "href": "https://cloud.google.com/memorystore/",
+                "docs": "https://cloud.google.com/memorystore/docs/"
+            },
+            {
+                "name": "Cloud Spanner",
+                "description": "Horizontally scalable relational DB",
+                "href": "https://cloud.google.com/spanner/",
+                "docs": "https://cloud.google.com/spanner/docs/"
+            },
+            {
+                "name": "Cloud SQL",
+                "description": "Managed MySQL and PostgreSQL",
+                "href": "https://cloud.google.com/sql/",
+                "docs": "https://cloud.google.com/sql/docs/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Data and Analytics",
+        "color": "green",
+        "products": [
+            {
+                "name": "BigQuery",
+                "description": "Data warehouse/analytics",
+                "href": "https://cloud.google.com/bigquery/",
+                "docs": "https://cloud.google.com/bigquery/docs/"
+            },
+            {
+                "name": "BigQuery BI Engine",
+                "description": "In-memory analytics engine",
+                "href": "https://cloud.google.com/bi-engine/docs/"
+            },
+            {
+                "name": "BigQuery ML",
+                "description": "BigQuery model training/serving",
+                "href": "https://cloud.google.com/bigquery-ml/docs/"
+            },
+            {
+                "name": "Cloud Composer",
+                "description": "Managed workflow orchestration service",
+                "href": "https://cloud.google.com/composer/",
+                "docs": "https://cloud.google.com/composer/docs/"
+            },
+            {
+                "name": "Cloud Data Fusion",
+                "description": "Graphically manage data pipelines",
+                "href": "https://cloud.google.com/data-fusion/",
+                "docs": "https://cloud.google.com/data-fusion/docs/"
+            },
+            {
+                "name": "Cloud Dataflow",
+                "description": "Stream/batch data processing",
+                "href": "https://cloud.google.com/dataflow/",
+                "docs": "https://cloud.google.com/dataflow/docs/"
+            },
+            {
+                "name": "Cloud Datalab",
+                "description": "Managed Jupyter notebook",
+                "href": "https://cloud.google.com/datalab/",
+                "docs": "https://cloud.google.com/datalab/docs/"
+            },
+            {
+                "name": "Cloud Dataprep",
+                "description": "Visual data wrangling",
+                "href": "https://cloud.google.com/dataprep/",
+                "docs": "https://cloud.google.com/dataprep/docs/"
+            },
+            {
+                "name": "Cloud Dataproc",
+                "description": "Managed Spark and Hadoop",
+                "href": "https://cloud.google.com/dataproc/",
+                "docs": "https://cloud.google.com/dataproc/docs/"
+            },
+            {
+                "name": "Cloud Pub/Sub",
+                "description": "Global real-time messaging",
+                "href": "https://cloud.google.com/pubsub/",
+                "docs": "https://cloud.google.com/pubsub/docs/"
+            },
+            {
+                "name": "Data Catalog",
+                "description": "Metadata management service",
+                "href": "https://cloud.google.com/data-catalog/",
+                "docs": "https://cloud.google.com/data-catalog/docs/"
+            },
+            {
+                "name": "Data Studio",
+                "description": "Collaborative data exploration/dashboarding",
+                "href": "https://datastudio.google.com/overview",
+                "docs": "https://datastudio.google.com/overviewdocs/"
+            },
+            {
+                "name": "Genomics",
+                "description": "Managed genomics platform",
+                "href": "https://cloud.google.com/genomics/",
+                "docs": "https://cloud.google.com/genomics/docs/"
+            }
+        ]
+    },
+    {
+        "categoryName": "AI/ML",
+        "color": "blue",
+        "products": [
+            {
+                "name": "AI Hub",
+                "description": "Hosted AI component sharing",
+                "href": "https://cloud.google.com/ai-hub/",
+                "docs": "https://cloud.google.com/ai-hub/docs/"
+            },
+            {
+                "name": "AI Platform",
+                "description": "Managed platform for ML",
+                "href": "https://cloud.google.com/ai-platform/",
+                "docs": "https://cloud.google.com/ml-engine/docs/"
+            },
+            {
+                "name": "AI Platform Data Labeling",
+                "description": "Data labeling by humans",
+                "href": "https://cloud.google.com/data-labeling/docs/"
+            },
+            {
+                "name": "AI Platform Deep Learning VMs",
+                "description": "Preconfigured VMs for deep learning",
+                "href": "https://cloud.google.com/deep-learning-vm/",
+                "docs": "https://cloud.google.com/deep-learning-vm/docs/"
+            },
+            {
+                "name": "AI Platform Notebooks",
+                "description": "Managed JupyterLab notebook instances",
+                "href": "https://cloud.google.com/ai-platform-notebooks/",
+                "docs": "https://cloud.google.com/ml-engine/docs/notebooks/"
+            },
+            {
+                "name": "AI Platform Training",
+                "description": "Parallel and distributed training",
+                "href": "https://cloud.google.com/ml-engine/docs/tensorflow/training-overview"
+            },
+            {
+                "name": "AI Platform Predictions",
+                "description": "Autoscaled model serving",
+                "href": "https://cloud.google.com/ml-engine/docs/tensorflow/prediction-overview"
+            },
+            {
+                "name": "AutoML Natural Language",
+                "description": "Custom text models",
+                "href": "https://cloud.google.com/natural-language/automl/docs/"
+            },
+            {
+                "name": "AutoML Tables",
+                "description": "Custom structured data models",
+                "href": "https://cloud.google.com/automl-tables/",
+                "docs": "https://cloud.google.com/automl-tables/docs/"
+            },
+            {
+                "name": "AutoML Translation",
+                "description": "Custom domain-specific translation",
+                "href": "https://cloud.google.com/translate/",
+                "docs": "https://cloud.google.com/translate/docs/"
+            },
+            {
+                "name": "AutoML Video Intelligence",
+                "description": "Custom video annotation models",
+                "href": "https://cloud.google.com/video-intelligence/",
+                "docs": "https://cloud.google.com/video-intelligence/automl/docs/"
+            },
+            {
+                "name": "AutoML Vision",
+                "description": "Custom image models",
+                "href": "https://cloud.google.com/automl/",
+                "docs": "https://cloud.google.com/automl/docs/"
+            },
+            {
+                "name": "Cloud AI Building Blocks",
+                "description": "Hosted AI component repository",
+                "href": "https://cloud.google.com/ai-hub/",
+                "docs": "https://cloud.google.com/ai-hub/docs/"
+            },
+            {
+                "name": "Cloud Natural Language API",
+                "description": "Text parsing and analysis",
+                "href": "https://cloud.google.com/natural-language/",
+                "docs": "https://cloud.google.com/natural-language/docs/"
+            },
+            {
+                "name": "Cloud Speech-To-Text API",
+                "description": "Convert audio to text",
+                "href": "https://cloud.google.com/speech/",
+                "docs": "https://cloud.google.com/speech/docs/"
+            },
+            {
+                "name": "Cloud Talent Solutions API",
+                "description": "Job search with ML",
+                "href": "https://cloud.google.com/job-discovery/",
+                "docs": "https://cloud.google.com/job-discovery/docs/"
+            },
+            {
+                "name": "Cloud Text-To-Speech API",
+                "description": "Convert text to audio",
+                "href": "https://cloud.google.com/text-to-speech/",
+                "docs": "https://cloud.google.com/text-to-speech/docs/"
+            },
+            {
+                "name": "Cloud Translation API",
+                "description": "Language detection and translation",
+                "href": "https://cloud.google.com/translate/",
+                "docs": "https://cloud.google.com/translate/docs/"
+            },
+            {
+                "name": "Cloud Video Intelligence API",
+                "description": "Scene-level video annotation",
+                "href": "https://cloud.google.com/video-intelligence/",
+                "docs": "https://cloud.google.com/video-intelligence/docs/"
+            },
+            {
+                "name": "Cloud Vision API",
+                "description": "Image recognition and classification",
+                "href": "https://cloud.google.com/vision/",
+                "docs": "https://cloud.google.com/vision/docs/"
+            },
+            {
+                "name": "Cloud TPU",
+                "description": "Hardware acceleration for ML",
+                "href": "https://cloud.google.com/tpu/",
+                "docs": "https://cloud.google.com/tpu/docs/"
+            },
+            {
+                "name": "Dialogflow Enterprise Edition",
+                "description": "Create conversational interfaces",
+                "href": "https://cloud.google.com/dialogflow-enterprise/",
+                "docs": "https://cloud.google.com/dialogflow-enterprise/docs/"
+            },
+            {
+                "name": "Document Understanding AI",
+                "description": "Analyze, classify, search documents",
+                "href": "https://cloud.google.com/solutions/document-understanding/",
+                "docs": "https://cloud.google.com/document-understanding/docs/"
+            },
+            {
+                "name": "Recommendations AI",
+                "description": "Create custom recommendations",
+                "href": "https://cloud.google.com/recommendations/",
+                "docs": "https://cloud.google.com/recommendations-ai/docs/"
+            },
+            {
+                "name": "Vision Product Search",
+                "description": "Visual search for products",
+                "href": "https://cloud.google.com/vision/product-search/docs/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Networking",
+        "color": "green",
+        "products": [
+            {
+                "name": "Carrier Peering",
+                "description": "Peer through a carrier",
+                "href": "https://cloud.google.com/interconnect/docs/how-to/carrier-peering"
+            },
+            {
+                "name": "Direct Peering",
+                "description": "Peer with GCP",
+                "href": "https://cloud.google.com/interconnect/docs/how-to/direct-peering"
+            },
+            {
+                "name": "Dedicated Interconnect",
+                "description": "Dedicated private network connection",
+                "href": "https://cloud.google.com/interconnect/docs/details/dedicated"
+            },
+            {
+                "name": "Partner Interconnect",
+                "description": "Connect on-prem network to VPC",
+                "href": "https://cloud.google.com/interconnect/docs/concepts/partner-overview"
+            },
+            {
+                "name": "Cloud Armor",
+                "description": "DDoS protection and WAF",
+                "href": "https://cloud.google.com/armor/",
+                "docs": "https://cloud.google.com/armor/docs/"
+            },
+            {
+                "name": "Cloud CDN",
+                "description": "Content delivery network",
+                "href": "https://cloud.google.com/cdn/",
+                "docs": "https://cloud.google.com/cdn/docs/"
+            },
+            {
+                "name": "Cloud DNS",
+                "description": "Programmable DNS serving",
+                "href": "https://cloud.google.com/dns/",
+                "docs": "https://cloud.google.com/dns/docs/"
+            },
+            {
+                "name": "Cloud Load Balancing",
+                "description": "Multi-region load distribution",
+                "href": "https://cloud.google.com/load-balancing/",
+                "docs": "https://cloud.google.com/load-balancing/docs/"
+            },
+            {
+                "name": "Cloud NAT",
+                "description": "Network address translation service",
+                "href": "https://cloud.google.com/nat/docs/overview/"
+            },
+            {
+                "name": "IPsec VPN",
+                "description": "Virtual private network connection",
+                "href": "https://cloud.google.com/compute/docs/vpn/overview"
+            },
+            {
+                "name": "Network Service Tiers",
+                "description": "Price vs performance tiering",
+                "href": "https://cloud.google.com/network-tiers/",
+                "docs": "https://cloud.google.com/network-tiers/docs/"
+            },
+            {
+                "name": "Network Telemetry",
+                "description": "Network telemetry service",
+                "href": "https://cloud.google.com/network-telemetry/",
+                "docs": "https://cloud.google.com/vpc/docs/using-flow-logs/"
+            },
+            {
+                "name": "Traffic Director",
+                "description": "Service mesh traffic management",
+                "href": "https://cloud.google.com/traffic-director/",
+                "docs": "https://cloud.google.com/traffic-director/docs/"
+            },
+            {
+                "name": "Google Cloud Service Mesh",
+                "description": "Service-aware network management",
+                "href": "https://cloud.google.com/service-mesh/",
+                "docs": "https://cloud.google.com/trace/docs/"
+            },
+            {
+                "name": "Virtual Private Cloud",
+                "description": "Software defined networking",
+                "href": "https://cloud.google.com/vpc/",
+                "docs": "https://cloud.google.com/vpc/docs/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Internet of Things (IoT)",
+        "color": "blue",
+        "products": [
+            {
+                "name": "Cloud IoT Core",
+                "description": "Device management and ingest data",
+                "href": "https://cloud.google.com/iot-core/",
+                "docs": "https://cloud.google.com/iot-core/docs/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Identity and Security",
+        "color": "yellow",
+        "products": [
+            {
+                "name": "Access Transparency",
+                "description": "Audit cloud provider access",
+                "href": "https://cloud.google.com/access-transparency/",
+                "docs": "https://cloud.google.com/logging/docs/audit/access-transparency-overview/"
+            },
+            {
+                "name": "Binary Authorization",
+                "description": "Kubernetes deploy-time security",
+                "href": "https://cloud.google.com/binary-authorization/",
+                "docs": "https://cloud.google.com/binary-authorization/docs/"
+            },
+            {
+                "name": "Cloud Audit Logs",
+                "description": "Audit trails for GCP",
+                "href": "https://cloud.google.com/audit-logs/",
+                "docs": "https://cloud.google.com/logging/docs/audit/"
+            },
+            {
+                "name": "Cloud Data Loss Prevention API",
+                "description": "Classify and redact sensitive data",
+                "href": "https://cloud.google.com/dlp/",
+                "docs": "https://cloud.google.com/dlp/docs/"
+            },
+            {
+                "name": "Cloud HSM",
+                "description": "Hardware security module service",
+                "href": "https://cloud.google.com/hsm/",
+                "docs": "https://cloud.google.com/kms/docs/hsm/"
+            },
+            {
+                "name": "Cloud IAM",
+                "description": "Resource access control",
+                "href": "https://cloud.google.com/iam/",
+                "docs": "https://cloud.google.com/iam/docs/"
+            },
+            {
+                "name": "Cloud Identity",
+                "description": "Manage users, devices & apps",
+                "href": "https://cloud.google.com/identity/",
+                "docs": "https://cloud.google.com/identity/solutions/overview/"
+            },
+            {
+                "name": "Cloud Identity-Aware Proxy",
+                "description": "Identity-based app sign in",
+                "href": "https://cloud.google.com/iap/",
+                "docs": "https://cloud.google.com/iap/docs/"
+            },
+            {
+                "name": "Cloud Key Management Service",
+                "description": "Hosted key management service",
+                "href": "https://cloud.google.com/kms/",
+                "docs": "https://cloud.google.com/kms/docs/"
+            },
+            {
+                "name": "Cloud Resource Manager",
+                "description": "Cloud project metadata management",
+                "href": "https://cloud.google.com/resource-manager/",
+                "docs": "https://cloud.google.com/resource-manager/docs/"
+            },
+            {
+                "name": "Cloud Security Scanner",
+                "description": "App engine security scanner",
+                "href": "https://cloud.google.com/security-scanner/",
+                "docs": "https://cloud.google.com/security-scanner/docs/"
+            },
+            {
+                "name": "Cloud Security Command Center",
+                "description": "Asset inventory, discovery, search, management",
+                "href": "https://cloud.google.com/security-command-center/",
+                "docs": "https://cloud.google.com/security-command-center/docs/"
+            },
+            {
+                "name": "Context-aware Access",
+                "description": "End-user attribute-based access control",
+                "href": "https://cloud.google.com/context-aware-access/",
+                "docs": "https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto/"
+            },
+            {
+                "name": "Event Threat Detection",
+                "description": "Scans for suspicious activity",
+                "href": "https://cloud.google.com/event-threat-detection/"
+            },
+            {
+                "name": "Security Key Enforcement",
+                "description": "Two-step key verification",
+                "href": "https://cloud.google.com/security-key/"
+            },
+            {
+                "name": "Shielded VMs",
+                "description": "Hardened VMs",
+                "href": "https://cloud.google.com/shielded-vm/",
+                "docs": "https://cloud.google.com/security/shielded-cloud/shielded-vm/"
+            },
+            {
+                "name": "Titan Security Key",
+                "description": "Two-factor authentication (2FA) device",
+                "href": "https://cloud.google.com/titan-security-key/"
+            },
+            {
+                "name": "VPC Service Controls",
+                "description": "VPC constrain data",
+                "href": "https://cloud.google.com/vpc-service-controls/",
+                "docs": "https://cloud.google.com/vpc-service-controls/docs/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Management Tools",
+        "color": "red",
+        "products": [
+            {
+                "name": "Cloud APIs",
+                "description": "APIs for cloud services",
+                "href": "https://cloud.google.com/apis/",
+                "docs": "https://cloud.google.com/apis/docs/"
+            },
+            {
+                "name": "Cloud Billing",
+                "description": "Billing and cost management tools",
+                "href": "https://cloud.google.com/billing/docs/",
+                "docs": "https://cloud.google.com/billing/docs/docs/"
+            },
+            {
+                "name": "Cloud Billing API",
+                "description": "Programmatically manage GCP billing",
+                "href": "https://cloud.google.com/billing/docs/"
+            },
+            {
+                "name": "Cloud Console",
+                "description": "Web-based management console",
+                "href": "https://cloud.google.com/cloud-console/"
+            },
+            {
+                "name": "Cloud Deployment Manager",
+                "description": "Templated infrastructure deployment",
+                "href": "https://cloud.google.com/deployment-manager/",
+                "docs": "https://cloud.google.com/deployment-manager/docs/"
+            },
+            {
+                "name": "Cloud Mobile App",
+                "description": "iOS/Android GCP manager app",
+                "href": "https://cloud.google.com/console-app/"
+            },
+            {
+                "name": "Cloud Shell",
+                "description": "Browser-based terminal/CLI",
+                "href": "https://cloud.google.com/shell/",
+                "docs": "https://cloud.google.com/shell/docs/"
+            },
+            {
+                "name": "Stackdriver Debugger",
+                "description": "Live production debugging",
+                "href": "https://cloud.google.com/debugger/",
+                "docs": "https://cloud.google.com/debugger/docs/"
+            },
+            {
+                "name": "Stackdriver Error Reporting",
+                "description": "App error reporting",
+                "href": "https://cloud.google.com/error-reporting/",
+                "docs": "https://cloud.google.com/error-reporting/docs/"
+            },
+            {
+                "name": "Stackdriver Logging",
+                "description": "Centralized logging",
+                "href": "https://cloud.google.com/logging/",
+                "docs": "https://cloud.google.com/logging/docs/"
+            },
+            {
+                "name": "Stackdriver Monitoring",
+                "description": "Infrastructure and application monitoring",
+                "href": "https://cloud.google.com/monitoring/",
+                "docs": "https://cloud.google.com/monitoring/docs/"
+            },
+            {
+                "name": "Stackdriver Profiler",
+                "description": "CPU and heap profiling",
+                "href": "https://cloud.google.com/profiler/",
+                "docs": "https://cloud.google.com/profiler/docs/"
+            },
+            {
+                "name": "Stackdriver Transparent SLIs",
+                "description": "Monitor GCP services",
+                "href": "https://cloud.google.com/transparent-sli/",
+                "docs": "https://cloud.google.com/apis/docs/monitoring/"
+            },
+            {
+                "name": "Stackdriver Trace",
+                "description": "App performance insights",
+                "href": "https://cloud.google.com/trace/",
+                "docs": "https://cloud.google.com/trace/docs/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Developer Tools",
+        "color": "blue",
+        "products": [
+            {
+                "name": "Cloud SDK",
+                "description": "CLI for GCP",
+                "href": "https://cloud.google.com/sdk/",
+                "docs": "https://cloud.google.com/sdk/docs/"
+            },
+            {
+                "name": "Cloud Build",
+                "description": "Continuous integration/delivery platform",
+                "href": "https://cloud.google.com/cloud-build/",
+                "docs": "https://cloud.google.com/cloud-build/docs/"
+            },
+            {
+                "name": "Cloud Code",
+                "description": "Cloud native IDE extensions",
+                "href": "https://cloud.google.com/code/",
+                "docs": "https://cloud.google.com/code/docs/"
+            },
+            {
+                "name": "Cloud Source Repositories",
+                "description": "Hosted private git repos",
+                "href": "https://cloud.google.com/source-repositories/",
+                "docs": "https://cloud.google.com/source-repositories/docs/"
+            },
+            {
+                "name": "Cloud Scheduler",
+                "description": "Managed cron job service",
+                "href": "https://cloud.google.com/scheduler/",
+                "docs": "https://cloud.google.com/scheduler/docs/"
+            },
+            {
+                "name": "Cloud Tasks",
+                "description": "Asynchronous task execution",
+                "href": "https://cloud.google.com/tasks/",
+                "docs": "https://cloud.google.com/tasks/docs/"
+            },
+            {
+                "name": "Cloud Tools for IntelliJ",
+                "description": "IntelliJ GCP tools",
+                "href": "https://cloud.google.com/intellij/"
+            },
+            {
+                "name": "Cloud Tools for PowerShell",
+                "description": "PowerShell GCP tools",
+                "href": "https://cloud.google.com/powershell/"
+            },
+            {
+                "name": "Cloud Tools for Visual Studio",
+                "description": "Visual Studio GCP tools",
+                "href": "https://cloud.google.com/visual-studio/"
+            },
+            {
+                "name": "Cloud Tools for Eclipse",
+                "description": "Eclipse GCP tools",
+                "href": "https://cloud.google.com/eclipse/docs/"
+            },
+            {
+                "name": "Container Registry",
+                "description": "Private container registry/storage",
+                "href": "https://cloud.google.com/container-registry/",
+                "docs": "https://cloud.google.com/container-registry/docs/"
+            },
+            {
+                "name": "Gradle App Engine Plugin",
+                "description": "Gradle App Engine plugin",
+                "href": "https://github.com/GoogleCloudPlatform/app-gradle-plugin"
+            },
+            {
+                "name": "Maven App Engine Plugin",
+                "description": "Maven App Engine plugin",
+                "href": "https://github.com/GoogleCloudPlatform/app-maven-plugin"
+            }
+        ]
+    },
+    {
+        "categoryName": "Migration to GCP",
+        "color": "red",
+        "products": [
+            {
+                "name": "Cloud Data Transfer",
+                "description": "Data migration tools/CLI",
+                "href": "https://cloud.google.com/products/data-transfer/"
+            },
+            {
+                "name": "Google Transfer Appliance",
+                "description": "Rentable data transport box",
+                "href": "https://cloud.google.com/transfer-appliance/",
+                "docs": "https://cloud.google.com/transfer-appliance/docs/"
+            },
+            {
+                "name": "Cloud Storage Transfer Service",
+                "description": "Cloud to cloud transfers",
+                "href": "https://cloud.google.com/storage/transfer/"
+            },
+            {
+                "name": "BigQuery Data Transfer Service",
+                "description": "Bulk import analytics data",
+                "href": "https://cloud.google.com/bigquery/transfer/",
+                "docs": "https://cloud.google.com/bigquery/transfer/docs/"
+            },
+            {
+                "name": "Migrate from Amazon Redshift",
+                "description": "Migrate from Redshift to BigQuery",
+                "href": "https://cloud.google.com/bigquery/docs/redshift-migration"
+            },
+            {
+                "name": "Migrate from Teradata",
+                "description": "Migrate from Teradata to BigQuery",
+                "href": "https://cloud.google.com/solutions/migration/td2bq/td-bq-migration-overview"
+            },
+            {
+                "name": "Migrate for Anthos",
+                "description": "Migrate VMs to GKE containers",
+                "href": "https://cloud.google.com/migrate/anthos/",
+                "docs": "https://cloud.google.com/migrate/anthos/docs/getting-started"
+            },
+            {
+                "name": "Migrate for Compute Engine",
+                "description": "Compute Engine migration tools",
+                "href": "https://cloud.google.com/migrate/compute-engine/",
+                "docs": "https://cloud.google.com/velostrata/docs/"
+            },
+            {
+                "name": "VM Migration",
+                "description": "VM migration tools",
+                "href": "https://cloud.google.com/vm-migrate/"
+            }
+        ]
+    },
+    {
+        "categoryName": "API Platform and Ecosystems",
+        "color": "green",
+        "products": [
+            {
+                "name": "API Analytics",
+                "description": "API metrics",
+                "href": "https://cloud.google.com/api-analytics/"
+            },
+            {
+                "name": "API Monetization",
+                "description": "Monetize APIs",
+                "href": "https://cloud.google.com/api-monetization/"
+            },
+            {
+                "name": "Apigee API Platform",
+                "description": "Develop, secure, monitor APIs",
+                "href": "https://cloud.google.com/apigee-api-management/"
+            },
+            {
+                "name": "Apigee Sense",
+                "description": "API protection from attacks",
+                "href": "https://cloud.google.com/apigee-sense/"
+            },
+            {
+                "name": "Apigee Hybrid",
+                "description": "Manage hybrid/multi-cloud API environments",
+                "href": "https://cloud.google.com/apigee/api-management/hybrid/",
+                "docs": "https://docs.apigee.com/hybrid/beta2"
+            },
+            {
+                "name": "Cloud Endpoints",
+                "description": "Cloud API gateway",
+                "href": "https://cloud.google.com/endpoints/"
+            },
+            {
+                "name": "Cloud Healthcare API",
+                "description": "Healthcare system GCP interoperability",
+                "href": "https://cloud.google.com/healthcare-api/"
+            },
+            {
+                "name": "Developer Portal",
+                "description": "API management portal",
+                "href": "https://cloud.google.com/developer-portal/"
+            },
+            {
+                "name": "GCP Marketplace",
+                "description": "Partner & open source marketplace",
+                "href": "https://cloud.google.com/marketplace/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Google Maps Platform",
+        "color": "yellow",
+        "products": [
+            {
+                "name": "Directions API",
+                "description": "Get directions between locations",
+                "href": "https://developers.google.com/maps/documentation/directions/"
+            },
+            {
+                "name": "Distance Matrix API",
+                "description": "Calculate travel times",
+                "href": "https://developers.google.com/maps/documentation/distance-matrix/intro"
+            },
+            {
+                "name": "Geocoding API",
+                "description": "Convert address to/from coordinates",
+                "href": "https://developers.google.com/maps/documentation/geocoding/"
+            },
+            {
+                "name": "Geolocation API",
+                "description": "Derive location without GPS",
+                "href": "https://developers.google.com/maps/documentation/geolocation/"
+            },
+            {
+                "name": "Maps Embed API",
+                "description": "Web embedded maps",
+                "href": "https://developers.google.com/maps/documentation/embed/"
+            },
+            {
+                "name": "Maps JavaScript API",
+                "description": "Dynamic web maps",
+                "href": "https://developers.google.com/maps/documentation/javascript/"
+            },
+            {
+                "name": "Maps SDK for Android",
+                "description": "Maps SDK for Android",
+                "href": "https://developers.google.com/maps/documentation/android-sdk/"
+            },
+            {
+                "name": "Maps SDK for iOS",
+                "description": "Maps SDK for iOS",
+                "href": "https://developers.google.com/maps/documentation/ios-sdk/"
+            },
+            {
+                "name": "Maps Static API",
+                "description": "Web static maps",
+                "href": "https://developers.google.com/maps/documentation/maps-static/"
+            },
+            {
+                "name": "Maps Unity SDK",
+                "description": "Unity SDK for games",
+                "href": "https://cloud.google.com/maps-platform/gaming/"
+            },
+            {
+                "name": "Maps URLs",
+                "description": "URL scheme for maps",
+                "href": "https://developers.google.com/maps/documentation/urls/"
+            },
+            {
+                "name": "Places API",
+                "description": "Metadata about places (REST)",
+                "href": "https://developers.google.com/places/web-service/"
+            },
+            {
+                "name": "Places Library, Maps JS API",
+                "description": "Metadata about places (JavaScript)",
+                "href": "https://developers.google.com/maps/documentation/javascript/places"
+            },
+            {
+                "name": "Places SDK for Android",
+                "description": "Places SDK for Android",
+                "href": "https://developers.google.com/places/android-sdk/"
+            },
+            {
+                "name": "Places SDK for iOS",
+                "description": "Places SDK for iOS",
+                "href": "https://developers.google.com/places/ios-sdk/"
+            },
+            {
+                "name": "Roads API",
+                "description": "Metadata about roads",
+                "href": "https://developers.google.com/maps/documentation/roads/"
+            },
+            {
+                "name": "Street View Static API",
+                "description": "Static street view images",
+                "href": "https://developers.google.com/maps/documentation/streetview/"
+            },
+            {
+                "name": "Street View Service",
+                "description": "Interactive street view images",
+                "href": "https://developers.google.com/maps/documentation/javascript/streetview/"
+            },
+            {
+                "name": "Time Zone API",
+                "description": "Convert coordinates to timezone",
+                "href": "https://developers.google.com/maps/documentation/timezone/"
+            }
+        ]
+    },
+    {
+        "categoryName": "G Suite Platform",
+        "color": "green",
+        "products": [
+            {
+                "name": "App Maker",
+                "description": "Assistive app building",
+                "href": "https://developers.google.com/appmaker/"
+            },
+            {
+                "name": "Apps Script",
+                "description": "Extend and automate everything",
+                "href": "https://developers.google.com/apps-script/"
+            },
+            {
+                "name": "Editor Add-ons",
+                "description": "Extend Docs, Sheets, Slides",
+                "href": "https://developers.google.com/gsuite/add-ons/overview"
+            },
+            {
+                "name": "Gmail Add-ons",
+                "description": "Contextual apps in Gmail",
+                "href": "https://developers.google.com/gmail/add-ons/"
+            },
+            {
+                "name": "Hangouts Chat Bots",
+                "description": "Conversational bots in chat",
+                "href": "https://developers.google.com/hangouts/chat/"
+            },
+            {
+                "name": "Calendar API",
+                "description": "Create and manage calendars",
+                "href": "https://developers.google.com/calendar/"
+            },
+            {
+                "name": "Classroom API",
+                "description": "Provision and manage classrooms",
+                "href": "https://developers.google.com/classroom"
+            },
+            {
+                "name": "Docs API",
+                "description": "Create and edit documents",
+                "href": "https://developers.google.com/docs/api/"
+            },
+            {
+                "name": "Drive API",
+                "description": "Read and write files",
+                "href": "https://developers.google.com/drive/"
+            },
+            {
+                "name": "Gmail API",
+                "description": "Enhance Gmail",
+                "href": "https://developers.google.com/gmail/"
+            },
+            {
+                "name": "Sheets API",
+                "description": "Read and write spreadsheets",
+                "href": "https://developers.google.com/sheets/api/"
+            },
+            {
+                "name": "Slides API",
+                "description": "Create and edit presentations",
+                "href": "https://developers.google.com/slides/"
+            },
+            {
+                "name": "Drive Picker",
+                "description": "Drive file selection widget",
+                "href": "https://developers.google.com/picker/"
+            },
+            {
+                "name": "Cloud Search",
+                "description": "Unified search for enterprise",
+                "href": "https://developers.google.com/cloud-search/docs/guides/"
+            },
+            {
+                "name": "Admin SDK",
+                "description": "Manage G Suite resources",
+                "href": "https://developers.google.com/admin-sdk"
+            },
+            {
+                "name": "Email Markup",
+                "description": "Interactive email using schema.org",
+                "href": "https://developers.google.com/gmail/markup/"
+            },
+            {
+                "name": "G Suite Marketplace",
+                "description": "Storefront for integrated applications",
+                "href": "https://developers.google.com/gsuite/marketplace/"
+            },
+            {
+                "name": "Other G Suite APIs/SDKs",
+                "description": "Contacts, Google+, Tasks, Vault...",
+                "href": "https://developers.google.com/gsuite/products"
+            }
+        ]
+    },
+    {
+        "categoryName": "Mobile (Firebase)",
+        "color": "yellow",
+        "products": [
+            {
+                "name": "Cloud Firestore",
+                "description": "Document store and sync",
+                "href": "https://firebase.google.com/products/firestore/"
+            },
+            {
+                "name": "Cloud Functions for Firebase",
+                "description": "Event-driven serverless applications",
+                "href": "https://firebase.google.com/products/functions/"
+            },
+            {
+                "name": "Cloud Storage for Firebase",
+                "description": "Object storage and serving",
+                "href": "https://firebase.google.com/products/storage/"
+            },
+            {
+                "name": "Crashlytics",
+                "description": "Crash reporting and analytics",
+                "href": "https://fabric.io/kits/android/crashlytics/summary"
+            },
+            {
+                "name": "Firebase A/B Testing",
+                "description": "Create A/B test experiments",
+                "href": "https://firebase.google.com/products/ab-testing/"
+            },
+            {
+                "name": "Firebase App Indexing",
+                "description": "App/Google search integration",
+                "href": "https://firebase.google.com/products/app-indexing/"
+            },
+            {
+                "name": "Firebase Authentication",
+                "description": "Drop-in authentication",
+                "href": "https://firebase.google.com/products/auth/"
+            },
+            {
+                "name": "Firebase Cloud Messaging",
+                "description": "Send device notifications",
+                "href": "https://firebase.google.com/products/cloud-messaging/"
+            },
+            {
+                "name": "Firebase Dynamic Links",
+                "description": "Link to app content",
+                "href": "https://firebase.google.com/products/dynamic-links/"
+            },
+            {
+                "name": "Firebase Hosting",
+                "description": "Web hosting with CDN/SSL",
+                "href": "https://firebase.google.com/products/hosting/"
+            },
+            {
+                "name": "Firebase In-App Messaging",
+                "description": "Send  in-app contextual messages",
+                "href": "https://firebase.google.com/products/in-app-messaging/"
+            },
+            {
+                "name": "Firebase Performance Monitoring",
+                "description": "App performance monitoring",
+                "href": "https://firebase.google.com/products/performance/"
+            },
+            {
+                "name": "Firebase Predictions",
+                "description": "Predict user targeting",
+                "href": "https://firebase.google.com/products/predictions/"
+            },
+            {
+                "name": "Firebase Realtime Database",
+                "description": "Real-time data synchronization",
+                "href": "https://firebase.google.com/products/realtime-database/"
+            },
+            {
+                "name": "Firebase Remote Config",
+                "description": "Remotely configure installed apps",
+                "href": "https://firebase.google.com/docs/remote-config/"
+            },
+            {
+                "name": "Firebase Test Lab",
+                "description": "Mobile testing device farm",
+                "href": "https://firebase.google.com/docs/test-lab/"
+            },
+            {
+                "name": "Google Analytics for Firebase",
+                "description": "Mobile app analytics",
+                "href": "https://firebase.google.com/products/analytics/"
+            },
+            {
+                "name": "ML Kit for Firebase",
+                "description": "ML APIs for mobile",
+                "href": "https://firebase.google.com/products/ml-kit/"
+            }
+        ]
+    },
+    {
+        "categoryName": "GCP Foundational Open Source Projects",
+        "color": "blue",
+        "products": [
+            {
+                "name": "Apache Beam",
+                "description": "Batch/streaming data processing",
+                "href": "https://beam.apache.org/"
+            },
+            {
+                "name": "gRPC",
+                "description": "RPC framework",
+                "href": "https://grpc.io/"
+            },
+            {
+                "name": "gVisor",
+                "description": "Secure container runtime",
+                "href": "https://github.com/google/gvisor"
+            },
+            {
+                "name": "Istio",
+                "description": "Connect and secure services",
+                "href": "https://istio.io/"
+            },
+            {
+                "name": "Knative",
+                "description": "Serverless framework for Kubernetes",
+                "href": "https://github.com/knative"
+            },
+            {
+                "name": "Kubeflow",
+                "description": "ML toolkit for Kubernetes",
+                "href": "https://www.kubeflow.org/"
+            },
+            {
+                "name": "Kubernetes",
+                "description": "Management of containerized applications",
+                "href": "https://kubernetes.io/"
+            },
+            {
+                "name": "OpenCensus",
+                "description": "Cloud native observability framework",
+                "href": "https://opencensus.io/"
+            },
+            {
+                "name": "TensorFlow",
+                "description": "ML framework",
+                "href": "https://www.tensorflow.org/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Additional Resources",
+        "color": "red",
+        "products": [
+            {
+                "name": "Google Cloud Home Page",
+                "description": "",
+                "href": "https://cloud.google.com"
+            },
+            {
+                "name": "Google Cloud Blog",
+                "description": "",
+                "href": "https://cloud.google.com/blog"
+            },
+            {
+                "name": "GCP Medium Publication",
+                "description": "",
+                "href": "https://medium.com/google-cloud"
+            },
+            {
+                "name": "Apigee Blog",
+                "description": "",
+                "href": "https://apigee.com/about/blog"
+            },
+            {
+                "name": "Firebase Blog",
+                "description": "",
+                "href": "https://firebase.googleblog.com"
+            },
+            {
+                "name": "G Suite Developers Blog",
+                "description": "",
+                "href": "https://gsuite-developers.googleblog.com"
+            },
+            {
+                "name": "Google Cloud Certifications",
+                "description": "",
+                "href": "https://cloud.google.com/certification"
+            },
+            {
+                "name": "Google Cloud System Status",
+                "description": "",
+                "href": "https://status.cloud.google.com"
+            },
+            {
+                "name": "Google Cloud Training",
+                "description": "",
+                "href": "https://cloud.google.com/training"
+            },
+            {
+                "name": "Google Developers Blog",
+                "description": "",
+                "href": "https://developers.googleblog.com"
+            },
+            {
+                "name": "Google Maps Platform Blog",
+                "description": "",
+                "href": "https://mapsplatform.googleblog.com"
+            },
+            {
+                "name": "Google Open Source Blog",
+                "description": "",
+                "href": "https://opensource.googleblog.com"
+            },
+            {
+                "name": "Google Security Blog",
+                "description": "",
+                "href": "https://security.googleblog.com"
+            },
+            {
+                "name": "Kaggle Home Page",
+                "description": "",
+                "href": "https://www.kaggle.com"
+            },
+            {
+                "name": "Kubernetes Blog",
+                "description": "",
+                "href": "https://kubernetes.io/blog"
+            },
+            {
+                "name": "Regions and Network Map",
+                "description": "",
+                "href": "https://cloud.google.com/about/locations"
+            }
+        ]
+    }
+]

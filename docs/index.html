@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GCP Developer's CheatSheet</title>
+    <script type="module">
+      export class CheatSheet extends HTMLElement {
+        connectedCallback() {
+          let template = document.getElementById('cheatSheetTemplate');
+
+          const shadowRoot = this.attachShadow({ mode: 'open' });
+          shadowRoot.appendChild(template.content.cloneNode(true));
+        }
+      }
+      customElements.define('gcp-cheatsheet', CheatSheet);
+
+      export class Category extends HTMLElement {
+        static #colorMap = {red: "#e74c2c", blue: "#0683bb", yellow: "#f9b439", green: "#3ca64b"};
+
+        connectedCallback() {
+          let template = document.getElementById('categoryTemplate');
+
+          const shadowRoot = this.attachShadow({ mode: 'open' });
+          shadowRoot.appendChild(template.content.cloneNode(true));
+          shadowRoot.getElementById("name").innerText = this.getAttribute("name");
+          shadowRoot.getElementById("name").style.backgroundColor = Category.#colorMap[this.getAttribute("color")];
+        }
+      }
+      customElements.define('gcp-category', Category);
+
+      export class Product extends HTMLElement {
+        connectedCallback() {
+          let template = document.getElementById('productTemplate');
+
+          const shadowRoot = this.attachShadow({ mode: 'open' });
+          shadowRoot.appendChild(template.content.cloneNode(true));
+
+          this.style.display = "table-row-group";
+
+          shadowRoot.getElementById("name").innerText = this.getAttribute("name");
+          shadowRoot.getElementById("name").setAttribute("href", this.getAttribute("href"));
+          shadowRoot.getElementById("description").innerText = this.getAttribute("description") || this.getAttribute("href").replace("https://", "");
+        }
+      }
+      customElements.define('gcp-product', Product);
+
+      class CheatSheetBuilder {
+        #parentElement = null;
+        #data = null;
+
+        constructor(parentElement, data) {
+          this.#parentElement = parentElement;
+          this.#data = data;
+        }
+
+        build() {
+          let cheatSheet = this.#parentElement.appendChild(new CheatSheet());
+
+          let categoryElements = this.#data.map(CheatSheetBuilder.createCategory);
+          categoryElements.forEach(el => cheatSheet.appendChild(el));
+        }
+
+        static createCategory(categoryData) {
+          let categoryElement = new Category();
+          let productElements = categoryData.products.map(CheatSheetBuilder.createProduct);
+          productElements.forEach(el => categoryElement.appendChild(el));
+          categoryElement.setAttribute("name", categoryData.categoryName);
+          categoryElement.setAttribute("color", categoryData.color);
+
+          return categoryElement;
+        } 
+
+        static createProduct(productData) {
+          let el = new Product();
+          el.setAttribute("name", productData.name);
+          el.setAttribute("description", productData.description);
+          el.setAttribute("href", productData.href);
+          el.setAttribute("docs", productData.docs);
+
+          return el;
+        }
+      }
+
+      async function main() {
+        let response = await fetch("cheat-sheet.json");
+        let data = await response.json();
+
+        new CheatSheetBuilder(document.body, data).build();
+      }
+
+      document.addEventListener('DOMContentLoaded', main);
+    </script>
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+    <template id="cheatSheetTemplate">
+      <style>
+        main {background-color:rgb(37, 37, 36); color: #ccc; columns:4 400px; font-family: Roboto; width: 1700px; margin: auto auto; padding: 40px}
+        .intro {text-align:center}
+        h1 {margin:0; background-image:url(google-cloud.svg); background-repeat:no-repeat; background-size: 350px; background-position-x: 50%; background-position-y: 60%; padding-top:200px; }
+        h2 {font-weight: normal; color: #eee; font-size: 18px; margin: 4px; border-radius: 15px; background-color: #777; text-transform: uppercase; display:inline-block; padding: 4px 24px 4px 24px}
+        .feedback, .created, .maintained {font-size: 12px;}
+        .version {font-size: 14px; font-weight: bold}
+        .version, .created, .maintained {color: rgb(6, 131, 187)}
+        .feedback {margin-top:10px}
+        .feedback img {width: 15px; vertical-align: text-bottom}
+        .maintained a {color: inherit; text-decoration: none}
+      </style>
+      <main>
+        <section class="intro">
+          <h1></h1>
+          <h2>Developer's Cheat Sheet</h2>
+          <div class="version">v2019.7.17</div>
+          <div class="created">Created by the Google Developer Relations Team</div>
+          <div class="maintained">Maintained at <a href="https://github.com/gregsramblings/google-cloud-4-words">https://github.com/gregsramblings/google-cloud-4-words</a></div>
+          <div class="feedback">Feedback? <img src="twitter.svg"> @gregsramblings</div>
+        </section>
+        <slot></slot>
+      </main>
+    </template>
+
+    <template id="categoryTemplate">
+      <style>
+        #name {font-weight: normal; text-transform:uppercase; color: #eee; border-radius: 6px; margin: 12px 2px 2px 2px; padding: 4px 4px 4px 12px; font-size: 15px; break-inside: avoid-column}
+        products-table {display:table; width:400px; margin-left:12px; font-size: 11px;}
+      </style>
+      <section>
+        <h3 id="name"></h3>
+
+        <products-table>
+          <slot></slot>
+        </products-table>
+      </section>
+    </template>
+
+    <template id="productTemplate">
+      <style>
+        td {line-height: 150%; }
+        td:first-child {width: 40%}
+        td:last-child {width: 60%}
+        a {color: inherit; text-decoration: none}
+        a:hover {color: rgb(6, 131, 187)}
+      </style>
+      <tr>
+        <td><a id="name"></a></td>
+        <td id="description"></td>
+      </tr>
+    </template>
+
+  </body>
+
+</html>
