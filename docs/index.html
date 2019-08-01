@@ -14,15 +14,15 @@
       customElements.define('gcp-cheatsheet', CheatSheet);
 
       export class Category extends HTMLElement {
-        static #colorMap = {red: "#e74c2c", blue: "#0683bb", yellow: "#f9b439", green: "#3ca64b"};
-
         connectedCallback() {
+          const colorMap = {red: "#e74c2c", blue: "#0683bb", yellow: "#f9b439", green: "#3ca64b"};
+
           let template = document.getElementById('categoryTemplate');
 
           const shadowRoot = this.attachShadow({ mode: 'open' });
           shadowRoot.appendChild(template.content.cloneNode(true));
           shadowRoot.getElementById("name").innerText = this.getAttribute("name");
-          shadowRoot.getElementById("name").style.backgroundColor = Category.#colorMap[this.getAttribute("color")];
+          shadowRoot.getElementById("name").style.backgroundColor = colorMap[this.getAttribute("color")];
         }
       }
       customElements.define('gcp-category', Category);
@@ -44,18 +44,15 @@
       customElements.define('gcp-product', Product);
 
       class CheatSheetBuilder {
-        #parentElement = null;
-        #data = null;
-
         constructor(parentElement, data) {
-          this.#parentElement = parentElement;
-          this.#data = data;
+          this.parentElement = parentElement;
+          this.data = data;
         }
 
         build() {
-          let cheatSheet = this.#parentElement.appendChild(new CheatSheet());
+          let cheatSheet = this.parentElement.appendChild(new CheatSheet());
 
-          let categoryElements = this.#data.map(CheatSheetBuilder.createCategory);
+          let categoryElements = this.data.map(CheatSheetBuilder.createCategory);
           categoryElements.forEach(el => cheatSheet.appendChild(el));
         }
 
