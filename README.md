@@ -123,6 +123,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud DNS**: Programmable DNS serving [<sup>:link:</sup>](https://cloud.google.com/dns/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dns/docs/)
 * **Cloud Load Balancing**: Multi-region load distribution [<sup>:link:</sup>](https://cloud.google.com/load-balancing/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/load-balancing/docs/)
 * **Cloud NAT**: Network address translation service [<sup>:page_facing_up:</sup>](https://cloud.google.com/nat/docs/overview/)
+* **Cloud Router**: VPC/on-prem network route exchange (BGP) [<sup>:page_facing_up:</sup>](https://cloud.google.com/router/docs/)
 * **IPsec VPN**: Virtual private network connection [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/vpn/overview)
 * **Network Service Tiers**: Price vs performance tiering [<sup>:link:</sup>](https://cloud.google.com/network-tiers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-tiers/docs/)
 * **Network Telemetry**: Network telemetry service [<sup>:link:</sup>](https://cloud.google.com/network-telemetry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/using-flow-logs/)
