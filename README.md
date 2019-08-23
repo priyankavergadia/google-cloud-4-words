@@ -62,8 +62,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 ### Database 
   
 * **Cloud Bigtable**: Petabyte-scale, low-latency, non-relational [<sup>:link:</sup>](https://cloud.google.com/bigtable/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigtable/docs/)
-* **Cloud Datastore**: Horizontally scalable document DB [<sup>:link:</sup>](https://cloud.google.com/datastore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datastore/docs/)
-* **Cloud Firestore**: Strongly-consistent serverless document DB [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
+* **Cloud Datastore**: High performance, auto-scalable NoSQL document DB [<sup>:link:</sup>](https://cloud.google.com/datastore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datastore/docs/)
+* **Cloud Firestore**: Strongly-consistent, auto-scalable NoSQL document DB with optional realtime updates [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
 * **Cloud Memorystore**: Managed Redis [<sup>:link:</sup>](https://cloud.google.com/memorystore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/memorystore/docs/)
 * **Cloud Spanner**: Horizontally scalable relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
 * **Cloud SQL**: Managed MySQL and PostgreSQL [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
