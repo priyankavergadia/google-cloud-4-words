@@ -151,6 +151,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Security Command Center**: Asset inventory, discovery, search, management [<sup>:link:</sup>](https://cloud.google.com/security-command-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-command-center/docs/)
 * **Context-aware Access :new:**: End-user attribute-based access control [<sup>:link:</sup>](https://cloud.google.com/context-aware-access/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto/)
 * **Event Threat Detection :new:**: Scans for suspicious activity [<sup>:link:</sup>](https://cloud.google.com/event-threat-detection/) 
+* **Managed Service for Microsoft Active Directory :new:**: Managed Microsoft Active Directory  [<sup>:link:</sup>](https://cloud.google.com/managed-microsoft-ad/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/managed-microsoft-ad/docs/)
 * **Security Key Enforcement**: Two-step key verification [<sup>:link:</sup>](https://cloud.google.com/security-key/)
 * **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
 * **Titan Security Key**: Two-factor authentication (2FA) device [<sup>:link:</sup>](https://cloud.google.com/titan-security-key/)
