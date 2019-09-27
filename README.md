@@ -233,7 +233,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Places SDK for iOS**: Places SDK for iOS [<sup>:link:</sup>](https://developers.google.com/places/ios-sdk/)
 * **Roads API**: Metadata about roads [<sup>:link:</sup>](https://developers.google.com/maps/documentation/roads/)
 * **Street View Static API**: Static street view images [<sup>:link:</sup>](https://developers.google.com/maps/documentation/streetview/)
-* **Street View Service**: Interactive street view images" [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/streetview/)
+* **Street View Service**: Interactive street view images [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/streetview/)
 * **Time Zone API**: Convert coordinates to timezone [<sup>:link:</sup>](https://developers.google.com/maps/documentation/timezone/)
   
 ### G Suite Platform  
