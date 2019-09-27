@@ -133,7 +133,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   
 ### Internet of Things (IoT) 
   
-* **Cloud IoT Core**: Device management and ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iot-core/docs/)
+* **Cloud IoT Core**: Manage devices, ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iot-core/docs/)
   
 ### Identity and Security
   
