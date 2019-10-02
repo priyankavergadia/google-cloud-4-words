@@ -121,15 +121,17 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Armor**: DDoS protection and WAF [<sup>:link:</sup>](https://cloud.google.com/armor/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/armor/docs/)
 * **Cloud CDN**: Content delivery network [<sup>:link:</sup>](https://cloud.google.com/cdn/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cdn/docs/)
 * **Cloud DNS**: Programmable DNS serving [<sup>:link:</sup>](https://cloud.google.com/dns/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dns/docs/)
-* **Cloud Load Balancing**: Multi-region load distribution [<sup>:link:</sup>](https://cloud.google.com/load-balancing/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/load-balancing/docs/)
+* **Cloud Load Balancing**: Multi-region load balancing and distribution(Internal and External) [<sup>:link:</sup>](https://cloud.google.com/load-balancing/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/load-balancing/docs/)
 * **Cloud NAT**: Network address translation service [<sup>:page_facing_up:</sup>](https://cloud.google.com/nat/docs/overview/)
 * **Cloud Router :new:**: VPC/on-prem network route exchange (BGP) [<sup>:page_facing_up:</sup>](https://cloud.google.com/router/docs/)
-* **IPsec VPN**: Virtual private network connection [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/vpn/overview)
+* **Cloud VPN (HA)**: VPN (Virtual private network connection) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/vpn/overview)
 * **Network Service Tiers**: Price vs performance tiering [<sup>:link:</sup>](https://cloud.google.com/network-tiers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-tiers/docs/)
 * **Network Telemetry**: Network telemetry service [<sup>:link:</sup>](https://cloud.google.com/network-telemetry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/using-flow-logs/)
 * **Traffic Director :new:**: Service mesh traffic management [<sup>:link:</sup>](https://cloud.google.com/traffic-director/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/traffic-director/docs/)
 * **Google Cloud Service Mesh :new:**: Service-aware network management [<sup>:link:</sup>](https://cloud.google.com/service-mesh/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
 * **Virtual Private Cloud**: Software defined networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
+* **VPC Service Controls**: Security perimeters for API-based services [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/)
+
   
 ### Internet of Things (IoT) 
   
