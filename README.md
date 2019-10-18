@@ -320,7 +320,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Cloud Support Hub**:[<sup>:link:</sup>](https://cloud.google.com/support-hub/)
 * **GCP Pricing**: [<sup>:link:</sup>](https://cloud.google.com/pricing/)
 * **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
-* **Qwiklabs Home Page**:[<sup>:link:</sup>](https://www.qwiklabs.com/home?locale=en)
+* **Qwiklabs Home Page**:[<sup>:link:</sup>](https://www.qwiklabs.com/)
 * **Codelabs Home Page**:[<sup>:link:</sup>](https://codelabs.developers.google.com/)
 * **YouTube Channels**:
   * **Google Cloud YouTube Channel**:[<sup>:link:</sup>](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)
