@@ -66,7 +66,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Firestore**: Strongly-consistent serverless document DB [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
 * **Cloud Memorystore**: Managed Redis [<sup>:link:</sup>](https://cloud.google.com/memorystore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/memorystore/docs/)
 * **Cloud Spanner**: Horizontally scalable relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
-* **Cloud SQL**: Managed MySQL and PostgreSQL [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
+* **Cloud SQL**: Managed MySQL, PostgreSQL and SQL Server (Beta) [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
   
 ### Data and Analytics 
   
