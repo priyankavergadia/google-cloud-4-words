@@ -108,7 +108,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Vision API**: Image recognition and classification [<sup>:link:</sup>](https://cloud.google.com/vision/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/docs/)
 * **Cloud TPU**: Hardware acceleration for ML [<sup>:link:</sup>](https://cloud.google.com/tpu/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tpu/docs/)
 * **Dialogflow**: Create conversational interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dialogflow-enterprise/docs/)
-* **Document Understanding AI**: Analyze, classify, search documents [<sup>:link:</sup>](https://cloud.google.com/solutions/document-understanding/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/document-understanding/docs/)
+* **Document AI**: Analyze, classify, search documents [<sup>:link:</sup>](https://cloud.google.com/solutions/document-understanding/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/document-understanding/docs/)
 * **Recommendations AI**: Create custom recommendations [<sup>:link:</sup>](https://cloud.google.com/recommendations/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recommendations-ai/docs/)
 * **Vision Product Search**: Visual search for products [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/product-search/docs/)
 
@@ -131,7 +131,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Cloud Service Mesh**: Service-aware network management [<sup>:link:</sup>](https://cloud.google.com/service-mesh/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
 * **Virtual Private Cloud**: Software defined networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
 * **VPC Service Controls**: Security perimeters for API-based services [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/)
-* **Network Intelligence Center**: Network monitoring and topology[<sup>:link:</sup>[https://cloud.google.com/network-intelligence-center/)
+* **Network Intelligence Center**: Network monitoring and topology [<sup>:link:</sup>](https://cloud.google.com/network-intelligence-center/)
 [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-intelligence-center/docs/)
 
   
@@ -311,6 +311,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Firebase Blog**: [<sup>:link:</sup>](https://firebase.googleblog.com)
 * **G Suite Developers Blog**: [<sup>:link:</sup>](https://gsuite-developers.googleblog.com)
 * **G Suite GitHub**: [<sup>:link:</sup>](https://github.com/gsuitedevs)
+* **G Suite Twitter**: [<sup>:link:</sup>](https://twitter.com/gsuitedevs)
 * **Google Cloud Certifications**: [<sup>:link:</sup>](https://cloud.google.com/certification)
 * **Google Cloud System Status**: [<sup>:link:</sup>](https://status.cloud.google.com)
 * **Google Cloud Training**: [<sup>:link:</sup>](https://cloud.google.com/training)
