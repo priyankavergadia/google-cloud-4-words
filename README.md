@@ -76,7 +76,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Composer**: Managed workflow orchestration service [<sup>:link:</sup>](https://cloud.google.com/composer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/composer/docs/)
 * **Cloud Data Fusion**: Graphically manage data pipelines [<sup>:link:</sup>](https://cloud.google.com/data-fusion/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-fusion/docs/)
 * **Cloud Dataflow**: Stream/batch data processing [<sup>:link:</sup>](https://cloud.google.com/dataflow/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataflow/docs/)
-* **Cloud Datalab**: Managed Jupyter notebook [<sup>:link:</sup>](https://cloud.google.com/datalab/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datalab/docs/)
 * **Cloud Dataprep**: Visual data wrangling [<sup>:link:</sup>](https://cloud.google.com/dataprep/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataprep/docs/)
 * **Cloud Dataproc**: Managed Spark and Hadoop [<sup>:link:</sup>](https://cloud.google.com/dataproc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataproc/docs/)
 * **Cloud Pub/Sub**: Global real-time messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs/)
@@ -89,9 +88,11 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **AI Hub**: Hosted AI component sharing [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **AI Platform Data Labeling**: Data labeling by humans [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-labeling/docs/)
 * **AI Platform Deep Learning VMs**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
-* **AI Platform Notebooks**: Managed JupyterLab notebook instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/notebooks/)
-* **AI Platform Predictions**: Autoscaled model serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/prediction-overview)
-* **AI Platform Training**: Parallel and distributed training [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/tensorflow/training-overview)
+* **AI Platform Deep Learning Containers**: Preconfigured containers for deep learning [<sup>:link:</sup>](https://cloud.google.com/ai-platform/deep-learning-containers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/deep-learning-containers/docs/)
+* **AI Platform Notebooks**: Managed JupyterLab notebook instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/notebooks/docs/)
+* **AI Platform Pipelines**: Hosted ML workflows[<sup>:link:</sup>](https://cloud.google.com/ai-platform/pipelines/)
+* **AI Platform Predictions**: Autoscaled model serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/prediction/docs/overview)
+* **AI Platform Training**: Parallel and distributed training [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/training/docs/overview)
 * **AI Platform**: Managed platform for ML [<sup>:link:</sup>](https://cloud.google.com/ai-platform/) 
 * **AutoML Natural Language**: Custom text models [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/automl/docs/)
 * **AutoML Tables**: Custom structured data models [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
@@ -109,7 +110,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Contact Center AI**: AI in your contact center[<sup>:link:</sup>](https://cloud.google.com/solutions/contact-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/solutions/contact-center/)
 * **Dialogflow**: Create conversational interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dialogflow-enterprise/docs/)
 * **Document AI**: Analyze, classify, search documents [<sup>:link:</sup>](https://cloud.google.com/solutions/document-understanding/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/document-understanding/docs/)
-* **Explainable AI**: Understand ML model predictions [<sup>:link:</sup>](https://cloud.google.com/explainable-ai/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ml-engine/docs/)
+* **Explainable AI**: Understand ML model predictions [<sup>:link:</sup>](https://cloud.google.com/explainable-ai/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/overview)
 * **Recommendations AI**: Create custom recommendations [<sup>:link:</sup>](https://cloud.google.com/recommendations/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recommendations-ai/docs/)
 * **Vision Product Search**: Visual search for products [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/product-search/docs/)
 
@@ -140,6 +141,10 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   
 * **Cloud IoT Core**: Manage devices, ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iot-core/docs/)
   
+### Gaming
+
+* **Google Cloud Game Servers**: Orchestrate Agones clusters [<sup>:link:</sup>](https://cloud.google.com/game-servers)
+
 ### Identity and Security
   
 * **Access Transparency**: Audit cloud provider access [<sup>:link:</sup>](https://cloud.google.com/access-transparency/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/access-transparency-overview/)
@@ -147,9 +152,10 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Audit Logs**: Audit trails for GCP [<sup>:link:</sup>](https://cloud.google.com/audit-logs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/)
 * **Cloud Data Loss Prevention API**: Classify and redact sensitive data [<sup>:link:</sup>](https://cloud.google.com/dlp/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dlp/docs/)
 * **Cloud HSM**: Hardware security module service [<sup>:link:</sup>](https://cloud.google.com/hsm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/hsm/)
+* **Cloud EKM**: External keys you control [<sup>:link:</sup>](https://cloud.google.com/kms/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/managing-external-keys)
 * **Cloud IAM**: Resource access control [<sup>:link:</sup>](https://cloud.google.com/iam/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iam/docs/)
 * **Cloud Identity**: Manage users, devices & apps [<sup>:link:</sup>](https://cloud.google.com/identity/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/identity/solutions/overview/)
-* **Cloud Identity-Aware Proxy**: Identity-based app sign in [<sup>:link:</sup>](https://cloud.google.com/iap/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/)
+* **Cloud Identity-Aware Proxy**: Identity-based app access [<sup>:link:</sup>](https://cloud.google.com/iap/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/)
 * **Cloud KMS**: Hosted key management service [<sup>:link:</sup>](https://cloud.google.com/kms/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/)
 * **Cloud Resource Manager**: Cloud project metadata management [<sup>:link:</sup>](https://cloud.google.com/resource-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/resource-manager/docs/)
 * **Cloud Security Command Center**: Security management and data risk platform [<sup>:link:</sup>](https://cloud.google.com/security-command-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-command-center/docs/)
@@ -161,7 +167,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Security Key Enforcement**: Two-step key verification [<sup>:link:</sup>](https://cloud.google.com/security-key/)
 * **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
 * **Titan Security Key**: Two-factor authentication (2FA) device [<sup>:link:</sup>](https://cloud.google.com/titan-security-key/)
-* **VPC Service Controls**: VPC constrain data [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/docs/)
+* **VPC Service Controls**: VPC data constraints [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/docs/)
   
 ### Management Tools 
   
@@ -172,13 +178,13 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Deployment Manager**: Templated infrastructure deployment [<sup>:link:</sup>](https://cloud.google.com/deployment-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deployment-manager/docs/)
 * **Cloud Mobile App**: iOS/Android GCP manager app [<sup>:link:</sup>](https://cloud.google.com/console-app/)
 * **Private Catalog**: Internal Solutions Catalog [<sup>:link:</sup>](https://cloud.google.com/private-catalog/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/private-catalog/docs/)
-* **Stackdriver Debugger**: Live production debugging [<sup>:link:</sup>](https://cloud.google.com/debugger/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/debugger/docs/)
-* **Stackdriver Error Reporting**: App error reporting [<sup>:link:</sup>](https://cloud.google.com/error-reporting/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/error-reporting/docs/)
-* **Stackdriver Logging**: Centralized logging [<sup>:link:</sup>](https://cloud.google.com/logging/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/)
-* **Stackdriver Monitoring**: Infrastructure and application monitoring [<sup>:link:</sup>](https://cloud.google.com/monitoring/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/monitoring/docs/)
-* **Stackdriver Profiler**: CPU and heap profiling [<sup>:link:</sup>](https://cloud.google.com/profiler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/profiler/docs/)
-* **Stackdriver Trace**: App performance insights [<sup>:link:</sup>](https://cloud.google.com/trace/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)  
-* **Stackdriver Transparent SLIs**: Monitor GCP services [<sup>:link:</sup>](https://cloud.google.com/transparent-sli/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/monitoring/)
+* **Cloud Debugger**: Live production debugging [<sup>:link:</sup>](https://cloud.google.com/debugger/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/debugger/docs/)
+* **Error Reporting**: App error reporting [<sup>:link:</sup>](https://cloud.google.com/error-reporting/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/error-reporting/docs/)
+* **Cloud Logging**: Centralized logging [<sup>:link:</sup>](https://cloud.google.com/logging/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/)
+* **Cloud Monitoring**: Infrastructure and application monitoring [<sup>:link:</sup>](https://cloud.google.com/monitoring/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/monitoring/docs/)
+* **Cloud Profiler**: CPU and heap profiling [<sup>:link:</sup>](https://cloud.google.com/profiler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/profiler/docs/)
+* **Cloud Trace**: App performance insights [<sup>:link:</sup>](https://cloud.google.com/trace/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)  
+* **Transparent SLIs**: Monitor GCP services [<sup>:link:</sup>](https://cloud.google.com/transparent-sli/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/monitoring/)
 
 ### Developer Tools  
   
@@ -195,6 +201,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Tools for Visual Studio**: Visual Studio GCP tools [<sup>:link:</sup>](https://cloud.google.com/visual-studio/)
 * **Container Analysis**: Automated security scanning [<sup>:link:</sup>](https://cloud.google.com/container-registry/docs/container-analysis) [<sup>:page_facing_up:</sup>](https://cloud.google.com/container-registry/docs/)
 * **Container Registry**: Private container registry/storage [<sup>:link:</sup>](https://cloud.google.com/container-registry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/container-registry/docs/)
+* **Artifact Registry**: Universal package manager [<sup>:link:</sup>](https://cloud.google.com/artifacts/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/artifacts/)
 * **Gradle App Engine Plugin**: Gradle App Engine plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-gradle-plugin)
 * **Maven App Engine Plugin**: Maven App Engine plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-maven-plugin)
   
@@ -225,30 +232,29 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 ### Google Maps Platform  
   
 * **Directions API**: Get directions between locations [<sup>:link:</sup>](https://developers.google.com/maps/documentation/directions/)
-* **Distance Matrix API**: Calculate travel times [<sup>:link:</sup>](https://developers.google.com/maps/documentation/distance-matrix/intro)
+* **Distance Matrix API**: Multi-origin/destination travel times [<sup>:link:</sup>](https://developers.google.com/maps/documentation/distance-matrix/intro)
 * **Geocoding API**: Convert address to/from coordinates [<sup>:link:</sup>](https://developers.google.com/maps/documentation/geocoding/)
 * **Geolocation API**: Derive location without GPS [<sup>:link:</sup>](https://developers.google.com/maps/documentation/geolocation/)
-* **Maps Embed API**: Web embedded (embedded) maps [<sup>:link:</sup>](https://developers.google.com/maps/documentation/embed/)
+* **Maps Embed API**: Display iframe embedded maps [<sup>:link:</sup>](https://developers.google.com/maps/documentation/embed/)
 * **Maps JavaScript API**: Dynamic web maps [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/)
-* **Maps SDK for Android**: Maps SDK for Android [<sup>:link:</sup>](https://developers.google.com/maps/documentation/android-sdk/)
-* **Maps SDK for iOS**: Maps SDK for iOS [<sup>:link:</sup>](https://developers.google.com/maps/documentation/ios-sdk/)
-* **Maps Static API**: Web static maps [<sup>:link:</sup>](https://developers.google.com/maps/documentation/maps-static/)
-* **Maps Unity SDK**: Unity SDK for games [<sup>:link:</sup>](https://cloud.google.com/maps-platform/gaming/)
+* **Maps SDK for Android**: Maps for Android apps [<sup>:link:</sup>](https://developers.google.com/maps/documentation/android-sdk/)
+* **Maps SDK for iOS**: Maps for iOS apps [<sup>:link:</sup>](https://developers.google.com/maps/documentation/ios-sdk/)
+* **Maps Static API**: Display static map images [<sup>:link:</sup>](https://developers.google.com/maps/documentation/maps-static/)
+* **Maps SDK for Unity**: Unity SDK for games [<sup>:link:</sup>](https://cloud.google.com/maps-platform/gaming/)
 * **Maps URLs**: URL scheme for maps [<sup>:link:</sup>](https://developers.google.com/maps/documentation/urls/)
-* **Places API**: Metadata about places (REST) [<sup>:link:</sup>](https://developers.google.com/places/web-service/)
-* **Places Library, Maps JS API**: Place data for web [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/places)
-* **Places SDK for Android**: Place data for Android [<sup>:link:</sup>](https://developers.google.com/places/android-sdk/)
-* **Places SDK for iOS**: Place data for iOS [<sup>:link:</sup>](https://developers.google.com/places/ios-sdk/)
-* **Roads API**: Metadata about roads [<sup>:link:</sup>](https://developers.google.com/maps/documentation/roads/)
+* **Places API**: Rest-based Places features [<sup>:link:</sup>](https://developers.google.com/places/web-service/)
+* **Places Library, Maps JS API**: Places features for web [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/places)
+* **Places SDK for Android**: Places features for Android [<sup>:link:</sup>](https://developers.google.com/places/android-sdk/)
+* **Places SDK for iOS**: Places feature for iOS [<sup>:link:</sup>](https://developers.google.com/places/ios-sdk/)
+* **Roads API**: Convert coordinates to roads [<sup>:link:</sup>](https://developers.google.com/maps/documentation/roads/)
 * **Street View Static API**: Static street view images [<sup>:link:</sup>](https://developers.google.com/maps/documentation/streetview/)
-* **Street View Service**: Dynamic  street view for JavaScript [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/streetview/)
+* **Street View Service**: Street view for JavaScript [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/streetview/)
 * **Time Zone API**: Convert coordinates to timezone [<sup>:link:</sup>](https://developers.google.com/maps/documentation/timezone/)
   
 ### G Suite Platform  
   
 * **Admin SDK**: Manage G Suite resources [<sup>:link:</sup>](https://developers.google.com/admin-sdk)
 * **AMP for Email**: Dynamic interactive email [<sup>:link:</sup>](https://developers.google.com/gmail)
-* **App Maker**: Assistive app building [<sup>:link:</sup>](https://developers.google.com/appmaker/)
 * **Apps Script**: Extend and automate everything [<sup>:link:</sup>](https://developers.google.com/apps-script/)
 * **Calendar API**: Create and manage calendars [<sup>:link:</sup>](https://developers.google.com/calendar/)
 * **Classroom API**: Provision and manage classrooms [<sup>:link:</sup>](https://developers.google.com/classroom)
@@ -294,6 +300,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 ### GCP Foundational Open Source Projects
   
 * **Apache Beam**: Batch/streaming data processing [<sup>:link:</sup>](https://beam.apache.org/)
+* **Go**: High Concurrency Programming Language [<sup>:link:</sup>](https://golang.org/)
 * **gRPC**: RPC framework [<sup>:link:</sup>](https://grpc.io/)
 * **gVisor**: Secure container runtime [<sup>:link:</sup>](https://github.com/google/gvisor)
 * **Istio**: Connect and secure services [<sup>:link:</sup>](https://istio.io/)
