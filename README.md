@@ -338,23 +338,23 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ### Additional Resources
 
-* **Source for this document**:[<sup>:link:</sup>](https://4words.dev)
-* **Google Cloud Solutions Library**:[<sup>:link:</sup>](https://cloud.google.com/solutions/)
-* **G Suite Solutions Gallery**:[<sup>:link:</sup>](https://developers.google.com/gsuite/solutions)
-* **Google Cloud Support Hub**:[<sup>:link:</sup>](https://cloud.google.com/support-hub/)
+* **Source for this document**: [<sup>:link:</sup>](https://4words.dev)
+* **Google Cloud Solutions Library**: [<sup>:link:</sup>](https://cloud.google.com/solutions/)
+* **G Suite Solutions Gallery**: [<sup>:link:</sup>](https://developers.google.com/gsuite/solutions)
+* **Google Cloud Support Hub**: [<sup>:link:</sup>](https://cloud.google.com/support-hub/)
 * **GCP Pricing**: [<sup>:link:</sup>](https://cloud.google.com/pricing/)
 * **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
-* **Qwiklabs Home Page**:[<sup>:link:</sup>](https://www.qwiklabs.com/)
-* **Codelabs Home Page**:[<sup>:link:</sup>](https://codelabs.developers.google.com/)
+* **Qwiklabs Home Page**: [<sup>:link:</sup>](https://www.qwiklabs.com/)
+* **Codelabs Home Page**: [<sup>:link:</sup>](https://codelabs.developers.google.com/)
 * **YouTube Channels**:
-  * **Google Cloud**:[<sup>:link:</sup>](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)
-  * **Google Cloud Technical**:[<sup>:link:</sup>](https://www.youtube.com/user/googlecloudplatform)
-  * **G Suite**:[<sup>:link:</sup>](https://www.youtube.com/user/GoogleApps)
-  * **Google Developer's**:[<sup>:link:</sup>](https://www.youtube.com/user/GoogleDevelopers)
-  * **Firebase**:[<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
+  * **Google Cloud**: [<sup>:link:</sup>](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)
+  * **Google Cloud Technical**: [<sup>:link:</sup>](https://www.youtube.com/user/googlecloudplatform)
+  * **G Suite**: [<sup>:link:</sup>](https://www.youtube.com/user/GoogleApps)
+  * **Google Developer's**: [<sup>:link:</sup>](https://www.youtube.com/user/GoogleDevelopers)
+  * **Firebase**: [<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
 * **Podcasts**:
-  * **Google Cloud Podcast**:[<sup>:link:</sup>](https://gcppodcast.com/)
-  * **Kubernetes Podcast**:[<sup>:link:</sup>](https://kubernetespodcast.com/)
+  * **Google Cloud Podcast**: [<sup>:link:</sup>](https://gcppodcast.com/)
+  * **Kubernetes Podcast**: [<sup>:link:</sup>](https://kubernetespodcast.com/)
 * **Reddit**:
   * **/r/googlecloud**: [<sup>:link:</sup>](https://www.reddit.com/r/googlecloud/)
   * **/r/AppEngine**: [<sup>:link:</sup>](https://www.reddit.com/r/AppEngine/)
@@ -365,18 +365,18 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ### Platform Comparisons
 
-* **Google Cloud Platform for AWS Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/aws/)
-* **Google Cloud Platform for Azure Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/azure/)
-* **Google Cloud Platform for Data Center Professionals**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/data-centers/)
-* **Google Cloud Platform for OpenStack Users**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/openstack/)
+* **Google Cloud Platform for AWS Professionals**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/aws/)
+* **Google Cloud Platform for Azure Professionals**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/azure/)
+* **Google Cloud Platform for Data Center Professionals**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/data-centers/)
+* **Google Cloud Platform for OpenStack Users**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/docs/compare/openstack/)
 
 ### Language Specific Documentation
 
-* **Apps Script**:[<sup>:page_facing_up:</sup>](https://developers.google.com/apps-script)
-* **Java**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/java/docs/)
-* **Node.js**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/nodejs/docs/)
-* **Python**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/python/docs/)
-* **Go**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/go/docs/)
-* **Ruby**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
-* **PHP**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
-* **.NET/C#**:[<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
+* **Apps Script**: [<sup>:page_facing_up:</sup>](https://developers.google.com/apps-script)
+* **Java**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/java/docs/)
+* **Node.js**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/nodejs/docs/)
+* **Python**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/python/docs/)
+* **Go**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/go/docs/)
+* **Ruby**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/ruby/docs/)
+* **PHP**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/php/docs/)
+* **.NET/C#**: [<sup>:page_facing_up:</sup>](https://cloud.google.com/dotnet/docs/)
