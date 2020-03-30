@@ -338,6 +338,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ### Additional Resources
 
+* **Source for this document**:[<sup>:link:</sup>](https://4words.dev)
 * **Google Cloud Solutions Library**:[<sup>:link:</sup>](https://cloud.google.com/solutions/)
 * **G Suite Solutions Gallery**:[<sup>:link:</sup>](https://developers.google.com/gsuite/solutions)
 * **Google Cloud Support Hub**:[<sup>:link:</sup>](https://cloud.google.com/support-hub/)
