@@ -92,7 +92,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **AI Platform Notebooks**: Managed JupyterLab notebook instances [<sup>:link:</sup>](https://cloud.google.com/ai-platform-notebooks/)[<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/notebooks/docs/)
 * **AI Platform Pipelines**: Hosted ML workflows[<sup>:link:</sup>](https://cloud.google.com/ai-platform/pipelines/)
 * **AI Platform Predictions**: Autoscaled model serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/prediction/docs/overview)
-* **AI Platform Training**: Parallel and distributed training [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/training/docs/overview)
+* **AI Platform Training**: Distributed AI training [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/training/docs/overview)
 * **AI Platform**: Managed platform for ML [<sup>:link:</sup>](https://cloud.google.com/ai-platform/) 
 * **AutoML Natural Language**: Custom text models [<sup>:page_facing_up:</sup>](https://cloud.google.com/natural-language/automl/docs/)
 * **AutoML Tables**: Custom structured data models [<sup>:link:</sup>](https://cloud.google.com/automl-tables/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/automl-tables/docs/)
