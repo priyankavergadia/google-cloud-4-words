@@ -54,12 +54,10 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
    
 ### Storage
   
+* **Cloud Filestore**: Managed NFS server [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
 * **Cloud Storage**: Object storage and serving [<sup>:link:</sup>](https://cloud.google.com/storage/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
-* **Nearline**: Archival occasional access storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
-* **Coldline**: Archival rare access storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
 * **Persistent Disk**: Block storage for VMs [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/)
 * **Local SSD**: VM locally attached SSDs [<sup>:link:</sup>](https://cloud.google.com/local-ssd) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/local-ssd)
-* **Cloud Filestore**: Managed NFS server [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
   
 ### Database 
   
@@ -82,7 +80,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Pub/Sub**: Global real-time messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs/)
 * **Data Catalog**: Metadata management service  [<sup>:link:</sup>](https://cloud.google.com/data-catalog/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-catalog/docs/)
 * **Data Studio**: Collaborative data exploration/dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
-* **Genomics**: Managed genomics platform [<sup>:link:</sup>](https://cloud.google.com/genomics/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/genomics/docs/)
+* **Looker**: Enterprise BI and Analytics [<sup>:link:</sup>](https://cloud.google.com/looker)
   
 ### AI/ML 
 
@@ -210,13 +208,14 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   
 * **BigQuery Data Transfer Service**: Bulk import analytics data [<sup>:link:</sup>](https://cloud.google.com/bigquery/transfer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/transfer/docs/)
 * **Cloud Data Transfer**: Data migration tools/CLI [<sup>:link:</sup>](https://cloud.google.com/products/data-transfer/)
-* **Cloud Storage Transfer Service**: Cloud to cloud transfers [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage-transfer/)
 * **Google Transfer Appliance**: Rentable data transport box [<sup>:link:</sup>](https://cloud.google.com/transfer-appliance/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/transfer-appliance/docs/)
 * **Migrate for Anthos**: Migrate VMs to GKE containers [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
 * **Migrate for Compute Engine**: Compute Engine migration tools [<sup>:link:</sup>](https://cloud.google.com/migrate/compute-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/velostrata/docs/)
 * **Migrate from Amazon Redshift**: Migrate from Redshift to BigQuery [<sup>:link:</sup>](https://cloud.google.com/bigquery/docs/redshift-migration) 
 * **Migrate from Teradata**: Migrate from Teradata to BigQuery [<sup>:link:</sup>](https://cloud.google.com/solutions/migration/td2bq/td-bq-migration-overview) 
+* **Storage Transfer Service**: Online/on-premises data transfer [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage-transfer-service/)
 * **VM Migration**: VM migration tools [<sup>:link:</sup>](https://cloud.google.com/vm-migrate/) 
+* **Cloud Foundation Toolkit**: Infrastructure as Code templates [<sup>:link:</sup>](https://cloud.google.com/foundation-toolkit) 
 
 ### API Platform and Ecosystems  
   
