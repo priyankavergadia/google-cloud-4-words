@@ -57,7 +57,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Storage**: Object storage and serving [<sup>:link:</sup>](https://cloud.google.com/storage/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
 * **Nearline**: Archival occasional access storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
 * **Coldline**: Archival rare access storage [<sup>:link:</sup>](https://cloud.google.com/storage/archival/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
-* **Persistent Disk**: VM-attached disks [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/)
+* **Persistent Disk**: Block storage for VMs [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/)
+* **Local SSD**: VM locally attached SSDs [<sup>:link:</sup>](https://cloud.google.com/local-ssd) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/local-ssd)
 * **Cloud Filestore**: Managed NFS server [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
   
 ### Database 
