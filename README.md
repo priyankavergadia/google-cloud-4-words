@@ -44,14 +44,17 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ### Compute
 
+* **Anthos**: Enterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
 * **Cloud Run**: Serverless for containerized applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
 * **Compute Engine**: VMs, GPUs, TPUs, Disks [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
 * **Kubernetes Engine (GKE)**: Managed Kubernetes/containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
-* **Anthos**: Enterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
 * **App Engine**: Managed app platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
 * **Bare Metal Solution**: Hardware for specialized workloads [<sup>:link:</sup>](https://cloud.google.com/bare-metal) 
-   
+* **Preemptible VMs**: Short-lived compute instances [<sup>:link:</sup>](https://cloud.google.com/preemptible-vms) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/instances/preemptible)
+* **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
+* **Sole-tenant nodes**: Dedicated physical servers [<sup>:link:</sup>](https://cloud.google.com/sole-tenant-nodes) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/nodes)
+
 ### Storage
   
 * **Cloud Filestore**: Managed NFS server [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
