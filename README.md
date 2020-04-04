@@ -44,7 +44,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ### Compute
 
-* **Anthos**: Enterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
 * **Cloud Run**: Serverless for containerized applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
 * **Compute Engine**: VMs, GPUs, TPUs, Disks [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
@@ -68,7 +67,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Firestore**: Serverless NoSQL document DB [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
 * **Cloud Memorystore**: Managed Redis and Memcached [<sup>:link:</sup>](https://cloud.google.com/memorystore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/memorystore/docs/)
 * **Cloud Spanner**: Horizontally scalable relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
-* **Cloud SQL**: Managed MySQL,PostgreSQL,SQL Server [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
+* **Cloud SQL**: Managed MySQL, PostgreSQL, SQL Server [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
   
 ### Data and Analytics 
   
@@ -84,7 +83,20 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Data Catalog**: Metadata management service  [<sup>:link:</sup>](https://cloud.google.com/data-catalog/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-catalog/docs/)
 * **Data Studio**: Collaborative data exploration/dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
 * **Looker**: Enterprise BI and Analytics [<sup>:link:</sup>](https://cloud.google.com/looker)
-  
+
+### Hybrid and Multi-cloud
+* **Anthos**: Enterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
+* **Anthos GKE**: Multi-environment containerized apps [<sup>:link:</sup>](https://cloud.google.com/anthos/gke) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/gke/docs/on-prem/)
+* **Anthos Config Management**:Policy and security automation [<sup>:link:</sup>](https://cloud.google.com/anthos/config-management) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos-config-management/docs)
+* **Anthos Service Mesh**: Managed service mesh (Istio) [<sup>:link:</sup>](https://cloud.google.com/anthos/service-mesh) [<sup>:page_facing_up:</sup>](https://cloud.google.com/service-mesh/docs)
+* **Cloud Run for Anthos**: Servlerless development for Anthos [<sup>:link:</sup>](https://cloud.google.com/anthos/run) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/quickstarts/prebuilt-deploy-gke)
+* **Google Cloud Marketplace for Anthos**: Pre-configured apps [<sup>:link:</sup>](https://cloud.google.com/kubernetes-applications) [<sup>:page_facing_up:</sup>](https://cloud.google.com/marketplace/docs/kubernetes-apps)
+* **Migrate for Anthos**: Migrate VMs to GKE containers [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
+* **Operations**: Monitoring, logging, troubleshooting [<sup>:link:</sup>](https://cloud.google.com/products/operations) [<sup>:page_facing_up:</sup>](https://cloud.google.com/stackdriver/docs)
+* **Cloud Build**: Continuous integration/delivery platform [<sup>:link:</sup>](https://cloud.google.com/cloud-build/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cloud-build/docs/)
+* **Traffic Director**: Service mesh traffic management [<sup>:link:</sup>](https://cloud.google.com/traffic-director/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/traffic-director/docs/)
+* **Apigee API Management**: API management, development, security [<sup>:link:</sup>](https://cloud.google.com/apigee)
+
 ### AI/ML 
 
 * **AI Hub**: Hosted AI component sharing [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
@@ -137,8 +149,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **VPC Service Controls**: Security perimeters for API-based services [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/)
 * **Network Intelligence Center**: Network monitoring and topology [<sup>:link:</sup>](https://cloud.google.com/network-intelligence-center/)
 [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-intelligence-center/docs/)
-
-  
+ 
 ### Internet of Things (IoT) 
   
 * **Cloud IoT Core**: Manage devices, ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iot-core/docs/)
@@ -276,7 +287,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Slides API**: Create and edit presentations [<sup>:link:</sup>](https://developers.google.com/slides/)
 * **Task API**: Search, read & update Tasks [<sup>:link:</sup>](https://developers.google.com/tasks/)
 * **Vault API**: Manage your organization's eDiscovery [<sup>:link:</sup>](https://developers.google.com/vault/)
-
   
 ### Mobile (Firebase)  
   
@@ -365,6 +375,11 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   * **/r/dataflow**: [<sup>:link:</sup>](https://www.reddit.com/r/dataflow/)
   * **/r/firebase**: [<sup>:link:</sup>](https://www.reddit.com/r/firebase/)
   * **/r/GoogleAppsScript**: [<sup>:link:</sup>](https://www.reddit.com/r/GoogleAppsScript/)
+* **Big Data / Data Analytics Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/big-data)
+* **Compute Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/databases)
+* **Database Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/compute)
+* **Networking Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/networking)
+* **Storage Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/storage)
 
 ### Platform Comparisons
 
