@@ -1,29 +1,29 @@
 # The Google Cloud Developer's Cheat Sheet
 Every product in the Google Cloud family described in <=4 words (with liberal use of hyphens and slashes :smirk:)\
 by the Google Developer Relations Team\
-<a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>\
+<a target="_blank" href="xDarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="xDarkPoster-lowres.png"></a>\
 White background:
-[Poster PDF](Poster.pdf)
+[Poster PDF](xPoster.pdf)
 |
-[Brochure PDF](Brochure.pdf)
+[Brochure PDF](xBrochure.pdf)
 |
-[High-resolution PNG](Poster-hires.png)
+[High-resolution PNG](xPoster-hires.png)
 |
-[Medium-res PNG](Poster-medres.png)
+[Medium-res PNG](xPoster-medres.png)
 |
-[Low-res PNG](Poster-lowres.png)\
+[Low-res PNG](xPoster-lowres.png)\
 Dark background:
-[Poster PDF](DarkPoster.pdf)
+[Poster PDF](xDarkPoster.pdf)
 |
-[Brochure PDF](DarkBrochure.pdf)
+[Brochure PDF](xDarkBrochure.pdf)
 |
-[High-resolution PNG](DarkPoster-hires.png)
+[High-resolution PNG](xDarkPoster-hires.png)
 |
-[Medium-res PNG](DarkPoster-medres.png)
+[Medium-res PNG](xDarkPoster-medres.png)
 |
-[Low-res PNG](DarkPoster-lowres.png)
+[Low-res PNG](xDarkPoster-lowres.png)
 
-Desktop Wallpapers: [16:9 (iMac, etc.)](Wallpaper-16-9.png) | [16:10 (Macbook Pro)](Wallpaper-16-10.png) | [4:3 (Older computers)](Wallpaper-4-3.png) | [3:2 (Pixelbook)](Wallpaper-3-2.png)
+Desktop Wallpapers: [16:9 (iMac, etc.)](xWallpaper-16-9.png) | [16:10 (Macbook Pro)](xWallpaper-16-10.png) | [4:3 (Older computers)](xWallpaper-4-3.png) | [3:2 (Pixelbook)](Wxallpaper-3-2.png)
 
 Text descriptions with links are below
 
