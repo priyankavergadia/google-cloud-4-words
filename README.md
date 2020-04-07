@@ -310,23 +310,11 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Analytics for Firebase**: Mobile app analytics [<sup>:link:</sup>](https://firebase.google.com/products/analytics/)
 * **ML Kit for Firebase**: ML APIs for mobile [<sup>:link:</sup>](https://firebase.google.com/products/ml-kit/)
   
-### GCP Foundational Open Source Projects
-  
-* **Apache Beam**: Batch/streaming data processing [<sup>:link:</sup>](https://beam.apache.org/)
-* **Go**: High Concurrency Programming Language [<sup>:link:</sup>](https://golang.org/)
-* **gRPC**: RPC framework [<sup>:link:</sup>](https://grpc.io/)
-* **gVisor**: Secure container runtime [<sup>:link:</sup>](https://github.com/google/gvisor)
-* **Istio**: Connect and secure services [<sup>:link:</sup>](https://istio.io/)
-* **Knative**: Serverless framework for Kubernetes [<sup>:link:</sup>](https://github.com/knative)
-* **Kubeflow**: ML toolkit for Kubernetes [<sup>:link:</sup>](https://www.kubeflow.org/)
-* **Kubernetes**: Management of containerized applications [<sup>:link:</sup>](https://kubernetes.io/)
-* **OpenCensus**: Cloud native observability framework [<sup>:link:</sup>](https://opencensus.io/)
-* **TensorFlow**: ML framework [<sup>:link:</sup>](https://www.tensorflow.org/)
-
 ### Additional Resources
 
 * **Google Cloud Home Page**: [<sup>:link:</sup>](https://cloud.google.com)
 * **Google Cloud Blog**: [<sup>:link:</sup>](https://cloud.google.com/blog)
+* **Google Cloud Open Source**: [<sup>:link:</sup>](https://opensource.google/projects/list/cloud)
 * **GCP Medium Publication**: [<sup>:link:</sup>](https://medium.com/google-cloud)
 * **Apigee Blog**: [<sup>:link:</sup>](https://apigee.com/about/blog)
 * **Firebase Blog**: [<sup>:link:</sup>](https://firebase.googleblog.com)
@@ -380,6 +368,19 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Database Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/compute)
 * **Networking Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/networking)
 * **Storage Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/storage)
+
+### GCP Foundational Open Source Projects
+  
+* **Apache Beam**: Batch/streaming data processing [<sup>:link:</sup>](https://beam.apache.org/)
+* **Go**: High Concurrency Programming Language [<sup>:link:</sup>](https://golang.org/)
+* **gRPC**: RPC framework [<sup>:link:</sup>](https://grpc.io/)
+* **gVisor**: Secure container runtime [<sup>:link:</sup>](https://github.com/google/gvisor)
+* **Istio**: Connect and secure services [<sup>:link:</sup>](https://istio.io/)
+* **Knative**: Serverless framework for Kubernetes [<sup>:link:</sup>](https://github.com/knative)
+* **Kubeflow**: ML toolkit for Kubernetes [<sup>:link:</sup>](https://www.kubeflow.org/)
+* **Kubernetes**: Management of containerized applications [<sup>:link:</sup>](https://kubernetes.io/)
+* **OpenCensus**: Cloud native observability framework [<sup>:link:</sup>](https://opencensus.io/)
+* **TensorFlow**: ML framework [<sup>:link:</sup>](https://www.tensorflow.org/)
 
 ### Platform Comparisons
 
