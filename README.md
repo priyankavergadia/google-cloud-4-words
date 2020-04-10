@@ -89,7 +89,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Anthos GKE**: Hybrid/on-prem Kubernetes Engine [<sup>:link:</sup>](https://cloud.google.com/anthos/gke) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/gke/docs/on-prem/)
 * **Anthos Config Management**:Policy and security automation [<sup>:link:</sup>](https://cloud.google.com/anthos/config-management) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos-config-management/docs)
 * **Anthos Service Mesh**: Managed service mesh (Istio) [<sup>:link:</sup>](https://cloud.google.com/anthos/service-mesh) [<sup>:page_facing_up:</sup>](https://cloud.google.com/service-mesh/docs)
-* **Cloud Run for Anthos**: Servlerless development for Anthos [<sup>:link:</sup>](https://cloud.google.com/anthos/run) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/quickstarts/prebuilt-deploy-gke)
+* **Cloud Run for Anthos**: Serverless development for Anthos [<sup>:link:</sup>](https://cloud.google.com/anthos/run) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/quickstarts/prebuilt-deploy-gke)
 * **Google Cloud Marketplace for Anthos**: Pre-configured containerized apps [<sup>:link:</sup>](https://cloud.google.com/kubernetes-applications) [<sup>:page_facing_up:</sup>](https://cloud.google.com/marketplace/docs/kubernetes-apps)
 * **Migrate for Anthos**: Migrate VMs to Kubernetes Engine [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
 * **Operations**: Monitoring, logging, troubleshooting [<sup>:link:</sup>](https://cloud.google.com/products/operations) [<sup>:page_facing_up:</sup>](https://cloud.google.com/stackdriver/docs)
