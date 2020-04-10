@@ -165,7 +165,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Audit Logs**: Audit trails for GCP [<sup>:link:</sup>](https://cloud.google.com/audit-logs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/)
 * **Cloud Data Loss Prevention API**: Classify and redact sensitive data [<sup>:link:</sup>](https://cloud.google.com/dlp/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dlp/docs/)
 * **Cloud HSM**: Hardware security module service [<sup>:link:</sup>](https://cloud.google.com/hsm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/hsm/)
-* **Cloud EKM**: External keys you control [<sup>:link:</sup>](https://cloud.google.com/kms/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/managing-external-keys)
+* **Cloud EKM**: External keys you control [<sup>:link:</sup>](https://cloud.google.com/ekm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/ekm/)
 * **Cloud IAM**: Resource access control [<sup>:link:</sup>](https://cloud.google.com/iam/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iam/docs/)
 * **Cloud Identity**: Manage users, devices & apps [<sup>:link:</sup>](https://cloud.google.com/identity/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/identity/solutions/overview/)
 * **Cloud Identity-Aware Proxy**: Identity-based app access [<sup>:link:</sup>](https://cloud.google.com/iap/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/)
