@@ -44,15 +44,18 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ### Compute
 
-* **Cloud Run**: Serverless for containerized applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
+
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
-* **Compute Engine**: VMs, GPUs, TPUs, Disks [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
+* **App Engine**: Managed app platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) 
+[<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
+* **Cloud Run**: Serverless for containerized applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
 * **Kubernetes Engine (GKE)**: Managed Kubernetes/containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
-* **App Engine**: Managed app platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
+* **Compute Engine**: VMs, GPUs, TPUs, Disks [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
 * **Bare Metal Solution**: Hardware for specialized workloads [<sup>:link:</sup>](https://cloud.google.com/bare-metal) 
 * **Preemptible VMs**: Short-lived compute instances [<sup>:link:</sup>](https://cloud.google.com/preemptible-vms) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/instances/preemptible)
 * **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
 * **Sole-tenant nodes**: Dedicated physical servers [<sup>:link:</sup>](https://cloud.google.com/sole-tenant-nodes) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/nodes)
+* **VMware Engine**: VMware on Compute Engine [<sup>:link:</sup>](https://cloud.google.com/vmware-engine) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vmware-engine/docs)
 
 ### Storage
   
@@ -68,6 +71,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Memorystore**: Managed Redis and Memcached [<sup>:link:</sup>](https://cloud.google.com/memorystore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/memorystore/docs/)
 * **Cloud Spanner**: Horizontally scalable relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
 * **Cloud SQL**: Managed MySQL, PostgreSQL, SQL Server [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
+* **Database Migration Service**: Migrate to Cloud SQL [<sup>:link:</sup>](https://cloud.google.com/database-migration) [<sup>:page_facing_up:</sup>](https://cloud.google.com/database-migration/docs)
+* **DB Insights**: SQL Inspector [<sup>:link:</sup>](https://cloud.google.com/sql/docs/postgres/insights-overview) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/postgres/using-insights)
   
 ### Data and Analytics 
   
@@ -84,9 +89,10 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Data Studio**: Collaborative data exploration/dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
 * **Looker**: Enterprise BI and Analytics [<sup>:link:</sup>](https://cloud.google.com/looker)
 
+
 ### Hybrid and Multi-cloud
-* **Anthos**: Enterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
-* **Anthos GKE**: Hybrid/on-prem Kubernetes Engine [<sup>:link:</sup>](https://cloud.google.com/anthos/gke) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/gke/docs/on-prem/)
+* **Anthos**: Build/manage distributed infrastructureEnterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
+* **Anthos clusters**: Hybrid/on-prem Kubernetes Engine [<sup>:link:</sup>](https://cloud.google.com/anthos/gke) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/gke/docs/on-prem/)
 * **Anthos Config Management**:Policy and security automation [<sup>:link:</sup>](https://cloud.google.com/anthos/config-management) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos-config-management/docs)
 * **Anthos Service Mesh**: Managed service mesh (Istio) [<sup>:link:</sup>](https://cloud.google.com/anthos/service-mesh) [<sup>:page_facing_up:</sup>](https://cloud.google.com/service-mesh/docs)
 * **Cloud Run for Anthos**: Serverless development for Anthos [<sup>:link:</sup>](https://cloud.google.com/anthos/run) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/quickstarts/prebuilt-deploy-gke)
@@ -97,9 +103,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Traffic Director**: Service mesh traffic management [<sup>:link:</sup>](https://cloud.google.com/traffic-director/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/traffic-director/docs/)
 * **Apigee API Management**: API management, development, security [<sup>:link:</sup>](https://cloud.google.com/apigee)
 
-### AI/ML 
+### AI/ML
 
-* **AI Hub**: Hosted AI component sharing [<sup>:link:</sup>](https://cloud.google.com/ai-hub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-hub/docs/)
 * **AI Platform Data Labeling**: Data labeling by humans [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-labeling/docs/)
 * **AI Platform Deep Learning VMs**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
 * **AI Platform Deep Learning Containers**: Preconfigured containers for deep learning [<sup>:link:</sup>](https://cloud.google.com/ai-platform/deep-learning-containers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/deep-learning-containers/docs/)
@@ -161,9 +166,12 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 ### Identity and Security
   
 * **Access Transparency**: Audit cloud provider access [<sup>:link:</sup>](https://cloud.google.com/access-transparency/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/access-transparency-overview/)
+* **Assured Workloads**: Workload compliance controls [<sup>:link:</sup>](https://cloud.google.com/assured-workloads) [<sup>:page_facing_up:</sup>](https://cloud.google.com/assured-workloads/docs)
 * **Binary Authorization**: Kubernetes deploy-time security [<sup>:link:</sup>](https://cloud.google.com/binary-authorization/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/binary-authorization/docs/)
+* **Certificate Authority Service**: Managed private CAs [<sup>:link:</sup>](https://cloud.google.com/certificate-authority-service) [<sup>:page_facing_up:</sup>](https://cloud.google.com/certificate-authority-service/docs)
+* **Cloud Asset Inventory**: All assets, one place [<sup>:link:</sup>](https://cloud.google.com/asset-inventory) [<sup>:page_facing_up:</sup>](https://cloud.google.com/asset-inventory/docs/overview)
 * **Cloud Audit Logs**: Audit trails for GCP [<sup>:link:</sup>](https://cloud.google.com/audit-logs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/)
-* **Cloud Data Loss Prevention API**: Classify and redact sensitive data [<sup>:link:</sup>](https://cloud.google.com/dlp/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dlp/docs/)
+* **Cloud DLP**: Classify and redact sensitive data [<sup>:link:</sup>](https://cloud.google.com/dlp/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dlp/docs/)
 * **Cloud HSM**: Hardware security module service [<sup>:link:</sup>](https://cloud.google.com/hsm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/hsm/)
 * **Cloud EKM**: External keys you control [<sup>:link:</sup>](https://cloud.google.com/ekm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/ekm/)
 * **Cloud IAM**: Resource access control [<sup>:link:</sup>](https://cloud.google.com/iam/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iam/docs/)
@@ -171,8 +179,9 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Identity-Aware Proxy**: Identity-based app access [<sup>:link:</sup>](https://cloud.google.com/iap/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/)
 * **Cloud KMS**: Hosted key management service [<sup>:link:</sup>](https://cloud.google.com/kms/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/)
 * **Cloud Resource Manager**: Cloud project metadata management [<sup>:link:</sup>](https://cloud.google.com/resource-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/resource-manager/docs/)
-* **Cloud Security Command Center**: Security management and data risk platform [<sup>:link:</sup>](https://cloud.google.com/security-command-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-command-center/docs/)
+* **Security Command Center**: Security management and data risk platform [<sup>:link:</sup>](https://cloud.google.com/security-command-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-command-center/docs/)
 * **Cloud Security Scanner**: App engine security scanner [<sup>:link:</sup>](https://cloud.google.com/security-scanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-scanner/docs/)
+* **Confidential Computing**: Encrypt data in-use [<sup>:link:</sup>](https://cloud.google.com/confidential-computing) [<sup>:page_facing_up:</sup>](https://cloud.google.com/confidential-computing/docs)
 * **Context-aware Access**: End-user attribute-based access control [<sup>:link:</sup>](https://cloud.google.com/context-aware-access/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto/)
 * **Event Threat Detection**: Scans for suspicious activity [<sup>:link:</sup>](https://cloud.google.com/event-threat-detection/) 
 * **Managed Service for Microsoft Active Directory**: Managed Microsoft Active Directory  [<sup>:link:</sup>](https://cloud.google.com/managed-microsoft-ad/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/managed-microsoft-ad/docs/)
@@ -196,7 +205,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Logging**: Centralized logging [<sup>:link:</sup>](https://cloud.google.com/logging/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/)
 * **Cloud Monitoring**: Infrastructure and application monitoring [<sup>:link:</sup>](https://cloud.google.com/monitoring/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/monitoring/docs/)
 * **Cloud Profiler**: CPU and heap profiling [<sup>:link:</sup>](https://cloud.google.com/profiler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/profiler/docs/)
-* **Cloud Trace**: App performance insights [<sup>:link:</sup>](https://cloud.google.com/trace/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)  
+* **Cloud Trace**: App latency insights [<sup>:link:</sup>](https://cloud.google.com/trace/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)  
 * **Transparent SLIs**: Monitor GCP services [<sup>:link:</sup>](https://cloud.google.com/transparent-sli/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/monitoring/)
 
 ### Developer Tools  
@@ -205,43 +214,49 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Code for IntelliJ**: IntelliJ GCP tools [<sup>:link:</sup>](https://cloud.google.com/intellij/)
 * **Cloud Code for VS Code**: VS Code GCP tools [<sup>:link:</sup>](https://cloud.google.com/code/docs/vscode/)
 * **Cloud Code**: Cloud native IDE extensions [<sup>:link:</sup>](https://cloud.google.com/code/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/code/docs/)
-* **Cloud Scheduler**: Managed cron job service [<sup>:link:</sup>](https://cloud.google.com/scheduler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/scheduler/docs/)
-* **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sdk/docs/)
-* **Cloud Shell**: Browser-based terminal/CLI [<sup>:link:</sup>](https://cloud.google.com/shell/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/shell/docs/)
-* **Cloud Source Repositories**: Hosted private git repos [<sup>:link:</sup>](https://cloud.google.com/source-repositories/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/source-repositories/docs/)
-* **Cloud Tasks**: Asynchronous task execution [<sup>:link:</sup>](https://cloud.google.com/tasks/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tasks/docs/)
 * **Cloud Tools for Eclipse**: Eclipse GCP tools [<sup>:link:</sup>](https://cloud.google.com/eclipse/docs/)
 * **Cloud Tools for Visual Studio**: Visual Studio GCP tools [<sup>:link:</sup>](https://cloud.google.com/visual-studio/)
-* **Container Analysis**: Automated security scanning [<sup>:link:</sup>](https://cloud.google.com/container-registry/docs/container-analysis) [<sup>:page_facing_up:</sup>](https://cloud.google.com/container-registry/docs/)
-* **Container Registry**: Private container registry/storage [<sup>:link:</sup>](https://cloud.google.com/container-registry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/container-registry/docs/)
-* **Artifact Registry**: Universal package manager [<sup>:link:</sup>](https://cloud.google.com/artifacts/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/artifacts/)
 * **Gradle App Engine Plugin**: Gradle App Engine plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-gradle-plugin)
 * **Maven App Engine Plugin**: Maven App Engine plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-maven-plugin)
-  
+* **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sdk/docs/)
+* **Cloud Shell**: Browser-based terminal/CLI [<sup>:link:</sup>](https://cloud.google.com/shell/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/shell/docs/)
+* **Artifact Registry**: Universal package manager [<sup>:link:</sup>](https://cloud.google.com/artifacts/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/artifacts/)
+* **Cloud Source Repositories**: Hosted private git repos [<sup>:link:</sup>](https://cloud.google.com/source-repositories/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/source-repositories/docs/)
+* **Container Registry**: Private container registry/storage [<sup>:link:</sup>](https://cloud.google.com/container-registry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/container-registry/docs/)
+* **Container Analysis**: Automated security scanning [<sup>:link:</sup>](https://cloud.google.com/container-registry/docs/container-analysis) [<sup>:page_facing_up:</sup>](https://cloud.google.com/container-registry/docs/)
+* **Eventarc**: Event-driven Cloud Run services [<sup>:link:</sup>](https://cloud.google.com/eventarc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/eventarc/docs/)
+* **Cloud Scheduler**: Managed cron job service [<sup>:link:</sup>](https://cloud.google.com/scheduler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/scheduler/docs/)
+* **Cloud Tasks**: Asynchronous task execution [<sup>:link:</sup>](https://cloud.google.com/tasks/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tasks/docs/)
+* **Cloud Workflows**: HTTP services orchestration [<sup>:link:</sup>](https://cloud.google.com/workflows/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/workflows/docs/)
+
 ### Migration to GCP  
   
 * **BigQuery Data Transfer Service**: Bulk import analytics data [<sup>:link:</sup>](https://cloud.google.com/bigquery/transfer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/transfer/docs/)
 * **Cloud Data Transfer**: Data migration tools/CLI [<sup>:link:</sup>](https://cloud.google.com/products/data-transfer/)
 * **Google Transfer Appliance**: Rentable data transport box [<sup>:link:</sup>](https://cloud.google.com/transfer-appliance/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/transfer-appliance/docs/)
-* **Migrate for Anthos**: Migrate VMs to GKE containers [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
+* **Storage Transfer Service**: Online/on-premises data transfer [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage-transfer-service/)
+* **Migrate for Anthos**: Migrate VMs to containers [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
 * **Migrate for Compute Engine**: Compute Engine migration tools [<sup>:link:</sup>](https://cloud.google.com/migrate/compute-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/velostrata/docs/)
 * **Migrate from Amazon Redshift**: Migrate from Redshift to BigQuery [<sup>:link:</sup>](https://cloud.google.com/bigquery/docs/redshift-migration) 
 * **Migrate from Teradata**: Migrate from Teradata to BigQuery [<sup>:link:</sup>](https://cloud.google.com/solutions/migration/td2bq/td-bq-migration-overview) 
-* **Storage Transfer Service**: Online/on-premises data transfer [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage-transfer-service/)
 * **VM Migration**: VM migration tools [<sup>:link:</sup>](https://cloud.google.com/vm-migrate/) 
 * **Cloud Foundation Toolkit**: Infrastructure as Code templates [<sup>:link:</sup>](https://cloud.google.com/foundation-toolkit) 
+* **KF**: Cloud Foundry to Kubernetes [<sup>:link:</sup>(https://cloud.google.com/migrate/kf/docs)
 
 ### API Platform and Ecosystems  
   
 * **API Analytics**: API metrics [<sup>:link:</sup>](https://cloud.google.com/api-analytics/)
 * **API Monetization**: Monetize APIs [<sup>:link:</sup>](https://cloud.google.com/api-monetization/)
 * **Apigee API Platform**: Develop, secure, monitor APIs [<sup>:link:</sup>](https://cloud.google.com/apigee-api-management/)
+* **API Gateway**: Fully managed API Gateway [<sup>:link:</sup>](https://cloud.google.com/api-gateway)
 * **Apigee Hybrid**: Manage hybrid/multi-cloud API environments [<sup>:link:</sup>](https://cloud.google.com/apigee/api-management/hybrid/)[<sup>:page_facing_up:</sup>](https://docs.apigee.com/hybrid/beta2)
 * **Apigee Sense**: API protection from attacks [<sup>:link:</sup>](https://cloud.google.com/apigee-sense/)
 * **Cloud Endpoints**: Cloud API gateway [<sup>:link:</sup>](https://cloud.google.com/endpoints/)
 * **Cloud Healthcare API**: Healthcare system GCP interoperability [<sup>:link:</sup>](https://cloud.google.com/healthcare-api/)
 * **Developer Portal**: API management portal [<sup>:link:</sup>](https://cloud.google.com/developer-portal/)
 * **GCP Marketplace**: Partner & open source marketplace [<sup>:link:</sup>](https://cloud.google.com/marketplace/)
+* **AppSheet**: No-code App creation [<sup>:link:</sup>](https://www.appsheet.com/)
+
   
 ### Google Maps Platform  
   
@@ -265,7 +280,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Street View Service**: Street view for JavaScript [<sup>:link:</sup>](https://developers.google.com/maps/documentation/javascript/streetview/)
 * **Time Zone API**: Convert coordinates to timezone [<sup>:link:</sup>](https://developers.google.com/maps/documentation/timezone/)
   
-### G Suite Platform  
+### Workspace Platform  
   
 * **Admin SDK**: Manage G Suite resources [<sup>:link:</sup>](https://developers.google.com/admin-sdk)
 * **AMP for Email**: Dynamic interactive email [<sup>:link:</sup>](https://developers.google.com/gmail)
@@ -331,6 +346,9 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Kaggle Home Page**: [<sup>:link:</sup>](https://www.kaggle.com) 
 * **Kubernetes Blog**: [<sup>:link:</sup>](https://kubernetes.io/blog)
 * **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
+  * **Google Cloud Platform Podcast**: [<sup>:link:</sup>](https://gcppodcast.com/)
+  * **Kubernetes Podcast from Google**: [<sup>:link:</sup>](https://kubernetespodcast.com/)
+* **DORA - Software & Delivery Research**: [<sup>:link:</sup>](https://cloud.google.com/devops)
 
 ----------------------------
 ### Everything below is not included in the PDFs/PNGs due to space limitations
@@ -354,8 +372,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   * **Google Developer's**: [<sup>:link:</sup>](https://www.youtube.com/user/GoogleDevelopers)
   * **Firebase**: [<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
 * **Podcasts**:
-  * **Google Cloud Podcast**: [<sup>:link:</sup>](https://gcppodcast.com/)
-  * **Kubernetes Podcast**: [<sup>:link:</sup>](https://kubernetespodcast.com/)
+
 * **Reddit**:
   * **/r/googlecloud**: [<sup>:link:</sup>](https://www.reddit.com/r/googlecloud/)
   * **/r/AppEngine**: [<sup>:link:</sup>](https://www.reddit.com/r/AppEngine/)
