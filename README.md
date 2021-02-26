@@ -54,7 +54,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Bare Metal Solution**: Hardware for specialized workloads [<sup>:link:</sup>](https://cloud.google.com/bare-metal) 
 * **Preemptible VMs**: Short-lived compute instances [<sup>:link:</sup>](https://cloud.google.com/preemptible-vms) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/instances/preemptible)
 * **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
-* **Sole-tenant nodes**: Dedicated physical servers [<sup>:link:</sup>](https://cloud.google.com/sole-tenant-nodes) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/nodes)
+* **Sole-tenant Nodes**: Dedicated physical servers [<sup>:link:</sup>](https://cloud.google.com/sole-tenant-nodes) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/nodes)
 * **VMware Engine**: VMware on Compute Engine [<sup>:link:</sup>](https://cloud.google.com/vmware-engine) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vmware-engine/docs)
 
 ### Storage
@@ -92,7 +92,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ### Hybrid and Multi-cloud
 * **Anthos**: Enterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
-* **Anthos clusters**: Hybrid/on-prem Kubernetes Engine [<sup>:link:</sup>](https://cloud.google.com/anthos/gke) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/gke/docs/on-prem/)
+* **Anthos Clusters**: Hybrid/on-prem Kubernetes Engine [<sup>:link:</sup>](https://cloud.google.com/anthos/gke) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/gke/docs/on-prem/)
 * **Anthos Config Management**:Policy and security automation [<sup>:link:</sup>](https://cloud.google.com/anthos/config-management) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos-config-management/docs)
 * **Anthos Service Mesh**: Managed service mesh (Istio) [<sup>:link:</sup>](https://cloud.google.com/anthos/service-mesh) [<sup>:page_facing_up:</sup>](https://cloud.google.com/service-mesh/docs)
 * **Cloud Run for Anthos**: Serverless development for Anthos [<sup>:link:</sup>](https://cloud.google.com/anthos/run) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/quickstarts/prebuilt-deploy-gke)
@@ -329,6 +329,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 * **Google Cloud Home Page**: [<sup>:link:</sup>](https://cloud.google.com)
 * **Google Cloud Blog**: [<sup>:link:</sup>](https://cloud.google.com/blog)
+* **Google Cloud Platform Podcast**: [<sup>:link:</sup>](https://gcppodcast.com/)
+* **Kubernetes Podcast from Google**: [<sup>:link:</sup>](https://kubernetespodcast.com/)
 * **Google Cloud Open Source**: [<sup>:link:</sup>](https://opensource.google/projects/list/cloud)
 * **GCP Medium Publication**: [<sup>:link:</sup>](https://medium.com/google-cloud)
 * **Apigee Blog**: [<sup>:link:</sup>](https://apigee.com/about/blog)
@@ -346,8 +348,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Kaggle Home Page**: [<sup>:link:</sup>](https://www.kaggle.com) 
 * **Kubernetes Blog**: [<sup>:link:</sup>](https://kubernetes.io/blog)
 * **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
-  * **Google Cloud Platform Podcast**: [<sup>:link:</sup>](https://gcppodcast.com/)
-  * **Kubernetes Podcast from Google**: [<sup>:link:</sup>](https://kubernetespodcast.com/)
 * **DORA - Software & Delivery Research**: [<sup>:link:</sup>](https://cloud.google.com/devops)
 
 ----------------------------
@@ -371,8 +371,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
   * **G Suite**: [<sup>:link:</sup>](https://www.youtube.com/user/GoogleApps)
   * **Google Developer's**: [<sup>:link:</sup>](https://www.youtube.com/user/GoogleDevelopers)
   * **Firebase**: [<sup>:link:</sup>](https://www.youtube.com/user/Firebase)
-* **Podcasts**:
-
 * **Reddit**:
   * **/r/googlecloud**: [<sup>:link:</sup>](https://www.reddit.com/r/googlecloud/)
   * **/r/AppEngine**: [<sup>:link:</sup>](https://www.reddit.com/r/AppEngine/)
