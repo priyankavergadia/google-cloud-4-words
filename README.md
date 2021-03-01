@@ -29,7 +29,7 @@ Text descriptions with links are below
 
 Suggestions for better descriptions? Missing products? Pull requests are welcome on README.md (this file).
 
-Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@gregsramblings](https://twitter.com/gregsramblings). You can also check my blog - [https://gregsramblings.com](https://gregsramblings.com)
+Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@pvergadia](https://twitter.com/pvergadia) or [@gregsramblings](https://twitter.com/gregsramblings). 
 
 **Note:** This list only includes products that are publicly available. There are several products in pre-release/private-alpha that will not be included until they go public beta or GA.
 
