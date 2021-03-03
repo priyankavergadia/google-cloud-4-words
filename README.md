@@ -241,7 +241,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Migrate from Teradata**: Migrate from Teradata to BigQuery [<sup>:link:</sup>](https://cloud.google.com/solutions/migration/td2bq/td-bq-migration-overview) 
 * **VM Migration**: VM migration tools [<sup>:link:</sup>](https://cloud.google.com/vm-migrate/) 
 * **Cloud Foundation Toolkit**: Infrastructure as Code templates [<sup>:link:</sup>](https://cloud.google.com/foundation-toolkit) 
-* **KF**: Cloud Foundry to Kubernetes [<sup>:link:</sup>(https://cloud.google.com/migrate/kf/docs)
+* **KF**: Cloud Foundry to Kubernetes [<sup>:link:</sup>](https://cloud.google.com/migrate/kf/docs)
 
 ### API Platform and Ecosystems  
   
