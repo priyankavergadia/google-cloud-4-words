@@ -55,7 +55,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Preemptible VMs**: Short-lived compute instances [<sup>:link:</sup>](https://cloud.google.com/preemptible-vms) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/instances/preemptible)
 * **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
 * **Sole-tenant Nodes**: Dedicated physical servers [<sup>:link:</sup>](https://cloud.google.com/sole-tenant-nodes) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/nodes)
-* **VMware Engine**: VMware on Compute Engine [<sup>:link:</sup>](https://cloud.google.com/vmware-engine) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vmware-engine/docs)
+* **VMware Engine**: VMware as a service [<sup>:link:</sup>](https://cloud.google.com/vmware-engine) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vmware-engine/docs)
 
 ### Storage
   
