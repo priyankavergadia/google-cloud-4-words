@@ -4,9 +4,9 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-2-23 Folder/Document fonts/AdobeFnt22.lst
-FileLength:4387
-FileModTime:635869248
+OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-3-3 Folder/Document fonts/AdobeFnt22.lst
+FileLength:4379
+FileModTime:636511717
 %EndFont
 
 %BeginFont
@@ -25,7 +25,7 @@ FamilyNameNative:
 StyleNameNative:Regular
 FullNameNative:
 WritingScript:Greek
-OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-2-23 Folder/Document fonts/Apple Symbols.ttf
+OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-3-3 Folder/Document fonts/Apple Symbols.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -49,7 +49,7 @@ WidthClass:5
 AngleClass:0
 FullName:Gotham-Bold
 WritingScript:Roman
-OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-2-23 Folder/Document fonts/GothaBol
+OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-3-3 Folder/Document fonts/GothaBol
 DataFormat:POSTResource
 UsesStandardEncoding:no
 isCFF:no
@@ -73,7 +73,7 @@ WidthClass:5
 AngleClass:0
 FullName:Gotham-Medium
 WritingScript:Roman
-OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-2-23 Folder/Document fonts/GothaMed
+OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-3-3 Folder/Document fonts/GothaMed
 DataFormat:POSTResource
 UsesStandardEncoding:no
 isCFF:no
@@ -97,7 +97,7 @@ WidthClass:5
 AngleClass:0
 FullName:GothamSemiNarrow-Medium
 WritingScript:Roman
-OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-2-23 Folder/Document fonts/GothaSemNarMed
+OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-3-3 Folder/Document fonts/GothaSemNarMed
 DataFormat:POSTResource
 UsesStandardEncoding:no
 isCFF:no
@@ -112,7 +112,7 @@ DesignSize:-1
 Handler:DirectoryHandler
 FontType:Suitcase
 FontName:Gotham-Bold
-OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-2-23 Folder/Document fonts/Gotham-Bold
+OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-3-3 Folder/Document fonts/Gotham-Bold
 ResourceID:4161
 MacStyle:0
 FileLength:24482
@@ -123,7 +123,7 @@ FileModTime:388351830
 Handler:DirectoryHandler
 FontType:Suitcase
 FontName:Gotham-Medium
-OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-2-23 Folder/Document fonts/Gotham-Medium
+OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-3-3 Folder/Document fonts/Gotham-Medium
 ResourceID:4160
 MacStyle:0
 FileLength:24496
@@ -134,7 +134,7 @@ FileModTime:388351830
 Handler:DirectoryHandler
 FontType:Suitcase
 FontName:GothamSemiNarrow-Medium
-OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-2-23 Folder/Document fonts/GothamSemiNarrow-Medium
+OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-3-3 Folder/Document fonts/GothamSemiNarrow-Medium
 ResourceID:1355
 MacStyle:0
 FileLength:17944
@@ -154,7 +154,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-2-23 Folder/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Volumes/EC Back-Up/MG Dropbox/Modest Giant Dropbox/Don Ulinski/HDI/Google/Google Cloud-Developer Cheat Sheet/Google Cloud-Developer Cheat Sheet(DARK)_2021-3-3 Folder/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
