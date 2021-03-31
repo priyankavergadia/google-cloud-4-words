@@ -72,7 +72,7 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud Spanner**: Horizontally scalable relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
 * **Cloud SQL**: Managed MySQL, PostgreSQL, SQL Server [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
 * **Database Migration Service**: Migrate to Cloud SQL [<sup>:link:</sup>](https://cloud.google.com/database-migration) [<sup>:page_facing_up:</sup>](https://cloud.google.com/database-migration/docs)
-* **DB Insights**: SQL Inspector [<sup>:link:</sup>](https://cloud.google.com/sql/docs/postgres/insights-overview) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/postgres/using-insights)
+* **Cloud SQL Insights**: SQL Inspector [<sup>:link:</sup>](https://cloud.google.com/sql/docs/postgres/insights-overview) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/postgres/using-insights)
   
 ### Data and Analytics 
   
