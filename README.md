@@ -152,8 +152,8 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Google Cloud Service Mesh**: Service-aware network management [<sup>:link:</sup>](https://cloud.google.com/service-mesh/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
 * **Virtual Private Cloud**: Software defined networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
 * **VPC Service Controls**: Security perimeters for API-based services [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/)
-* **Network Intelligence Center**: Network monitoring and topology [<sup>:link:</sup>](https://cloud.google.com/network-intelligence-center/)
-[<sup>:page_facing_up:</sup>](https://cloud.google.com/network-intelligence-center/docs/)
+* **Network Intelligence Center**: Network monitoring and topology [<sup>:link:</sup>](https://cloud.google.com/network-intelligence-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-intelligence-center/docs/)
+* **Service Directory**: Platform for discovering, publishing, and connecting services [<sup>:link:</sup>](https://cloud.google.com/service-directory/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/service-directory/docs/)
  
 ### Internet of Things (IoT) 
   
