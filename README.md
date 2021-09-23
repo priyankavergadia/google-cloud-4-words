@@ -245,15 +245,12 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 
 ### API Platform and Ecosystems  
   
-* **API Analytics**: API metrics [<sup>:link:</sup>](https://cloud.google.com/api-analytics/)
-* **API Monetization**: Monetize APIs [<sup>:link:</sup>](https://cloud.google.com/api-monetization/)
 * **Apigee API Platform**: Develop, secure, monitor APIs [<sup>:link:</sup>](https://cloud.google.com/apigee-api-management/)
 * **API Gateway**: Fully managed API Gateway [<sup>:link:</sup>](https://cloud.google.com/api-gateway)
 * **Apigee Hybrid**: Manage hybrid/multi-cloud API environments [<sup>:link:</sup>](https://cloud.google.com/apigee/api-management/hybrid/)[<sup>:page_facing_up:</sup>](https://docs.apigee.com/hybrid/beta2)
 * **Apigee Sense**: API protection from attacks [<sup>:link:</sup>](https://cloud.google.com/apigee-sense/)
 * **Cloud Endpoints**: Cloud API gateway [<sup>:link:</sup>](https://cloud.google.com/endpoints/)
 * **Cloud Healthcare API**: Healthcare system GCP interoperability [<sup>:link:</sup>](https://cloud.google.com/healthcare-api/)
-* **Developer Portal**: API management portal [<sup>:link:</sup>](https://cloud.google.com/developer-portal/)
 * **GCP Marketplace**: Partner & open source marketplace [<sup>:link:</sup>](https://cloud.google.com/marketplace/)
 * **AppSheet**: No-code App creation [<sup>:link:</sup>](https://www.appsheet.com/)
 
