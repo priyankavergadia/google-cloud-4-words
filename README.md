@@ -308,7 +308,7 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Migrate from Amazon Redshift**: Migrate from Redshift to BigQuery [<sup>:link:</sup>](https://cloud.google.com/bigquery/docs/redshift-migration) 
 * **Migrate from Teradata**: Migrate from Teradata to BigQuery [<sup>:link:</sup>](https://cloud.google.com/solutions/migration/td2bq/td-bq-migration-overview) 
 * **Cloud Foundation Toolkit**: Infrastructure as Code templates [<sup>:link:</sup>](https://cloud.google.com/foundation-toolkit) 
-* **KF**: Cloud Foundry to Kubernetes [<sup>:link:</sup>(https://cloud.google.com/migrate/kf/docs)
+* **KF**: Cloud Foundry to Kubernetes [<sup>:link:</sup>](https://cloud.google.com/migrate/kf/docs)
 
   
 ### Google Maps Platform  
