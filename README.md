@@ -236,11 +236,10 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Cloud Scheduler**: Managed cron job service [<sup>:link:</sup>](https://cloud.google.com/scheduler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/scheduler/docs/)
 * **Cloud Tasks**: Asynchronous task execution [<sup>:link:</sup>](https://cloud.google.com/tasks/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tasks/docs/)
 * **Cloud Workflows**: HTTP services orchestration [<sup>:link:</sup>](https://cloud.google.com/workflows/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/workflows/docs/)
-* ** Pub/Sub**: Global real-time messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs/)
+* **Pub/Sub**: Global real-time messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs/)
 
 
-### API Platform and Ecosystems  
-  
+### API Platform and Ecosystems   
 * **API Analytics**: API metrics [<sup>:link:</sup>](https://cloud.google.com/api-analytics/)
 * **API Monetization**: Monetize APIs [<sup>:link:</sup>](https://cloud.google.com/api-monetization/)
 * **Apigee API Platform**: Develop, secure, monitor APIs [<sup>:link:</sup>](https://cloud.google.com/apigee-api-management/)
@@ -252,12 +251,11 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Marketplace**: Partner & open source marketplace [<sup>:link:</sup>](https://cloud.google.com/marketplace/)
 * **AppSheet**: No-code App creation [<sup>:link:</sup>](https://www.appsheet.com/)
 
-* ### Internet of Things (IoT) 
+### Internet of Things (IoT) 
   
 * **Cloud IoT Core**: Manage devices, ingest data [<sup>:link:</sup>](https://cloud.google.com/iot-core/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iot-core/docs/)
   
 ### Gaming
-
 * **Google Cloud Game Servers**: Orchestrate Agones clusters [<sup>:link:</sup>](https://cloud.google.com/game-servers)
 
 ### Healthcare
