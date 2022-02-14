@@ -1,8 +1,10 @@
 
 
 # The Google Cloud Developer's Cheat Sheet
-Every product, feature and service in the Google Cloud family described in <=4 words (with liberal use of hyphens and slashes :smirk:)\
-by the Google Developer Relations Team\
+Every product, feature and service in the Google Cloud family described in <=4 words (with liberal use of hyphens and slashes :smirk:) by the Google Developer Relations Team
+
+Check out the [interactive version of the cheat sheet](https://goo.gle/GCPCheatsheet) <img width="40" valign="middle" src="Map&list.gif">
+
 <a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>\
 White background:
 [Poster PDF](Poster.pdf)
