@@ -3,7 +3,7 @@
 # The Google Cloud Developer's Cheat Sheet
 Every product, feature and service in the Google Cloud family described in <=4 words (with liberal use of hyphens and slashes :smirk:) by the Google Developer Relations Team
 
-Check out the [interactive version of the cheat sheet](https://goo.gle/GCPCheatsheet) <img width="40" valign="middle" src="Map&list.gif">
+Check out the [interactive version of the cheat sheet](https://goo.gle/GCPCheatsheet) <img border="1" valign="middle" src="Map&list.gif">
 
 <a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>\
 White background:
@@ -41,7 +41,7 @@ Fun flashback - [here's the list of products in 2014](https://web.archive.org/we
 
 Many of these products have a [free tier](https://cloud.google.com/free/). There is also a [free trial](https://console.cloud.google.com/freetrial) that will enable you try almost everything.
 
-Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/Google Cloudsketchnote) to provide you a one pager visual overview of what each of these products are and how you can use them.
+Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/gcpsketchnote) to provide you a one pager visual overview of what each of these products are and how you can use them.
 
 ----------------------------
 # All Products
