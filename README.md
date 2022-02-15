@@ -5,20 +5,12 @@ Every product, feature and service in the Google Cloud family described in <=4 w
 
 <a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>\
 White background:
-[Poster PDF](Poster.pdf)
-|
-[Brochure PDF](Brochure.pdf)
-|
 [High-resolution PNG](Poster-hires.png)
 |
 [Medium-res PNG](Poster-medres.png)
 |
 [Low-res PNG](Poster-lowres.png)\
 Dark background:
-[Poster PDF](DarkPoster.pdf)
-|
-[Brochure PDF](DarkBrochure.pdf)
-|
 [High-resolution PNG](DarkPoster-hires.png)
 |
 [Medium-res PNG](DarkPoster-medres.png)
