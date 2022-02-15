@@ -6,6 +6,7 @@ Every product, feature and service in the Google Cloud family described in <=4 w
 Check out the *NEW* [interactive version of the cheat sheet](https://goo.gle/GCdevelopercheatsheet) <img border="1" valign="middle" src="Map&list.gif">
 
 Here are the downloadable versions as well: 
+
 White background:
 [High-resolution PNG](Poster-hires.png)
 |
@@ -18,9 +19,8 @@ Dark background:
 [Medium-res PNG](DarkPoster-medres.png)
 |
 [Low-res PNG](DarkPoster-lowres.png)
-<a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>\
-
 Desktop Wallpapers: [16:9 (iMac, etc.)](Wallpaper-16-9.png) | [16:10 (Macbook Pro)](Wallpaper-16-10.png) | [4:3 (Older computers)](Wallpaper-4-3.png) | [3:2 (Pixelbook)](Wallpaper-3-2.png)
+<a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>\
 
 Text descriptions with links are below
 
