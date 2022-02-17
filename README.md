@@ -276,6 +276,7 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
 * **Cloud Deployment Manager**: Templated infrastructure deployment [<sup>:link:</sup>](https://cloud.google.com/deployment-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deployment-manager/docs/)
 * **Cloud Mobile App**: iOS/Android Google Cloud manager app [<sup>:link:</sup>](https://cloud.google.com/console-app/)
 * **Private Catalog**: Internal Solutions Catalog [<sup>:link:</sup>](https://cloud.google.com/private-catalog/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/private-catalog/docs/)
+* **Carbon Footprint**: Report and reduce carbon emissions [<sup>:link:</sup>](https://cloud.google.com/carbon-footprint) [<sup>:page_facing_up:</sup>](https://cloud.google.com/carbon-footprint/docs)
 
 
 ### Developer Tools  
