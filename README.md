@@ -1,31 +1,28 @@
 
 
 # The Google Cloud Developer's Cheat Sheet
-Each product in the Google Cloud family described in <=4 words (with liberal use of hyphens and slashes :smirk:)\
-by the Google Developer Relations Team\
-<a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>\
+
+Each product, feature and service in the Google Cloud family described in <=4 words (with liberal use of hyphens and slashes :smirk:) by the Google Developer Relations Team
+
+Check out the *NEW* [interactive version of the cheat sheet](https://goo.gle/GCdevelopercheatsheet) <img border="1" valign="middle" src="Map&list.gif">
+
+Here are the downloadable versions as well: 
+
 White background:
-[Poster PDF](Poster.pdf)
-|
-[Brochure PDF](Brochure.pdf)
-|
 [High-resolution PNG](Poster-hires.png)
 |
 [Medium-res PNG](Poster-medres.png)
 |
 [Low-res PNG](Poster-lowres.png)\
 Dark background:
-[Poster PDF](DarkPoster.pdf)
-|
-[Brochure PDF](DarkBrochure.pdf)
-|
 [High-resolution PNG](DarkPoster-hires.png)
 |
 [Medium-res PNG](DarkPoster-medres.png)
 |
 [Low-res PNG](DarkPoster-lowres.png)
+Desktop Wallpapers: [16:9 (iMac, etc.)](Wallpaper-16-9.png) | [16:10 (Macbook Pro)](Wallpaper-16-10.png) | [4:3 (Older computers)](Wallpaper-4-3.png) | [3:2 (Pixelbook)](Wallpaper-3-2.png)\
 
-Desktop Wallpapers: [16:9 (iMac, etc.)](Wallpaper-16-9.png) | [16:10 (Macbook Pro)](Wallpaper-16-10.png) | [4:3 (Older computers)](Wallpaper-4-3.png) | [3:2 (Pixelbook)](Wallpaper-3-2.png)
+<a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>
 
 Text descriptions with links are below
 
@@ -39,7 +36,7 @@ Fun flashback - [here's the list of products in 2014](https://web.archive.org/we
 
 Many of these products have a [free tier](https://cloud.google.com/free/). There is also a [free trial](https://console.cloud.google.com/freetrial) that will enable you try almost everything.
 
-Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchnote) to provide you a one pager visual overview of what each of these products are and how you can use them.
+Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/gcpsketchnote) to provide you a one pager visual overview of what each of these products are and how you can use them.
 
 ----------------------------
 # All Products
@@ -53,7 +50,7 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **App Engine**: Managed app platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) 
 [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
 * **Cloud Run**: Serverless for containerized applications [<sup>:link:</sup>](https://cloud.google.com/run/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/)
-* **Kubernetes Engine (GKE)**: Managed Kubernetes/containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
+* **Google Kubernetes Engine (GKE)**: Managed Kubernetes/containers [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/)
 * **Compute Engine**: VMs, GPUs, TPUs, Disks [<sup>:link:</sup>](https://cloud.google.com/compute/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/)
 * **Bare Metal Solution**: Hardware for specialized workloads [<sup>:link:</sup>](https://cloud.google.com/bare-metal) 
 * **Preemptible VMs**: Short-lived compute instances [<sup>:link:</sup>](https://cloud.google.com/preemptible-vms) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/instances/preemptible)
@@ -71,55 +68,55 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 ### Database 
   
 * **Cloud Bigtable**: Petabyte-scale, low-latency, non-relational [<sup>:link:</sup>](https://cloud.google.com/bigtable/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigtable/docs/)
-* **Cloud Firestore**: Serverless NoSQL document DB [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
+* **Cloud Firestore**: Serverless NoSQL document database [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
 * **Cloud Memorystore**: Managed Redis and Memcached [<sup>:link:</sup>](https://cloud.google.com/memorystore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/memorystore/docs/)
-* **Cloud Spanner**: Horizontally scalable relational DB [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
+* **Cloud Spanner**: Horizontally scalable relational database [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
 * **Cloud SQL**: Managed MySQL, PostgreSQL, SQL Server [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
 * **Database Migration Service**: Migrate to Cloud SQL [<sup>:link:</sup>](https://cloud.google.com/database-migration) [<sup>:page_facing_up:</sup>](https://cloud.google.com/database-migration/docs)
 * **Cloud SQL Insights**: SQL Inspector [<sup>:link:</sup>](https://cloud.google.com/sql/docs/postgres/insights-overview) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/postgres/using-insights)
   
 ### Data Analytics 
   
-* **BigQuery**: Data warehouse/analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
+* **BigQuery**: Data warehouse and analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
 * **BigQuery BI Engine**: In-memory analytics engine [<sup>:page_facing_up:</sup>](https://cloud.google.com/bi-engine/docs/)
 * **BigQuery ML**: BigQuery model training/serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery-ml/docs/)
 * **BigQuery GIS**: BigQuery geospatial functions/support [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/gis)
-* **BigQuery DTS**: Automated data ingestion service [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery-transfer/docs)
+* **BigQuery Data Transfer Service**: Automated data ingestion service [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery-transfer/docs)
 * **Connected Sheets**: Spreadsheet interface for (big)data [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/connected-sheets)
 * **Cloud Composer**: Managed workflow orchestration service [<sup>:link:</sup>](https://cloud.google.com/composer/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/composer/docs/)
-* **Data Fusion**: Graphically manage data pipelines [<sup>:link:</sup>](https://cloud.google.com/data-fusion/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-fusion/docs/)
+* **Cloud Data Fusion**: Graphically manage data pipelines [<sup>:link:</sup>](https://cloud.google.com/data-fusion/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-fusion/docs/)
 * **Dataflow**: Stream/batch data processing [<sup>:link:</sup>](https://cloud.google.com/dataflow/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataflow/docs/)
 * **Dataprep by Trifacta**: Visual data wrangling [<sup>:link:</sup>](https://cloud.google.com/dataprep/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataprep/docs/)
 * **Dataproc**: Managed Spark and Hadoop [<sup>:link:</sup>](https://cloud.google.com/dataproc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dataproc/docs/)
 * **Datastream**: Change data capture/replication service [<sup>:link:</sup>](https://cloud.google.com/datastream) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datastream/docs)
 * **Pub/Sub**: Global real-time messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs/)
 * **Data Catalog**: Metadata management service  [<sup>:link:</sup>](https://cloud.google.com/data-catalog/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-catalog/docs/)
-* **Data Studio**: Collaborative data exploration/dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
-* **Looker**: Enterprise BI and Analytics [<sup>:link:</sup>](https://cloud.google.com/looker)
-* **Public Datasets**: Hosted data in BigQuery/GCS [<sup>:page_facing_up:</sup>](https://cloud.google.com/public-datasets)
+* **Google Data Studio**: Collaborative data exploration/dashboarding [<sup>:link:</sup>](https://datastudio.google.com/overview) [<sup>:page_facing_up:</sup>](https://datastudio.google.com/overviewdocs/)
+* **Looker**: Enterprise BI and analytics [<sup>:link:</sup>](https://cloud.google.com/looker)
+* **Public Datasets**: Hosted data in BigQuery[<sup>:page_facing_up:</sup>](https://cloud.google.com/public-datasets)
 
 
-### Hybrid and Multi-cloud
+### Hybrid and multi-cloud
 * **Anthos**: Enterprise hybrid/multi-cloud platform [<sup>:link:</sup>](https://cloud.google.com/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/docs/)
-* **Anthos Clusters**: Hybrid/on-prem Kubernetes Engine [<sup>:link:</sup>](https://cloud.google.com/anthos/gke) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/gke/docs/on-prem/)
+* **Anthos clusters**: Hybrid/on-premises GKE [<sup>:link:</sup>](https://cloud.google.com/anthos/gke) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos/gke/docs/on-prem/)
 * **Anthos Config Management**:Policy and security automation [<sup>:link:</sup>](https://cloud.google.com/anthos/config-management) [<sup>:page_facing_up:</sup>](https://cloud.google.com/anthos-config-management/docs)
 * **Anthos Service Mesh**: Managed service mesh (Istio) [<sup>:link:</sup>](https://cloud.google.com/anthos/service-mesh) [<sup>:page_facing_up:</sup>](https://cloud.google.com/service-mesh/docs)
 * **Cloud Run for Anthos**: Serverless development for Anthos [<sup>:link:</sup>](https://cloud.google.com/anthos/run) [<sup>:page_facing_up:</sup>](https://cloud.google.com/run/docs/quickstarts/prebuilt-deploy-gke)
 * **Google Cloud Marketplace for Anthos**: Pre-configured containerized apps [<sup>:link:</sup>](https://cloud.google.com/kubernetes-applications) [<sup>:page_facing_up:</sup>](https://cloud.google.com/marketplace/docs/kubernetes-apps)
-* **Migrate for Anthos**: Migrate VMs to Kubernetes Engine [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
-* **Operations**: Monitoring, logging, troubleshooting [<sup>:link:</sup>](https://cloud.google.com/products/operations) [<sup>:page_facing_up:</sup>](https://cloud.google.com/stackdriver/docs)
+* **Migrate for Anthos and GKE**: Migrate VMs to GKE [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
+* **Google Cloud's operations suite**: Monitoring, logging, troubleshooting [<sup>:link:</sup>](https://cloud.google.com/products/operations) [<sup>:page_facing_up:</sup>](https://cloud.google.com/stackdriver/docs)
 * **Traffic Director**: Service mesh traffic management [<sup>:link:</sup>](https://cloud.google.com/traffic-director/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/traffic-director/docs/)
 * **Apigee API Management**: API management, development, security [<sup>:link:</sup>](https://cloud.google.com/apigee)
 
 
-### AI/ML
+### AI and ML
 
 * **Vertex AI**: Managed platform for ML [<sup>:link:</sup>](https://cloud.google.com/ai-platform/) 
 * **AutoML**: Custom low-code models [<sup>:page_facing_up:</sup>](https://cloud.google.com/vertex-ai/docs/training/training)
 * **Vertex AI Data Labeling**: Data labeling by humans [<sup>:page_facing_up:</sup>](https://cloud.google.com/data-labeling/docs/)
-* **Deep Learning VM Images (DLVM)**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
+* **Deep Learning VM Images**: Preconfigured VMs for deep learning [<sup>:link:</sup>](https://cloud.google.com/deep-learning-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deep-learning-vm/docs/)
 * **Vertex AI Workbench**:Jupyter-based environment for Data Science  [<sup>:link:</sup>](https://cloud.google.com/vertex-ai-workbench)  [<sup>:page_facing_up:</sup>](https://cloud.google.com/vertex-ai/docs/workbench)
-* **Vertex AI Deep Learning Containers**: Preconfigured containers for deep learning [<sup>:link:</sup>](https://cloud.google.com/ai-platform/deep-learning-containers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/deep-learning-containers/docs/)
+* **Deep Learning Containers**: Preconfigured containers for deep learning [<sup>:link:</sup>](https://cloud.google.com/ai-platform/deep-learning-containers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/deep-learning-containers/docs/)
 * **Vertex AI Matching Engine**: Vector similarity searches [<sup>:link:</sup>](https://cloud.google.com/vertex-ai/docs/matching-engine)[<sup>:page_facing_up:</sup>](https://cloud.google.com/vertex-ai/docs/matching-engine)
 * **Vertex AI Pipelines**: Hosted ML workflows[<sup>:link:</sup>](https://cloud.google.com/ai-platform/pipelines/)
 * **Vertex AI Predictions**: Autoscaled model serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/ai-platform/prediction/docs/overview)
@@ -131,13 +128,13 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Vertex AI Model Monitoring**: Monitor models for skew/drift [<sup>:link:</sup>](https://cloud.google.com/vertex-ai/docs/model-monitoring) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vertex-ai/docs/model-monitoring/overview)
 * **Vertex AI Tensorboard**: Managed TensorBoard for ML-experiment Visualization [<sup>:link:</sup>](https://cloud.google.com/vertex-ai/docs/experiments) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vertex-ai/docs/experiments/tensorboard-overview)
 * **Vertex AI Vizier**: black-box hyperparameter tuning [<sup>:link:</sup>](https://cloud.google.com/vertex-ai/docs/vizier/overview) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vertex-ai/docs/vizier)
-* **Cloud Speech-To-Text API**: Convert audio to text [<sup>:link:</sup>](https://cloud.google.com/speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/speech/docs/)
-* **Cloud Talent Solutions API**: Job search with ML [<sup>:link:</sup>](https://cloud.google.com/job-discovery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/job-discovery/docs/)
-* **Cloud Text-To-Speech API**: Convert text to audio [<sup>:link:</sup>](https://cloud.google.com/text-to-speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/text-to-speech/docs/)
+* **Speech-To-Text**: Convert audio to text [<sup>:link:</sup>](https://cloud.google.com/speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/speech/docs/)
+* **Talent Solutions**: Job search with ML [<sup>:link:</sup>](https://cloud.google.com/job-discovery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/job-discovery/docs/)
+* **Text-To-Speech**: Convert text to audio [<sup>:link:</sup>](https://cloud.google.com/text-to-speech/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/text-to-speech/docs/)
 * **Cloud TPU**: Hardware acceleration for ML [<sup>:link:</sup>](https://cloud.google.com/tpu/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tpu/docs/)
-* **Cloud Translation API**: Language detection and translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
+* **Cloud Translation**: Language detection and translation [<sup>:link:</sup>](https://cloud.google.com/translate/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/translate/docs/)
 * **Cloud Video Intelligence API**: Scene-level video annotation [<sup>:link:</sup>](https://cloud.google.com/video-intelligence/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/video-intelligence/docs/)
-* **Cloud Vision API**: Image recognition and classification [<sup>:link:</sup>](https://cloud.google.com/vision/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/docs/)
+* **Cloud Vision**: Image recognition and classification [<sup>:link:</sup>](https://cloud.google.com/vision/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vision/docs/)
 * **Contact Center AI**: AI in your contact center[<sup>:link:</sup>](https://cloud.google.com/solutions/contact-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/solutions/contact-center/)
 * **Dialogflow**: Create conversational interfaces [<sup>:link:</sup>](https://cloud.google.com/dialogflow-enterprise/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dialogflow-enterprise/docs/)
 * **Document AI**: Analyze, classify, search documents [<sup>:link:</sup>](https://cloud.google.com/solutions/document-understanding/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/document-understanding/docs/)
@@ -147,20 +144,20 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 ### Networking 
   
 * **Carrier Peering**: Peer through a carrier [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)
-* **Direct Peering**: Peer with GCP [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/direct-peering)
+* **Direct Peering**: Peer with Google Cloud [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/how-to/direct-peering)
 * **Dedicated Interconnect**: Dedicated private network connection [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/details/dedicated)
 * **Partner Interconnect**: Connect on-prem network to VPC [<sup>:page_facing_up:</sup>](https://cloud.google.com/interconnect/docs/concepts/partner-overview)
-* **Cloud Armor**: DDoS protection and WAF [<sup>:link:</sup>](https://cloud.google.com/armor/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/armor/docs/)
+* **Google Cloud Armor**: DDoS protection and WAF [<sup>:link:</sup>](https://cloud.google.com/armor/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/armor/docs/)
 * **Cloud CDN**: Content delivery network [<sup>:link:</sup>](https://cloud.google.com/cdn/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cdn/docs/)
 * **Cloud DNS**: Programmable DNS serving [<sup>:link:</sup>](https://cloud.google.com/dns/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dns/docs/)
 * **Cloud Load Balancing**: Multi-region load distribution/balancing [<sup>:link:</sup>](https://cloud.google.com/load-balancing/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/load-balancing/)
 * **Cloud NAT**: Network address translation service [<sup>:page_facing_up:</sup>](https://cloud.google.com/nat/docs/overview/)
 * **Cloud Router**: VPC/on-prem network route exchange (BGP) [<sup>:page_facing_up:</sup>](https://cloud.google.com/router/docs/)
-* **Cloud VPN (HA)**: VPN (Virtual private network connection) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/vpn/overview)
-* **Network Service Tiers**: Price vs performance tiering [<sup>:link:</sup>](https://cloud.google.com/network-tiers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-tiers/docs/)
+* **Cloud VPN**: Virtual private network connection[<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/vpn/overview)
+* **Network Service Tiers**: Price versus performance tiering [<sup>:link:</sup>](https://cloud.google.com/network-tiers/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-tiers/docs/)
 * **Network Telemetry**: Network telemetry service [<sup>:link:</sup>](https://cloud.google.com/network-telemetry/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/using-flow-logs/)
 * **Traffic Director**: Service mesh traffic management [<sup>:link:</sup>](https://cloud.google.com/traffic-director/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/traffic-director/docs/)
-* **Google Cloud Service Mesh**: Service-aware network management [<sup>:link:</sup>](https://cloud.google.com/service-mesh/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
+* **Anthos Service Mesh**: Service-aware network management [<sup>:link:</sup>](https://cloud.google.com/service-mesh/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)
 * **Virtual Private Cloud**: Software defined networking [<sup>:link:</sup>](https://cloud.google.com/vpc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/)
 * **Cloud Domains**: Register, transfer, manager domains [<sup>:link:</sup>](https://cloud.google.com/domains) [<sup>:page_facing_up:</sup>](https://cloud.google.com/domains/docs/)
 * **VPC Service Controls**: Security perimeters for API-based services [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/)
@@ -173,7 +170,7 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Network Connectivity Center**: Connect VPC & On-prem [<sup>:link:</sup>](https://cloud.google.com/network-connectivity-center)
 [<sup>:page_facing_up:</sup>](https://cloud.google.com/network-connectivity/docs/network-connectivity-center)
 * **Packet Mirroring**: Monitor/analyze instance traffic [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc/docs/packet-mirroring)
-* **Cloud IDS**: Detects Network based threats [<sup>:link:</sup>](https://cloud.google.com/intrusion-detection-system)
+* **Cloud IDS**: Detects network based threats [<sup>:link:</sup>](https://cloud.google.com/intrusion-detection-system)
 [<sup>:page_facing_up:</sup>](https://cloud.google.com/intrusion-detection-system/docs)
  
 
@@ -184,19 +181,19 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Binary Authorization**: Kubernetes deploy-time security [<sup>:link:</sup>](https://cloud.google.com/binary-authorization/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/binary-authorization/docs/)
 * **Certificate Authority Service**: Managed private CAs [<sup>:link:</sup>](https://cloud.google.com/certificate-authority-service) [<sup>:page_facing_up:</sup>](https://cloud.google.com/certificate-authority-service/docs)
 * **Cloud Asset Inventory**: All assets, one place [<sup>:link:</sup>](https://cloud.google.com/asset-inventory) [<sup>:page_facing_up:</sup>](https://cloud.google.com/asset-inventory/docs/overview)
-* **Cloud Audit Logs**: Audit trails for GCP [<sup>:link:</sup>](https://cloud.google.com/audit-logs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/)
-* **Cloud DLP**: Classify and redact sensitive data [<sup>:link:</sup>](https://cloud.google.com/dlp/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dlp/docs/)
+* **Cloud Audit Logs**: Audit trails for Google Cloud [<sup>:link:</sup>](https://cloud.google.com/audit-logs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/logging/docs/audit/)
+* **Cloud Data Loss Prevention (DLP)**: Classify and redact sensitive data [<sup>:link:</sup>](https://cloud.google.com/dlp/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/dlp/docs/)
 * **Cloud HSM**: Hardware security module service [<sup>:link:</sup>](https://cloud.google.com/hsm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/hsm/)
-* **Cloud EKM**: External keys you control [<sup>:link:</sup>](https://cloud.google.com/ekm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/ekm/)
+* **Cloud External Key Manager (EKM)**: External keys you control [<sup>:link:</sup>](https://cloud.google.com/ekm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/ekm/)
 * **Cloud IAM**: Resource access control [<sup>:link:</sup>](https://cloud.google.com/iam/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iam/docs/)
 * **Cloud Identity**: Manage users, devices & apps [<sup>:link:</sup>](https://cloud.google.com/identity/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/identity/solutions/overview/)
 * **Cloud Identity-Aware Proxy**: Identity-based app access [<sup>:link:</sup>](https://cloud.google.com/iap/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/)
-* **Cloud KMS**: Hosted key management service [<sup>:link:</sup>](https://cloud.google.com/kms/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/)
-* **Cloud Resource Manager**: Cloud project metadata management [<sup>:link:</sup>](https://cloud.google.com/resource-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/resource-manager/docs/)
+* **Cloud Key Management Service**: Hosted key management service [<sup>:link:</sup>](https://cloud.google.com/kms/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kms/docs/)
+* **Resource Manager**: Cloud project metadata management [<sup>:link:</sup>](https://cloud.google.com/resource-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/resource-manager/docs/)
 * **Security Command Center**: Security management and data risk platform [<sup>:link:</sup>](https://cloud.google.com/security-command-center/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-command-center/docs/)
-* **Cloud Security Scanner**: App engine security scanner [<sup>:link:</sup>](https://cloud.google.com/security-scanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-scanner/docs/)
+* **Web Security Scanner**: App engine security scanner [<sup>:link:</sup>](https://cloud.google.com/security-scanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-scanner/docs/)
 * **Confidential Computing**: Encrypt data in-use [<sup>:link:</sup>](https://cloud.google.com/confidential-computing) [<sup>:page_facing_up:</sup>](https://cloud.google.com/confidential-computing/docs)
-* **Context-aware Access**: End-user attribute-based access control [<sup>:link:</sup>](https://cloud.google.com/context-aware-access/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto/)
+* **Access Context Manager**: End-user attribute-based access control [<sup>:link:</sup>](https://cloud.google.com/context-aware-access/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto/)
 * **Event Threat Detection**: Scans for suspicious activity [<sup>:link:</sup>](https://cloud.google.com/event-threat-detection/) 
 * **Managed Service for Microsoft Active Directory**: Managed Microsoft Active Directory  [<sup>:link:</sup>](https://cloud.google.com/managed-microsoft-ad/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/managed-microsoft-ad/docs/)
 * **Secret Manager**: Store and manage secrets [<sup>:link:</sup>](https://cloud.google.com/secret-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/secret-manager/docs/)
@@ -205,9 +202,9 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Titan Security Key**: Two-factor authentication (2FA) device [<sup>:link:</sup>](https://cloud.google.com/titan-security-key/)
 * **VPC Service Controls**: VPC data constraints [<sup>:link:</sup>](https://cloud.google.com/vpc-service-controls/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vpc-service-controls/docs/)
 * **Chronicle**: Find threats from security telemetry  [<sup>:link:</sup>](https://chronicle.security/products/platform/) 
-* **VirusTotal**: Research/hunt for Malware  [<sup>:link:</sup>](https://chronicle.security/products/virustotal/) 
+* **VirusTotal**: Research/hunt for malware  [<sup>:link:</sup>](https://chronicle.security/products/virustotal/) 
 * **Risk Manager**: Evaluate organization’s security posture  [<sup>:link:</sup>](https://cloud.google.com/risk-manager/docs) 
-* **reCPATCHA Enterprise**: Protection against bot/spam/abuse [<sup>:link:</sup>](https://cloud.google.com/recaptcha-enterprise) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recaptcha-enterprise/docs/)
+* **reCAPTCHA Enterprise**: Protection against bot/spam/abuse [<sup>:link:</sup>](https://cloud.google.com/recaptcha-enterprise) [<sup>:page_facing_up:</sup>](https://cloud.google.com/recaptcha-enterprise/docs/)
 * **BeyondCorp Enterprise**: Zero trust secure access [<sup>:link:</sup>](https://cloud.google.com/beyondcorp-enterprise) [<sup>:page_facing_up:</sup>](https://cloud.google.com/beyondcorp-enterprise/docs)
 * **Access Context Manager**: Fine-grained, attribute based access-control [<sup>:page_facing_up:</sup>](https://cloud.google.com/access-context-manager/docs)
 * **Web Security Scanner**: Identifies  web-app security vulnerabilities [<sup>:page_facing_up:</sup>](https://cloud.google.com/security-command-center/docs/concepts-web-security-scanner-overview)
@@ -235,7 +232,7 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Eventarc**: Event-driven Cloud Run services [<sup>:link:</sup>](https://cloud.google.com/eventarc/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/eventarc/docs/)
 * **Cloud Scheduler**: Managed cron job service [<sup>:link:</sup>](https://cloud.google.com/scheduler/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/scheduler/docs/)
 * **Cloud Tasks**: Asynchronous task execution [<sup>:link:</sup>](https://cloud.google.com/tasks/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/tasks/docs/)
-* **Cloud Workflows**: HTTP services orchestration [<sup>:link:</sup>](https://cloud.google.com/workflows/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/workflows/docs/)
+* **Workflows**: HTTP services orchestration [<sup>:link:</sup>](https://cloud.google.com/workflows/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/workflows/docs/)
 * **Pub/Sub**: Global real-time messaging [<sup>:link:</sup>](https://cloud.google.com/pubsub/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/pubsub/docs/)
 
 
@@ -259,8 +256,8 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Google Cloud Game Servers**: Orchestrate Agones clusters [<sup>:link:</sup>](https://cloud.google.com/game-servers)
 
 ### Healthcare
-* **Cloud Healthcare API**: Healthcare system GCP interoperability [<sup>:link:</sup>](https://cloud.google.com/healthcare-api/)
-* **Apigee Healthcare APIx**: Healthcare system GCP interoperability [<sup>:link:</sup>](https://cloud.google.com/solutions/apigee-health-apix)
+* **Cloud Healthcare API**: Healthcare system Google Cloud interoperability [<sup>:link:</sup>](https://cloud.google.com/healthcare-api/)
+* **Apigee Healthcare APIx**: Healthcare system Google Cloud interoperability [<sup>:link:</sup>](https://cloud.google.com/solutions/apigee-health-apix)
 * **Healthcare Natural Language AI**: Real-time insights from media-text [<sup>:link:</sup>](https://cloud.google.com/healthcare-api/docs/how-tos/nlp)
 * *Cloud Life Sciences**: Manage, process, transform biomedical-data [<sup>:link:</sup>](https://cloud.google.com/life-sciences)[<sup>:page_facing_up:</sup>](https://cloud.google.com/life-sciences/docs)
 
@@ -274,24 +271,24 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
  ### Management Tools
 * **VM Manager**: Manage OS VM Fleets [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/vm-manager)
 * **Cloud APIs**: APIs for cloud services [<sup>:link:</sup>](https://cloud.google.com/apis/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/apis/docs/)
-* **Cloud Billing API**: Programmatically manage GCP billing [<sup>:page_facing_up:</sup>](https://cloud.google.com/billing/docs/)
+* **Cloud Billing API**: Programmatically manage Google Cloud billing [<sup>:page_facing_up:</sup>](https://cloud.google.com/billing/docs/)
 * **Cloud Billing**: Billing and cost management tools [<sup>:link:</sup>](https://cloud.google.com/billing/docs/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/billing/docs/docs/)
 * **Cloud Console**: Web-based management console [<sup>:link:</sup>](https://cloud.google.com/cloud-console/)
 * **Cloud Deployment Manager**: Templated infrastructure deployment [<sup>:link:</sup>](https://cloud.google.com/deployment-manager/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deployment-manager/docs/)
-* **Cloud Mobile App**: iOS/Android GCP manager app [<sup>:link:</sup>](https://cloud.google.com/console-app/)
+* **Cloud Mobile App**: iOS/Android Google Cloud manager app [<sup>:link:</sup>](https://cloud.google.com/console-app/)
 * **Private Catalog**: Internal Solutions Catalog [<sup>:link:</sup>](https://cloud.google.com/private-catalog/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/private-catalog/docs/)
+* **Carbon Footprint**: Report and reduce carbon emissions [<sup>:link:</sup>](https://cloud.google.com/carbon-footprint) [<sup>:page_facing_up:</sup>](https://cloud.google.com/carbon-footprint/docs)
 
 
 ### Developer Tools  
   
-* **Cloud Code for IntelliJ**: IntelliJ GCP tools [<sup>:link:</sup>](https://cloud.google.com/intellij/)
-* **Cloud Code for VS Code**: VS Code GCP tools [<sup>:link:</sup>](https://cloud.google.com/code/docs/vscode/)
+* **Cloud Code for IntelliJ**: IntelliJ Google Cloud tools [<sup>:link:</sup>](https://cloud.google.com/intellij/)
+* **Cloud Code for VS Code**: VS Code Google Cloud tools [<sup>:link:</sup>](https://cloud.google.com/code/docs/vscode/)
 * **Cloud Code**: Cloud native IDE extensions [<sup>:link:</sup>](https://cloud.google.com/code/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/code/docs/)
-* **Cloud Tools for Eclipse**: Eclipse GCP tools [<sup>:link:</sup>](https://cloud.google.com/eclipse/docs/)
-* **Cloud Tools for Visual Studio**: Visual Studio GCP tools [<sup>:link:</sup>](https://cloud.google.com/visual-studio/)
-* **Gradle App Engine Plugin**: Gradle App Engine plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-gradle-plugin)
-* **Maven App Engine Plugin**: Maven App Engine plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-maven-plugin)
-* **Cloud SDK**: CLI for GCP [<sup>:link:</sup>](https://cloud.google.com/sdk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sdk/docs/)
+* **Cloud Tools for Eclipse**: Eclipse Google Cloud tools [<sup>:link:</sup>](https://cloud.google.com/eclipse/docs/)
+* **Cloud Tools for Visual Studio**: Visual Studio Google Cloud tools [<sup>:link:</sup>](https://cloud.google.com/visual-studio/)
+* **App Engine Plugins**: Gradle/Maven App Engine plugin [<sup>:link:</sup>](https://github.com/GoogleCloudPlatform/app-gradle-plugin)
+* **Cloud SDK**: CLI for Google Cloud [<sup>:link:</sup>](https://cloud.google.com/sdk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sdk/docs/)
 * **Cloud Shell**: Browser-based terminal/CLI [<sup>:link:</sup>](https://cloud.google.com/shell/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/shell/docs/)
 
 
@@ -301,7 +298,7 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Cloud Data Transfer**: Data migration tools/CLI [<sup>:link:</sup>](https://cloud.google.com/products/data-transfer/)
 * **Google Transfer Appliance**: Rentable data transport box [<sup>:link:</sup>](https://cloud.google.com/transfer-appliance/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/transfer-appliance/docs/)
 * **Storage Transfer Service**: Online/on-premises data transfer [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage-transfer-service/)
-* **Migrate for Anthos**: Migrate VMs to containers [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
+* **Migrate for Anthos and GKE**: Migrate VMs to GKE [<sup>:link:</sup>](https://cloud.google.com/migrate/anthos/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/migrate/anthos/docs/getting-started)
 * **Migrate for Compute Engine**: Compute Engine migration tools [<sup>:link:</sup>](https://cloud.google.com/migrate/compute-engine/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/velostrata/docs/)
 * **Migrate from Amazon Redshift**: Migrate from Redshift to BigQuery [<sup>:link:</sup>](https://cloud.google.com/bigquery/docs/redshift-migration) 
 * **Migrate from Teradata**: Migrate from Teradata to BigQuery [<sup>:link:</sup>](https://cloud.google.com/solutions/migration/td2bq/td-bq-migration-overview) 
@@ -380,11 +377,11 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 
 * **Google Cloud Home Page**: [<sup>:link:</sup>](https://cloud.google.com)
 * **Google Cloud Blog**: [<sup>:link:</sup>](https://cloud.google.com/blog)
-* **Google Cloud Platform Podcast**: [<sup>:link:</sup>](https://gcppodcast.com/)
+* **Google Cloud Platform Podcast**: [<sup>:link:</sup>](https://Google Cloudpodcast.com/)
 * **Kubernetes Podcast from Google**: [<sup>:link:</sup>](https://kubernetespodcast.com/)
 * **Google Cloud Reader**: [<sup>:link:</sup>](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2dvb2dsZS1jbG91ZC1yZWFkZXI=)
 * **Google Cloud Open Source**: [<sup>:link:</sup>](https://opensource.google/projects/list/cloud)
-* **GCP Medium Publication**: [<sup>:link:</sup>](https://medium.com/google-cloud)
+* **Google Cloud Medium Publication**: [<sup>:link:</sup>](https://medium.com/google-cloud)
 * **Apigee Blog**: [<sup>:link:</sup>](https://apigee.com/about/blog)
 * **Firebase Blog**: [<sup>:link:</sup>](https://firebase.googleblog.com)
 * **Google Workspace Developers Blog**: [<sup>:link:</sup>](https://gsuite-developers.googleblog.com)
@@ -402,7 +399,7 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
 * **DORA - Software & Delivery Research**: [<sup>:link:</sup>](https://cloud.google.com/devops)
 * **Cloud Security Podcast**: [<sup>:link:</sup>](https://cloud.withgoogle.com/cloudsecurity/podcast/)
-* **GCP Sketchnote**: [<sup>:link:</sup>](https://goo.gle/gcpsketchnote)
+* **Google Cloud Sketchnote**: [<sup>:link:</sup>](https://goo.gle/Google Cloudsketchnote)
 
 
 
@@ -417,8 +414,8 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Google Cloud Solutions Library**: [<sup>:link:</sup>](https://cloud.google.com/solutions/)
 * **Google Workspace Solutions Gallery**: [<sup>:link:</sup>](https://developers.google.com/gsuite/solutions)
 * **Google Cloud Support Hub**: [<sup>:link:</sup>](https://cloud.google.com/support-hub/)
-* **GCP Pricing**: [<sup>:link:</sup>](https://cloud.google.com/pricing/)
-* **GCP Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
+* **Google Cloud Pricing**: [<sup>:link:</sup>](https://cloud.google.com/pricing/)
+* **Google Cloud Pricing Calculator**: [<sup>:link:</sup>](https://cloud.google.com/products/calculator/)
 * **Qwiklabs Home Page**: [<sup>:link:</sup>](https://www.qwiklabs.com/)
 * **Codelabs Home Page**: [<sup>:link:</sup>](https://codelabs.developers.google.com/)
 * **YouTube Channels**:
@@ -440,7 +437,7 @@ Many of these products have a [visual GCP Sketchnote](https://goo.gle/gcpsketchn
 * **Networking Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/networking)
 * **Storage Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/storage)
 
-### GCP Foundational Open Source Projects
+### Google Cloud Foundational Open Source Projects
   
 * **Apache Beam**: Batch/streaming data processing [<sup>:link:</sup>](https://beam.apache.org/)
 * **Go**: High Concurrency Programming Language [<sup>:link:</sup>](https://golang.org/)
