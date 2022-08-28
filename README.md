@@ -68,7 +68,7 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
   
 * **Cloud Bigtable**: Petabyte-scale, low-latency, non-relational [<sup>:link:</sup>](https://cloud.google.com/bigtable/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigtable/docs/)
 * **Cloud Firestore**: Serverless NoSQL document database [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
-* **Cloud DataStore**: Datastore is a highly scalable NoSQL database for your applications [<sup>:link:</sup>](https://cloud.google.com/datastore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datastore/docs/)
+* **Cloud DataStore**: Datastore is a highly scalable NoSQL database for applications [<sup>:link:</sup>](https://cloud.google.com/datastore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/datastore/docs/)
 * **Cloud Memorystore**: Managed Redis and Memcached [<sup>:link:</sup>](https://cloud.google.com/memorystore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/memorystore/docs/)
 * **Cloud Spanner**: Horizontally scalable relational database [<sup>:link:</sup>](https://cloud.google.com/spanner/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/spanner/docs/)
 * **Cloud SQL**: Managed MySQL, PostgreSQL, SQL Server [<sup>:link:</sup>](https://cloud.google.com/sql/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/)
