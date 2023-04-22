@@ -218,7 +218,7 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
 * **Cloud Trace**: App latency insights [<sup>:link:</sup>](https://cloud.google.com/trace/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/trace/docs/)  
  
  
-###DevOps CI/CD
+### DevOps CI/CD
 
 * **Cloud Build**: Continuous integration/delivery platform [<sup>:link:</sup>](https://cloud.google.com/cloud-build/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/cloud-build/docs/)
 * **Cloud Deploy**: Deployment pipeline for GKE [<sup>:link:</sup>](https://cloud.google.com/deploy) [<sup>:page_facing_up:</sup>](https://cloud.google.com/deploy/docs/)
