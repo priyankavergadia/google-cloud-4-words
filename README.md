@@ -340,7 +340,7 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
 * **Drive API**: Read and write files [<sup>:link:</sup>](https://developers.google.com/drive/)
 * **Drive Picker**: Drive file selection widget [<sup>:link:</sup>](https://developers.google.com/picker/)
 * **Email Markup**: Interactive email using schema.org [<sup>:link:</sup>](https://developers.google.com/gmail/markup/)
-* **Google Workspace Add-ons**:  Extend Google Workspace apps [<sup>:link:</sup>](https://developers.google.com/gsuite/add-ons)
+* **Google Workspace Add-owns**:  Extend Google Workspace apps [<sup>:link:</sup>](https://developers.google.com/gsuite/add-ons)
 * **Google Workspace Marketplace**: Storefront for integrated applications [<sup>:link:</sup>](https://developers.google.com/gsuite/marketplace/)
 * **Gmail API**: Enhance Gmail [<sup>:link:</sup>](https://developers.google.com/gmail/)
 * **Google Chats API**: Conversational bots in chat [<sup>:link:</sup>](https://developers.google.com/chat)
