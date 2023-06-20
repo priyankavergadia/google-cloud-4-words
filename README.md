@@ -56,6 +56,7 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
 * **Shielded VMs**: Hardened VMs [<sup>:link:</sup>](https://cloud.google.com/shielded-vm/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/security/shielded-cloud/shielded-vm/)
 * **Sole-tenant Nodes**: Dedicated physical servers [<sup>:link:</sup>](https://cloud.google.com/sole-tenant-nodes) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/nodes)
 * **VMware Engine**: VMware as a service [<sup>:link:</sup>](https://cloud.google.com/vmware-engine) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vmware-engine/docs)
+* **Batch**: Fully-managed batch service [<sup>:link:</sup>](https://cloud.google.com/batch) [<sup>:page_facing_up:</sup>](https://cloud.google.com/batch)
 
 ### Storage
   
