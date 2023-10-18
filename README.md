@@ -431,8 +431,8 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
   * **/r/firebase**: [<sup>:link:</sup>](https://www.reddit.com/r/firebase/)
   * **/r/GoogleAppsScript**: [<sup>:link:</sup>](https://www.reddit.com/r/GoogleAppsScript/)
 * **Big Data / Data Analytics Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/big-data)
-* **Compute Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/databases)
-* **Database Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/compute)
+* **Compute Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/compute)
+* **Database Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/databases)
 * **Networking Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/networking)
 * **Storage Product Comparisons**: [<sup>:link:</sup>](https://cloud.google.com/products/storage)
 
