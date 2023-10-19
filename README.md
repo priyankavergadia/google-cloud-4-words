@@ -376,9 +376,9 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
 
 * **Google Cloud Home Page**: [<sup>:link:</sup>](https://cloud.google.com)
 * **Google Cloud Blog**: [<sup>:link:</sup>](https://cloud.google.com/blog)
-* **Google Cloud Platform Podcast**: [<sup>:link:</sup>](https://Google Cloudpodcast.com/)
-* **Kubernetes Podcast from Google**: [<sup>:link:</sup>](https://kubernetespodcast.com/)
-* **Google Cloud Reader**: [<sup>:link:</sup>](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2dvb2dsZS1jbG91ZC1yZWFkZXI=)
+* **Google Cloud Platform Podcast**: [<sup>:link:</sup>](https://cloud.google.com/podcasts/gcp-podcast)
+* **Kubernetes Podcast**: [<sup>:link:</sup>](https://cloud.google.com/podcasts/kubernetespodcast)
+* **Google Cloud Reader Podcast**: [<sup>:link:</sup>](https://cloud.google.com/podcasts/cloud-reader)
 * **Google Cloud Open Source**: [<sup>:link:</sup>](https://opensource.google/projects/list/cloud)
 * **Google Cloud Medium Publication**: [<sup>:link:</sup>](https://medium.com/google-cloud)
 * **Apigee Blog**: [<sup>:link:</sup>](https://apigee.com/about/blog)
@@ -398,7 +398,7 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
 * **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
 * **DORA - Software & Delivery Research**: [<sup>:link:</sup>](https://cloud.google.com/devops)
 * **Cloud Security Podcast**: [<sup>:link:</sup>](https://cloud.withgoogle.com/cloudsecurity/podcast/)
-* **Google Cloud Sketchnote**: [<sup>:link:</sup>](https://goo.gle/Google Cloudsketchnote)
+* **Google Cloud Sketchnote**: [<sup>:link:</sup>](https://github.com/priyankavergadia/GCPSketchnote)
 
 
 
