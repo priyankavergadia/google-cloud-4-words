@@ -398,7 +398,7 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
 * **Regions and Network Map**: [<sup>:link:</sup>](https://cloud.google.com/about/locations)
 * **DORA - Software & Delivery Research**: [<sup>:link:</sup>](https://cloud.google.com/devops)
 * **Cloud Security Podcast**: [<sup>:link:</sup>](https://cloud.withgoogle.com/cloudsecurity/podcast/)
-* **Google Cloud Sketchnote**: [<sup>:link:</sup>](https://goo.gle/Google Cloudsketchnote)
+* **Google Cloud Sketchnote**: [<sup>:link:</sup>](https://github.com/priyankavergadia/GCPSketchnote)
 
 
 
