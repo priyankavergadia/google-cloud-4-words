@@ -63,6 +63,8 @@ Many of these products have a [visual Google Cloud Sketchnote](https://goo.gle/g
 * **Cloud Storage**: Multi-class multi-region object storage[<sup>:link:</sup>](https://cloud.google.com/storage/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
 * **Persistent Disk**: Block storage for VMs [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/)
 * **Local SSD**: VM locally attached SSDs [<sup>:link:</sup>](https://cloud.google.com/local-ssd) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/local-ssd)
+* **Backup and DR**: Managed backup and disaster recovery [<sup>:link:</sup>](https://cloud.google.com/backup-disaster-recovery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/backup-disaster-recovery/docs/)
+* **Backup for GKE**: Protection for workloads running in Google Kubernetes Engine [<sup>:link:</sup>](https://cloud.google.com/kubernetes-engine/docs/add-on/backup-for-gke/concepts/backup-for-gke/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/kubernetes-engine/docs/add-on/backup-for-gke/)
   
 ### Database 
   
